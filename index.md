@@ -13,6 +13,7 @@
 - **2026-05-15** — YouTube 분석: Hermes-Agent X Codex 설치 풀가이드 (Dante's Datalab) 추가
 - **2026-05-15** — YouTube 분석: 스레드 완전 자동 프로그램 코드 무료 공개 (투더제이 TTJ) 추가
 - **2026-05-15** — 금융시장 동향 통합 문서 (미국/한국/원자재) 추가
+- **2026-05-15** — 조선 현장 Cable 전장 혁신 설계 및 5% 절감 전략 분석 추가
 - **2026-05-10** — 볼트 하이어라키 정리 및 Antigravity-K 연동 수정
 - **2026-05-04** — Antigravity-K 에이전트 파이프라인 안정화 세션 지식 4건 추가
 
@@ -128,12 +129,21 @@
 ### 4. Entities (엔티티)
 *(인물, 프로젝트명, 기관 등 고유 명사 페이지들이 링크됩니다.)*
 
-### 5. Sources 요약 (소스)
+### 5. 조선해운 관련 지식 (조선/해운 분야)
+#### 📁 Topics
+- **Cable 전장 혁신 설계 (5% 절감 전략)**
+  - [[조선해운_Cable_전장_혁신_5%절감_전략.md]] — Support 혁신 설계, Cable 배선 자동화율 극대화, optimal 모델 개발, 절감액 산정(약 2,076만원/척)
+- **조선 설계 자동화 및 원가 절감 전략 (회의록)**
+  - [[조선_설계_자동화_원가절감_전략_회의록.md]]
+- **GTT LNG 인벤토리 기술 기업 분석**
+  - [[GTT_LNG_Inventory_Technology.md]]
+
+### 5.1 Sources 요약 (소스)
 *(원문 문서에 대한 핵심 요약 페이지들이 링크됩니다.)*
 
 ---
 
-### 5.5 YouTube Analysis (YouTube 콘텐츠 분석)
+### 5.2 YouTube Analysis (YouTube 콘텐츠 분석)
 #### 📁 주제별 분석
 - [Hermes-Agent X Codex 설치 풀가이드 #1](My_Wiki/Topics/YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md) — Hermes 설치·Slack 연동·Hostinger VPS 원클릭·대시보드 투어 (단테랩스, 2026-05-13, 7,268 views)
 - [스레드 완전 자동 프로그램 — 코드 무료 공개](My_Wiki/Topics/YouTube_Analysis_Threads_Automation_Open_Source_Code.md) — Node.js 기반 100% 오픈소스 자동화·CLI 기반 AI 연동·수익화 3가지 방식 (투더제이 TTJ, 2026-05-14, 1,237 views)
@@ -153,7 +163,8 @@
 ## 볼트 통계
 | **총 마크다운 파일**: 275건 (중복 35건 정리 완료)
 | **AI 가공 문서** (`pages/`): 4건
-| **My_Wiki 지식 체계**: 73건 (중복 제거 후)
-| **GitHub 레포 분석**: 15개 프로젝트, 160+건
-| **프로젝트 분석**: 1건 (Antigravity-K)
-| **최종 갱신**: 2026-05-15
+|| **My_Wiki 지식 체계**: 74건 (중복 제거 후)
+|| **조선해운 관련 지식**: 3건 (Cable 혁신설계, 조선설계자동화회의록, GTT)LNG)
+|| **GitHub 레포 분석**: 15개 프로젝트, 160+건
+|| **프로젝트 분석**: 1건 (Antigravity-K)
+|| **최종 갱신**: 2026-05-15
