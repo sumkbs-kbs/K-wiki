@@ -146,7 +146,8 @@
 ### 5.2 YouTube Analysis (YouTube 콘텐츠 분석)
 #### 📁 주제별 분석
 - [Hermes-Agent X Codex 설치 풀가이드 #1](My_Wiki/Topics/YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md) — Hermes 설치·Slack 연동·Hostinger VPS 원클릭·대시보드 투어 (단테랩스, 2026-05-13, 7,268 views)
-- [스레드 완전 자동 프로그램 — 코드 무료 공개](My_Wiki/Topics/YouTube_Analysis_Threads_Automation_Open_Source_Code.md) — Node.js 기반 100% 오픈소스 자동화·CLI 기반 AI 연동·수익화 3가지 방식 (투더제이 TTJ, 2026-05-14, 1,237 views)
+|- [스레드 완전 자동 프로그램 — 코드 무료 공개](My_Wiki/Topics/YouTube_Analysis_Threads_Automation_Open_Source_Code.md) — Node.js 기반 100% 오픈소스 자동화·CLI 기반 AI 연동·수익화 3가지 방식 (투더제이 TTJ, 2026-05-14, 1,237 views)
+- [Kimi K2.6 — 300개 AI 에이전트 단일 프롬프트 배포](My_Wiki/Topics/YouTube_Analysis_Kimi_K2.6_300_Agents.md) — Moonshot AI 1조 파라미터 오픈소스 모델, Agent Swarm 핵심 기능·Kimi Code·Vibe Coding·Agentic Slides·요금제 (David Alex, 2026-05-13, 6,392 views)
 
 ### 6. 프로젝트 분석 (Project Analysis)
 
