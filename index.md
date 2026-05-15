@@ -4,6 +4,7 @@
 새로운 지식이 추가될 때마다 아래의 목록이 갱신됩니다.
 
 ## 최근 변경 사항 (최신순)
+- **2026-05-15** — YouTube 분석: Hermes-Agent X Codex 설치 풀가이드 (Dante's Datalab) 추가
 - **2026-05-15** — 금융시장 동향 통합 문서 (미국/한국/원자재) 추가
 - **2026-05-10** — 볼트 하이어라키 정리 및 Antigravity-K 연동 수정
 - **2026-05-04** — Antigravity-K 에이전트 파이프라인 안정화 세션 지식 4건 추가
@@ -126,7 +127,12 @@
 *(원문 문서에 대한 핵심 요약 페이지들이 링크됩니다.)*
 
 ---
+|
+### 5.5 YouTube Analysis (YouTube 콘텐츠 분석)
+#### 📁 주제별 분석
+- [Hermes-Agent X Codex 설치 풀가이드 #1](My_Wiki/Topics/YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md) — Hermes 설치·Slack 연동·Hostinger VPS 원클릭·대시보드 투어 (단테랩스, 2026-05-13, 7,268 views)
 
+---
 ### 6. 프로젝트 분석 (Project Analysis)
 
 #### Antigravity-K 코드베이스 정밀 분석
