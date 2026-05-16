@@ -157,6 +157,12 @@
 ||- [스레드 완전 자동 프로그램 — 코드 무료 공개](My_Wiki/Topics/YouTube_Analysis_Threads_Automation_Open_Source_Code.md) — Node.js 기반 100% 오픈소스 자동화·CLI 기반 AI 연동·수익화 3가지 방식 (투더제이 TTJ, 2026-05-14, 1,237 views)
 ||- [GStack+GSD+Superpowers 조합 자율주행 AI 코딩](My_Wiki/Topics/YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md) — 컨텍스트 오염 대비 GStack 가상이사회+GSD 세션분할+Superpowers TDD+RalphLoop 오케스트레이션 (바퍼, 2026-05-16, 385 views)
 ||- [Kimi K2.6 — 300개 AI 에이전트 단일 프롬프트 배포](My_Wiki/Topics/YouTube_Analysis_Kimi_K2.6_300_Agents.md) — Moonshot AI 1조 파라미터 오픈소스 모델, Agent Swarm 핵심 기능·Kimi Code·Vibe Coding·Agentic Slides·요금제 (David Alex, 2026-05-13, 6,392 views)
+||- [클로이 3.5 업그레이드 및 에러 해결법](My_Wiki/Topics/YouTube_Analysis_ClownAI_3.5_Upgrade_ErrorHandling_20260516.md) — 클로이 3.5 버전업, 에러 대응 방법론, AI 도구 버전 관리 인사이트 (코앤삼, 2026-05-16)
+||- [AI Engineering 5분 학습 로드맵](My_Wiki/Topics/YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md) — AI 엔지니어링 학습 레이어 (Python→ML→DL→LLM→MLOps), 사전 지식 없는 접근법 (CodeHead, 2026-05-16)
+||- [오픈클로이 3.5 업그레이드 및 에러 해결법](My_Wiki/Topics/YouTube_Analysis_OpenClow_35_Upgrade_20260516.md) — 오픈클로이 주요 버전업, 업그레이드 리스크, 에러 대응 프로세스 (코앤삼 conanssam, 2026-05-16)
+### 5.4 Website Analysis (웹사이트 분석)
+#### 📁 분석 문서
+||- [Superpowers 사용기 — 스펙 먼저, 코드 나중에](My_Wiki/Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md) — GitHub 19만스타 Claude Code 플러그인. 2단계 검증 아키텍처, Visual Companion 목업 기능, 스펙 기반 워크플로우 (Product Makers Note, maily.so, 2026-05-13)
 
 ### 6. 프로젝트 분석 (Project Analysis)
 
