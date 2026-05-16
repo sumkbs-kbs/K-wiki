@@ -11,7 +11,8 @@
 ## 최근 변경 사항 (최신순)
 || **2026-05-16** — AI/LLM/Physical AI 기술 대시보드 신규 추가 (HuggingFace Blog, HN, TechCrunch 기반 OpenAI 거버넌스 위기, MoE/EMO 연구, IBM Granite 4.1, 휴머노이드 실증, BCI 센서 등)
 || **2026-05-16** — YouTube 분석: GStack+GSD+Superpowers 조합 자율주행 AI 코딩 (바퍼) 추가
-|| **2026-05-16** — 금융시장 동향 통합 문서 추가 (KOSPI 7,493급락, S&P 500 7,408, 나스닥 26,225)
+||| **2026-05-17** — 금융시장 동향 통합 문서 추가 (KOSPI 7,493급락, 다우 5만 돌파 후 조정, 금 $4,562, WTI $105.42급등)
+||| **2026-05-16** — 금융시장 동향 통합 문서 추가 (KOSPI 7,493급락, S&P 500 7,408, 나스닥 26,225)
 || **2026-05-17** — YouTube 분석: Anthropic 엔지니어가 Markdown 버린 5가지 이유 — Karpathy "이건 AI 진화 법칙" (AgentOS, Thariq/Anthropic + Karpathy HTML 출력 프레임워크) 추가
 |
 - **2026-05-15** — YouTube 분석: Hermes-Agent X Codex 설치 풀가이드 (Dante's Datalab) 추가
