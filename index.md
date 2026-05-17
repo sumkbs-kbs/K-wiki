@@ -17,7 +17,7 @@
 |
 - **2026-05-15** — YouTube 분석: Hermes-Agent X Codex 설치 풀가이드 (Dante's Datalab) 추가
 - **2026-05-15** — YouTube 분석: 스레드 완전 자동 프로그램 코드 무료 공개 (투더제이 TTJ) 추가
-- **2026-05-15** — 금융시장 동향 통합 문서 (미국/한국/원자재) 추가
+|||| **2026-05-18** — 금융시장 동향 통합 문서 추가 (KOSPI 7,493급락, 미국/한국 증시 연쇄 하락, 금 $4,562 고공)
 - **2026-05-15** — 조선 현장 Cable 전장 혁신 설계 및 5% 절감 전략 분석 추가
 - **2026-05-10** — 볼트 하이어라키 정리 및 Antigravity-K 연동 수정
 - **2026-05-04** — Antigravity-K 에이전트 파이프라인 안정화 세션 지식 4건 추가
@@ -106,9 +106,10 @@
 - [Earthing 접지와 어싱](My_Wiki/LLM-Wiki/전기_전자_엔지니어링/02_Earthing_접지와_어싱_완벽정리.md)
 - [Earthing과 Bonding 비교](My_Wiki/LLM-Wiki/전기_전자_엔지니어링/03_Earthing과_Bonding_비교.md)
 
-#### 📁 거시경제 및 투자 트렌드 (3건)
-- [금융시장 동향 (미국/한국/원자재)](My_Wiki/Topics/금융시장_동향_2026-05-15.md) — S&P500 7500선 돌파, KOSPI 8000 두드리기, AI 랠리 분석
-- [금융시장 동향 (미국/한국/원자재)](My_Wiki/Topics/금융시장_동향_2026-05-16.md) — KOSPI 7,493 급락, S&P 500 7,408, 나스닥 26,225, 금리 급등
+#### 📁 거시경제 및 투자 트렌드 (4건)
+- [금융시장 동향 (2026-05-18)](My_Wiki/Topics/금융시장_동향_2026-05-18.md) — KOSPI 7,493급락(-6.12%), S&P 500 7,408, 다우 49,526, 금 $4,562 고공, 미국/한국 증시 연쇄 하락
+- [금융시장 동향 (2026-05-17)](My_Wiki/Topics/금융시장_동향_2026-05-17.md) — S&P500 7,500선 돌파, KOSPI 8,000 두드리기, 다우 5만 돌파 후 조정국면, 금 $4,562, WTI $105.42 급등
+- [금융시장 동향 (2026-05-16)](My_Wiki/Topics/금융시장_동향_2026-05-16.md) — KOSPI 7,493급락, S&P 500 7,408, 나스닥 26,225
 - [호르무즈해협 지정학적 리스크와 투자](My_Wiki/LLM-Wiki/거시경제_및_투자_트렌드/01_호르무즈해협_지정학적_리스크와_투자.md)
 
 #### 📁 조선업계 트렌드 (1건)
@@ -163,9 +164,14 @@
 ||- [AI Engineering 5분 학습 로드맵](My_Wiki/Topics/YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md) — AI 엔지니어링 학습 레이어 (Python→ML→DL→LLM→MLOps), 사전 지식 없는 접근법 (CodeHead, 2026-05-16)
 |||- [오픈클로이 3.5 업그레이드 및 에러 해결법](/My_Wiki/Topics/YouTube_Analysis_OpenClow_35_Upgrade_20260516.md) — 오픈클로이 주요 버전업, 업그레이드 리스크, 에러 대응 프로세스 (코앤삼 conanssam, 2026-05-16)
 |||- [하네스 세팅 | 빈 프로젝트부터 직접 만들기](/My_Wiki/Topics/YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md) — Meta 시니어 엔지니어가 직접 설명하는 Claude Code 하네스 세팅 (실밸개발자, 41분, 2.8만회)
+||||| [Hermes를 실무 에이전트로 바꾸는 명령어들](pages/youtube-Hermes-실무-에이전트-명령어들.md) — `/status`, `/branch`, `/debug`, `/update` 등 핵심 슬래시 커맨드 + LLM Wiki, Obsidian, 리서치 자동화, 세션 resume/rollback (일하는 ai, 19분, 2.1k회)
+||||| [AI회사 교육총괄이 말한 AI 활용법](pages/AI회사-교육총괄-AI활용법-UjwaAF9X0qg.md) — 2022년형 '비서' 방식의 한계, 맥락(Context) 공유, AI 에이전트 활용 전략, 앤트로픽 교육 총괄 드류 벤트의 통찰 (돈되는 AI+SNS, 이든, 8분, 7.4k회)
 ### 5.4 Website Analysis
 #### 📁 분석 문서
 ||- [Superpowers 사용기 — 스펙 먼저, 코드 나중에](My_Wiki/Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md) — GitHub 19만스타 Claude Code 플러그인. 2단계 검증 아키텍처, Visual Companion 목업 기능, 스펙 기반 워크플로우 (Product Makers Note, maily.so, 2026-05-13)
+
+### 7. 포트폴리오 + 주가 분석 (2026-05-17 신규)
+|- [6개 계좌 포트폴리오 + 개별종목 분석 (삼성전자, SK하이닉스, 현대모비스, HD현대)](pages/portfolio-stock-analysis-20260517.md) — 미국ETF는 양호(+14~15%), 한국个股(한화에어로스페이스, 우리기술)는 대폭락(-11~20%). KOSPI 7,493급락(-6.12%), 반도체 selloff, VIX 18.43 상승
 
 ### 6. 프로젝트 분석 (Project Analysis)
 
@@ -184,6 +190,6 @@
 || **My_Wiki 지식 체계**: 297건 (Topics 55 / Projects 16 / Decisions 4 / Skills 2 + My_Wiki 루트 9)
 || **조선해운 관련 지식**: 9건 (IEC 60092 6개 + 조선설계자동화 + 조선해운Cable전장 + GTT)
 || **GitHub 레포 분석**: 15개 프로젝트 인덱스 + 11개 lock 파일 (정리 필요)
-|| **프로젝트 분석**: 1건 (Antigravity-K 정밀분석, 20260511)
+||| **프로젝트 분석**: 2건 (Antigravity-K 정밀分析的 2건, YouTube Hermes 명령어 가이드 1건)
 || **000-Inbox**: 0건 (모든 파일 Topics/로 분류 완료, 2026-05-16)
-|| **최종 갱신**: 2026-05-16
+||| **최종 업데이트**: 2026-05-17
