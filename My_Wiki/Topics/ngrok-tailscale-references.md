@@ -27,6 +27,8 @@ summary: "Mac에서 모바일 기기와 원격 접속하기 위한 ngrok, Tailsc
 | 6 | https://youtu.be/V5edeZKC8os |
 | 7 | https://youtu.be/WWdyzlPGkOc |
 | 8 | https://youtu.be/B_apzAPZH9s |
+| 9 | https://youtu.be/live/YhsLpDisKIc (라이브) |
+| 10 | https://youtu.be/c4ElCUnMA8E |
 
 ---
 
