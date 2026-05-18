@@ -1,118 +1,187 @@
-# Wiki Index
+# 🏛️ My_Wiki 리셉션 데스크
 
-## Last Updated: 2026-05-16
+> **새 AI 또는 새 세션이 오면 "무엇을 하려는데, 파일이 어디 있나?" → index.md 에 먼저 물어보세요.**
+> 이 파일은 모든 DOCS 문서의 위치·태그·관련성을 매핑하는 인포메이션 디스킹입니다.
 
-### My_Wiki/Topics/ (주제 지식 — 55개 파일)
-
-#### 📐 Marine Electrical Engineering (9개)
-- IEC 60092-101 General
-- IEC 60092-201 System Design
-- IEC 60092-301 Generators & Motors
-- IEC 60092-350 Cables
-- IEC 60092-401 Installation
-- IEC 60092-504 Automation & Control
-- MarineElectrical/MOC (MOC 통합)
-- IEC_60092_Marine_Electrical_MOC.md (01_Antigravity_Skills_Universe_MOC.md)
-- IEC_60092_Marine_Electrical_MOC.md (02_IEC_60092_Marine_Electrical_MOC.md)
-
-#### 🐉 AI/LLM/Agent (31개)
-- AI_Technology_Dashboard_20260516.md (10KB)
-- Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md
-- Wiki_Analysis_Wiki_정밀분석_20260516.md (새로 추가)
-- YouTube_Analysis_* 24건 (GStack, Threads, Kimi, Hermes, Obsidian 등)
-- GraphPy-자동-지식-그래프생성도구-20260513.md
-- WikiTree_Architecture.md
-
-#### 🏗️ Plantler/Ssak (13개)
-- Plantler AI 식물 분석, UIUX 진화, 백업복원 (3개)
-- Ssak 시리즈 공통 설계, Ssak Image 2개, Ssak Language 4개, Ssak Reader 2개 (11개 total)
-
-#### 📈 금융/조선/기타 (12개)
-- 금융시장_동향 2026-05-15, 2026-05-16
-- 조선_설계_자동화_원가절감_전략_회의록
-- 조선해운_Cable_전장_혁신_5%절감_전략
-- GTT_LNG_Inventory_Technology
-- 01_Antigravity_Skills_Universe_MOC.md
-- 06_Antropic_vS_OpenAI_정책_비교.md (Android 보안 정책 분석)
-
-### My_Wiki/Projects/ (프로젝트 — 16개 파일)
-
-| # | 프로젝트 | 파일 |
-|---|---------|------|
-| 1 | Antigravity-K | AI_LLM_Agent_News, 정밀분석, 개발계획 |
-| 2~5 | Plantler (4개) | UI/AI고도화, 실전교훈, 배포, 인증 |
-| 6 | Plantler 커뮤니티 | 커뮤니티 기능 개발 여정 |
-| 7 | Ssak File | 버전진화 1.0→1.1 |
-| 8~9 | Ssak Image (2개) | AI중복탐지, MSStore 배포 |
-| 10~13 | Ssak Reader (4개) | 출시최적화, AI관리, 호환성, 모델배포 |
-| 14 | Ssak Language | 게이미피케이션+수익모델 |
-| 15 | M5Max Local LLM | 전략 |
-| 16 | Wiki 분석 | Wiki 정밀분석 |
-
-### My_Wiki/Decisions/ (의사결정 — 4개)
-
-> **현재 모두 Plantler 프로젝트 관련. Ssak/Plantler/M5Max 의사결정 누락.**
-> 다음 정리에서 분과별 의사결정 확장 필요.
-
-1. [Plantler 아키텍처 의사결정 기록](Decisions/Plantler 아키텍처 의사결정 기록.md)
-2. [Plantler 게이미피케이션 시스템](Decisions/Plantler 게이미피케이션 시스템.md)
-3. [Plantler v2.0 회고](Decisions/Plantler v2.0 프로젝트 회고.md)
-4. [Plantler 프로젝트 개요](Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md)
-
-### My_Wiki/Skills/ (스킬 — 2개 파일)
-
-1. [Python 디자인 패턴 가이드](Skills/Python 디자인 패턴 가이드.md)
-2. [나만의 생산성 워크플로우](Skills/나만의 생산성 워크플로우.md)
-
-> **주의:** index.md는 이전에 Skills: 8개라고 명시했으나 현재 2개만 존재. 6개 부족.
-
-### My_Wiki/LLM-Wiki/ (도메인 지식)
-
-- **GithubRepos/**: 15개 프로젝트 분석 인덱스 + 11개 lock 파일 (정리 필요)
-- **Comparisons/**: 기술 비교 (1개)
-- **선급_전기설계_Rule/**: ABS, LR, KR, DNV, BV (5개)
-- **전기_전자_엔지니어링/**: EMC/EMI, Earthing, Bonding (3개)
-- **거시경제_및_투자_트렌드/**: 호르무즈해협 리스크 (1개)
-- **조선업계_트렌드/**: 2025-2026 조선업 동향 (1개)
-
-### 000-Inbox/ (미분류 — 0개 파일)
-
-> **2026-05-16 정리 완료!** 모든 파일이 Topics/로 분류됨.
-> 분류된 파일: Antigravity SMC, IEC 60092 MOC, Plantler SMC, Wiki 분석 보고서, NLW 가이드, Android 보안 정책 비교
-
-### pages/ (AI-처리 문서 — 24개 마크다운 + 1 HTML)
-
-| 파일 | 제목 |
-|------|------|
-| [graphpy-자동-지식-그래프생성도구.html](../graphpy-자동-지식-그래프-생성-도구.html) | 그래피파이 HTML 보고서 |
-| antigravity-k-recursive-self-improvement.md | 재귀적 자기개선 아키텍처 |
-| antigravity-k-output-stabilization.md | 출력 품질 안정화 |
-| antigravity-k-ollama-native-api.md | Ollama API 비교 |
-| antigravity-k-dashboard-realtime.md | 대시보드 실시간 연동 |
+**Last Updated:** 2026-05-18
+**Model Version:** 2.0 (Three-Space Architecture)
 
 ---
 
-## 📊 총괄 통계 (2026-05-16 기준)
+## 📚 문서 매핑 테이블 (모든 DOCS 파일의 상세 위치)
 
-| 카테고리 | 파일 수 |
-|---------|--------|
-| Topics | 55 |
-| Projects | 16 |
-| Decisions | 4 |
-| Skills | 2 |
-| My_Wiki 루트 | 9 |
-| LLM-Wiki | 11+ |
-| pages/ | 25 |
-| **My_Wiki 합계** | **297** |
-| **전체 Wiki** | **713** |
+### 📡 YouTube 분석 문서 (24개)
+
+| 파일명 | 주제 | Tags | Source | Related |
+|-------|------|------|--------|---------|
+| YouTube_Analysis_Anthropic_Claude_HTML_Output_Framework.md | Claude HTML 출력 프레임워크 | claude,html,web | Anthropic | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
+| YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md | GStack GSD 슈퍼파워즈 | autcoding,gstack | Bappo | [[01_Antigravity_Skills_Universe_MOC]] |
+| YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md | CodeHead 5분 AI Engineering | coding,short-form | CodeHead | |
+| YouTube_Analysis_ClownAI_3.5_Upgrade_ErrorHandling_20260516.md | ClownAI 3.5 업그레이드/오류처리 | clownai,fix | ClownAI | |
+| YouTube_Analysis_Claude_Stock_Analysis.md | Claude 금융주 분석 | claude,stock,finance | | |
+| YouTube_Analysis_Graphify_Token_Reduction.md | Graphify 토큰 축소 | graph,token | Graphify | |
+| YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md | Hermes Agent + Codex 설치 | hermes,codex,setup | Hermes | |
+| YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md | Hermes-Obsidian-Omi 통합 | hermes,obsidian,mem | Hermes | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
+| YouTube_Analysis_Kimi_K2.6_300_Agents.md | Kimi K2.6 300 에이전트 | kimi,agent,swarm | Kimi | [[Kimik2.6_300 에이전트_Agent_Swarm.md]] |
+| YouTube_Analysis_lat_Knowledge_Graph.md | Lat 지식 그래프 | knowledge-graph,lat | lat | |
+| YouTube_Analysis_LLM_Wiki_External_Knowledge_Upgrade.md | LLM Wiki 외부지식 업그레이드 | llm,wiki,external | | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
+| YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md | Meta Harness 설정 (svDeveloper) | meta,harness | SvDeveloper | |
+| YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md | MarkTL Obsidian → HTML Blog | obsidian,html,web | MarkTL | [[Website_Analysis_EZER_AI_Agent_University.md]] |
+| YouTube_Analysis_MarkTL_Obsidian_HTML_Blog.md | MarkTL Obsidian HTML (기본) | obsidian,html | MarkTL | |
+| YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md | Meta Harness (svDeveloper) | meta,harness | SvDeveloper | |
+| YouTube_Analysis_OpenClaw_35_Upgrade_20260516.md | OpenClaw 3.5 업그레이드 | openclaw,upgrade | | [[1_Antigravity_Skills_Universe_MOC]] |
+| YouTube_Analysis_OpenClaw_5Agents_CodingFree.md | OpenClaw 5에이전트 코드프리 | openclaw,agent,coding-free | | |
+| YouTube_Analysis_OpenClaw_v2026.5.7_Release.md | OpenClaw v2026.5.7 릴리즈 | openclaw,release | | |
+| YouTube_Analysis_Solar_Evaporation_Desalination.md | 태양광 증발식 담수화 | solar,evaporation,desalination | | [[조선_설계_자동화_원가절감_전략_회의록]] |
+| YouTube_Analysis_Threads_Automation_Open_Source_Code.md | Threads 자동화/소스코드 | threads,automation,oss | | |
+| YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md | VoiceBox HyperFrames AI Video | voicebox,video,ai | | |
+| YouTube_Analysis_VoiceBox_HyperFrames_VideoAutomation.md | VoiceBox HyperFrames 영상자동화 | voicebox,video,auto | | |
+| YouTube_Analysis_Woorkpay0_AI_COMPANY.md | Woorkpay0 AI 회사 | AI,company | Woorkpay0 | |
+| Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
+| Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | [[Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514]] |
+
+### 🏗️ Plantler/Ssak 프로젝트 문서
+
+| 파일명 | 주제 | Type | Related |
+|-------|------|------|---------|
+| Plantler AI 식물 분석 시스템.md | Plantler AI 식물 분석 | Tech | [[Plantler 아키텍처 의사결정 기록]] |
+| Plantler UIUX 디자인 진화 기록.md | Plantler UIUX 진화 | Design | |
+| Plantler 백업복원 시스템 통합기.md | Plantler 백업복원 | Tech | |
+| Plantler_deploy_Workflow.md | Plantler 배포 — SCP 직접 전송 | Deploy | |
+| Plantler 인증 시스템 진화 기록.md | Plantler 인증 시스템 | Security | |
+| Plantler_development_실전교훈들.md | Plantler 개발 교훈 | Learn | |
+| Plantler 커뮤니티 기능 개발 여정.md | Plantler 커뮤니티 기능 | Feature | |
+| Plantler 아키텍처 의사결정 기록.md | Plantler 아키텍처 결정 | Decision | [[Plantler 게이미피케이션 시스템]] |
+| Plantler 게이미피케이션 시스템.md | Plantler 게이미피케이션 | Decision | [[식물 관리 AI 앱 프로젝트]] |
+| Plantler v2.0 프로젝트 회고.md | Plantler v2.0 회고 | Review | |
+| Ssak Image — AI 중복 이미지 탐지.md | Ssak Image 중복 탐지 | Tech | |
+| Ssak Image — 데스크탑 패키징/MS Store 배포.md | Ssak Image 배포 | Deploy | |
+| Ssak Image — 이미지 중복 탐지 알고리즘 설계.md | Ssak Image 알고리즘 | Tech | |
+| Ssak Language — AI 기반 다국어 학습.md | Ssak Language 학습 | Tech | [[Ssak Language 게이미피케이션]] |
+| Ssak Language — 프레임 Lazy Loading 최적화.md | Ssak Language 최적화 | Tech | |
+| Ssak Language — 게이미피케이션+프리미엄 수익.md | Ssak Language 비즈니스 Model | Biz | |
+| Ssak Reader — 데이터베이스 동시성 문제.md | Ssak Reader DB 문제 | Tech | |
+| Ssak Reader — AI 의미론적 검색 아키텍처.md | Ssak Reader AI 검색 | Tech | |
+| Ssak Reader — 경계 억제 시스템.md | Ssak Reader 오류처리 | Tech | |
+| Ssak Reader — AI 기반 문서 관리.md | Ssak Reader概述 | Tech | [[Ssak Reader 출시 및 최적화]] |
+| Ssak Reader — 배포 및 최적화 내역.md | Ssak Reader 배포 | Deploy | [[Ssak Reader Windows 호환성 이슈]] |
+| Ssak Reader — Windows 호환성 이슈.md | Ssak Reader Windows | Tech | |
+| Ssak 시리즈 — 공통 설계 패턴.md | Ssak 시리즈 패턴 | Arch | |
+| Ssak Image — AI 백엔드 폴백 아키텍처.md | Ssak Image 백엔드 | Tech | |
+| M5Max Local LLM 전략.md | M5Max Local LLM | Hardware | |
+| Ssak File — 버전 진화记录.md | Ssak File 버전 | Version | |
+
+### 🔧 Antigravity-K / AI Agent
+
+| 파일명 | 주제 | Tags |
+|-------|------|------|
+| Antigravity-K-정밀분석-현재상태-20260511.md | Antigravity-K 정밀분석 | antigravity,audit |
+| 개발계획-코드수정반영-20260512.md | Antigravity-K 개발계획 | antigravity,plan |
+| 01_Antigravity_Skills_Universe_MOC.md | Antigravity 스킬 MOC | antigravity,skills,moc |
+
+### ⚓ 조선/전장/Iec
+
+| 파일명 | 주제 | Tags | Related |
+|-------|------|------|---------|
+| 조선_설계_자동화_원가절감_전략_회의록.md | 조선 설계 자동화 전략 | shipbuilding,auto | [[YouTube_Analysis_Solar_Evaporation_Desalination.md]] |
+| 조선해운_Cable_전장_혁신_5%절감_전략.md | 조선 해운 Cable 혁신 | cable,shipbuilding | |
+| IEC_60092-101 General.md | IEC 60092-101 일반사항 | iec,marine | |
+| IEC_60092-201 System Design.md | IEC 60092-201 설계 | iec,design | |
+| IEC_60092-301 Generators_Motors.md | IEC 60092-301 발전기/모터 | iec,generators | |
+| IEC_60092-350 Cables.md | IEC 60092-350 케이블 | iec,cable | |
+| IEC_60092-401 Installation.md | IEC 60092-401 설치 | iec,install | |
+| IEC_60092-504 Automation_Control.md | IEC 60092-504 자동화 | iec,automation | |
+| MarineElectrical/SOLAS_Chapter_II-1_Electrical.md | SOLAS II-1 전기 | solas,safety | |
+| MarineElectrical/index.md | Marine Electrical MOC | marine,moc | |
+| GTT_LNG_Inventory_Technology.md | GTT LNG 적재 기술 | lNg,gtt | |
+
+### 📊 금융/트렌드
+
+| 파일명 | 주제 | Tags |
+|-------|------|------|
+| 금융시장_동향_2026-05-15.md | 금융 5/15 | market,finance |
+| 금융시장_동향_2026-05-16.md | 금융 5/16 | market,finance |
+| 금융시장_동향_2026-05-17.md | 금융 5/17 | market,finance |
+| 금융시장_동향_2026-05-18.md | 금융 5/18 | market,finance |
+| Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 | wiki,analysis |
+| Graphy-자동-지식-그래프-생성-도구-20260513.md | Graphy 지식 그래프 | knowledge-graph |
+| Wiki_Tree_Architecture.md | Wiki 트리 구조 | wiki,arch |
+| 03_Plantler_Skills_MOC.md | Plantler 스킬 MOC | plantler,skills |
+| 04_Wiki_지식연결분석_보고서.md | Wiki 지식 연결 분석 | wiki,analysis |
+| 05_NLW Guide.md | NLW 가이드 | nlw,guide |
+| 06_Antropic_vS_OpenAI_정책_비교.md | Anthropic vs OpenAI | policy,ai |
+| 99_Youtube_Analysis_MOC.md | YouTube 분석 MOC | youtube,moc |
 
 ---
 
-## ⚠️ 관리 알림
+## 🔍 빠른 검색 가이드 (AI를 위한)
 
-1. **Decisions/ 확대 필요**: Projects 16개 중 Decisions는 4개뿐 (Plantler 전체)
-2. **Skills/扩充 필요**: 2개 → Plantler/Ssak/My_Wiki 관련 스킬 확장
-3. **entities/ 과밀**: 313개 중 95개 tiny/tiny, 105개 identical 360KB
-4. **GitHub lock 파일**: 11개 정제 필요
-5. **YouTube_Analysis 과밀**: 24개 파일 → MOC 통합 권장
-6. **_company/, notebooklm/, tinker-** 분리 검토
+### "AI/LLM 관련 최신 뉴스가 뭐지?"
+→ `Topics/Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md`
+
+### "Plantler 프로젝트 관련 의사결정이 뭐가 있지?"
+→ `Topics/Decisions/` + `Topics/Plantler_아키텍처 의사결정 기록.md`
+
+### "조선/선박 설계 자동화 원가절감 전략이 뭐였지?"
+→ `Topics/조선_설계_자동화_원가절감_전략_회의록.md`
+
+### "Ssak Reader 데이터베이스 문제 해결방안이 뭐였지?"
+→ `Topics/Ssak Reader — 데이터베이스 동시성 문제와 해결.md`
+
+### "IEC 60092 표준 시리즈 전체가 어디 있지?"
+→ `Topics/MarineElectrical/` + `Topics/IEC_60092-101_General.md` (5개 파일)
+
+### "OpenClaw 관련 분석이 뭐가 있었지?"
+→ `Topics/YouTube_Analysis_OpenClaw_*` (3개 파일)
+
+### "Kimi K2.6 300 에이전트 이야기가 뭐였지?"
+→ `Topics/Kimik K2.6_300 에이전트_Agent_Swarm.md`
+
+### "M5Max에서 로컬 LLM 전략이 어떻게 되더라?"
+→ `Topics/M5Max_Local_LLM_Strategy_and_Wiki.md`
+
+### "Plantler 앱이 뭐하는 앱이지?"
+→ `Topics/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md`
+
+### "Wiki 구조 분석 결과가 뭐었지?"
+→ `Topics/Wiki_Analysis_Wiki_정밀분석_20260516.md`
+
+---
+
+## 📊 현재 Wiki 상태
+
+| 항목 | 항목수 | 설명 |
+|------|--------|------|
+| **Topics** | 65개 파일 | 주제별 지식 (YouTube 분석, 기술, 금융, 조선) |
+| **Projects** | 16개 파일 | 프로젝트 문서 (Plantler, Ssak, Antigravity-K) |
+| **Decisions** | 4개 파일 | 의사결정 기록 |
+| **Skills** | 2개 파일 | 워크플로우 스킬 |
+| **Templates** | 2개 파일 | NLW 템플릿 |
+| **LLM-Wiki** | ~40개 | 도메인별 지식 (GithubRepos, 선급, 전기, etc.) |
+| **RAW** | 2개 폴더 | 원본 captured (captures, videos) |
+
+**총 파일 수: ~100개 (DOCS) + ~0개 (RAW) = 100개**
+
+---
+
+## 🔄 인제스트 프로세스
+
+```
+1. 외부에서 자료 확보 (YouTube, 웹, 문서, etc.)
+2. raw/ 폴더에 원본 저장 (Claude.md 규칙 준수)
+3. 분석 후 My_Wiki/ 도ocs/ 에 인제스트
+4. 이 index.md 에 문서 매핑 등록
+5. 관련 문서에 위키링크 [[연결]]
+6. 태그 업데이트
+```
+
+## 📝 새 문서 인제스트 시 체크리스트
+
+- [ ] 파일명 규칙 준수: `YYYYMMDD_source-type_description.md`
+- [ ] Front Matter 작성 (title, type, tags, date, source, related, summary)
+- [ ] DOCS 폴더에 저장 (인덱스 폴더에 저장하지 않음)
+- [ ] index.md 에 항목 추가 (매핑 테이블 또는 빠른 검색 가이드에)
+- [ ] 관련 문서에 위키링크 추가
+- [ ] Git commit
+
+#reception-desk #index #wiki
