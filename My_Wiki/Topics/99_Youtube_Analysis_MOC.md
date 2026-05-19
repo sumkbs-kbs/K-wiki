@@ -48,8 +48,11 @@
 ### Agent Architecture (1개)
 - [파이썬으로 AI Agent 만들기 (프레임워크 X)](YouTube_Analysis_Python_Agent_From_Scratch_No_Framework.md)
 
-### Hermes + 비디오(1개) - 2026-05-19 추가
+### Hermes + 비디오(1개)
 - [Hermes Agent + HyperFrames: 무료 AI 비디오 에이전트](YouTube_Analysis_Hermes_Agent_HyperFrames_Free_AI_Video_Agent.md)
+
+### Knowledge Management(1개) - 2026-05-19 추가
+- [NotebookLM 워크플로우 AI 지식 관리](YouTube_Analysis_NotebookLM_Workflow_AI_Knowledge_Management.md)
 
 ---
 

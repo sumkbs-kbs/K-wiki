@@ -9,6 +9,8 @@
 ---
 
 ## 최근 변경 사항 (최신순)
+|||| **2026-05-20** — 금융시장 동향 추가 (KOSPI 7,271 급락-3.25%, S&P 500 25,871 3일째 하락, 금 $4,486 하락, 외국인 9연속 매도 42조원)
+|||| **2026-05-20** — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic-Stainless.dev 인수, Musk-OpenAI 소송 패소, NVIDIA AI 칩 경쟁, Mind Robotics $400M, LetinAR AI 안경, Khosla Genesis AI풀스택 로보틱스)
 ||| **2026-05-19** — 금융시장 동향 통합 문서 추가 (KOSPI 7,516 반등, S&P 500 7,403 보합, 나스닥 이틀째 하락, 다우 49,686 상승, 유럽 강세, 아시아 약세)
 ||| **2026-05-18** — 금융시장 동향 통합 문서 추가 (KOSPI 7,493급락(-6.12%), 미국/한국 증시 연쇄 하락)
 ||| **2026-05-16** — AI/LLM/Physical AI 기술 대시보드 신규 추가 (HuggingFace Blog, HN, TechCrunch 기반 OpenAI 거버넌스 위기, MoE/EMO 연구, IBM Granite 4.1, 휴머노이드 실증, BCI 센서 등)
