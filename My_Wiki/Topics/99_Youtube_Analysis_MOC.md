@@ -42,8 +42,14 @@
 - [Woorkpay0 AI Company](YouTube_Analysis_Woorkpay0_AI_Company.md)
 - [OpenClow 35 Upgrade 20260516](YouTube_Analysis_OpenClow_35_Upgrade_20260516.md)
 
-### Browser Agent (1개) - 2026-05-19 추가
+### Browser Agent (1개)
 - [Google Gemini 4 브라우저 에이전트 - API 키 불필요 로컬 Chrome 자동화](YouTube_Analysis_Gemma_4_Browser_Agent_Local_No_API_Key.md)
+
+### Agent Architecture (1개)
+- [파이썬으로 AI Agent 만들기 (프레임워크 X)](YouTube_Analysis_Python_Agent_From_Scratch_No_Framework.md)
+
+### Hermes + 비디오(1개) - 2026-05-19 추가
+- [Hermes Agent + HyperFrames: 무료 AI 비디오 에이전트](YouTube_Analysis_Hermes_Agent_HyperFrames_Free_AI_Video_Agent.md)
 
 ---
 
