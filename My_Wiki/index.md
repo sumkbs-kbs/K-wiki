@@ -39,6 +39,7 @@
 | YouTube_Analysis_Woorkpay0_AI_COMPANY.md | Woorkpay0 AI 회사 | AI,company | Woorkpay0 | |
 | Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
 | Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | [[Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514]] |
+| 20260519_hermes-kanban-ai-seo-update.md | Hermes Kanban AI SEO 무료 업데이트 | ai-seo,hermes,kanban | [[Julian Goldie SEO]] (youtube) | |
 
 ### 🏗️ Plantler/Ssak 프로젝트 문서
 
