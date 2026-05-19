@@ -37,7 +37,9 @@
 | YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md | VoiceBox HyperFrames AI Video | voicebox,video,ai | | |
 | YouTube_Analysis_VoiceBox_HyperFrames_VideoAutomation.md | VoiceBox HyperFrames 영상자동화 | voicebox,video,auto | | |
 | YouTube_Analysis_Woorkpay0_AI_COMPANY.md | Woorkpay0 AI 회사 | AI,company | Woorkpay0 | |
-| Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
+|| Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | |
+|| YouTube_Analysis_Gemma_4_Browser_Agent_Local_No_API_Key.md | Gemini 4 로컬 브라우저 에이전트 | browser-agent,gemma4,free | [[99_Youtube_Analysis_MOC]] |
+
 | Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | [[Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514]] |
 | 20260519_hermes-kanban-ai-seo-update.md | Hermes Kanban AI SEO 무료 업데이트 | ai-seo,hermes,kanban | [[Julian Goldie SEO]] (youtube) | |
 
