@@ -1,0 +1,20 @@
+# Gitignore for My_Wiki
+
+# Obsidian
+.obsidian/
+.smart-env/
+.DS_Store
+
+# Chromadb
+.chroma/
+
+# Untracked docs (board/task builders etc)
+BoardTaskActivityRecordBuilder.ts.md
+*.ts.md
+*.html
+
+# System data
+900-System/
+
+# System data
+SystemData/
