@@ -42,6 +42,9 @@
 - [MarkTL Obsidian HTML Blog Forward](YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md)
 - [Obsidian ClaudeCode RawWiki](YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md)
 
+## 🎯 실용 AI (1개)
+- [ChatGPT 콜론(:) 시크릿 코드 15가지](YouTube_Analysis_GPT_Colon_Prompt_Secrets.md)
+
 ## 🎥 Video/Automation (3개)
 - [VoiceBox HyperFrames AI Video](YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md)
 - [VoiceBox HyperFrames VideoAutomation](YouTube_Analysis_VoiceBox_HyperFrames_VideoAutomation.md)
@@ -57,13 +60,17 @@
 - [AI Times: GitHub 코딩 위기 2026](Web_Analysis_AI_Times_GitHub_Coding_Crisis_20260521.md)
 - [최신 AI/LLM/Agent 뉴스 종합](Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md)
 
-## 📚 철학/역사 (1개)
+## 📚 철학/역사 (2개)
 - [손자병법 풀스토리 — 수면용 세계사](YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md)
+- [3대종교의 역사 — 같은 신을 믿는 형제가 원수가 된 이유](YouTube_Analysis_3MajorReligions_History.md)
 
 ## 💼 Company/Research (3개)
 - [Woorkpay0 AI Company](YouTube_Analysis_Woorkpay0_AI_Company.md)
 - [OpenClow 35 Upgrade 20260516](YouTube_Analysis_OpenClow_35_Upgrade_20260516.md)
 - [Claude 금융주 분석](YouTube_Analysis_Claude_Stock_Analysis.md)
+
+## 💰 경제/재무 (1개)
+- [삼성전자 총파업 vs SK하이닉스 성과급 — 반도체 노동시장 양극화](YouTube_Analysis_Samsung_SK_Hynix_Labor_Strike.md)
 
 ## 📈 금융/트렌드 (5개)
 - [**신규** 2026년 주가 급상승 구간 정체 분석 (HTML)](YouTube_Analysis_Hangook_Financial_2026_Stock_Market_Analysis.html)
