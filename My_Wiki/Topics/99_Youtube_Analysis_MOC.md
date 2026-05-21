@@ -1,11 +1,11 @@
-# YouTube & AI Analysis MOC (2026-05-21)
+# YouTube & AI Analysis MOC (2026-05-22)
 
-> YouTube/AI 산업 분석 35건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
+> YouTube/AI 산업 분석 37건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
 
 ## 요약
-- 분석된 채널/소스: 23개
-- 분석된 총 영상/article: 35건
-- 최신 분석: 2026-05-21 (1분 전 영상 포함)
+- 분석된 채널/소스: 25개
+- 분석된 총 영상/article: 37건
+- 최신 분석: 2026-05-22 (Hermes Skill Bundles / Claude+Hermes Agent OS)
 
 ## 🤖 Claude/LLM (1개)
 - [Claude HTML 출력 프레임워크](YouTube_Analysis_Anthropic_Claude_HTML_Output_Framework.md)
@@ -15,7 +15,9 @@
 - [OpenClaw 5Agents CodingFree](YouTube_Analysis_OpenClaw_5Agents_CodingFree.md)
 - [OpenClaw v2026.5.7 Release](YouTube_Analysis_OpenClaw_v2026.5.7_Release.md)
 
-## 🤖 Hermes/Agent 관련 (8개)
+## 🤖 Hermes/Agent 관련 (10개)
+- [**신규** Claude + Hermes Agent: NEW Agent OS — Goldy Mission Stack 4계층 아키텍처](YouTube_Analysis_Hermes_Claude_Agent_OS_Mission_Stack.html)
+- [**신규** Hermes Skill Bundles: 워크플로우 스킬 번들링 가이드](YouTube_Analysis_Hermes_Skill_Bundles_Setup_Guide.html)
 - [Hermes-Agent X Codex 설치 풀가이드](YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md)
 - [Hermes/Obsidian/Omi Memory](YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md)
 - [Kimi K2.6 300 개 AI 에이전트](YouTube_Analysis_Kimi_K2.6_300_Agents.md)
@@ -37,13 +39,14 @@
 ## 📊 AI 에이전트 생태계/경쟁 (2개)
 - [**신규** Antigravity/K vs Google Antigravity 2.0 경쟁 구도 분석](YouTube_Analysis_Google_IO_Antigravity_2.0_Gemini_3.5_Flash.md)
 
-## 💡 Obsidian/Wiki 도구 (3개)
+## 💡 Obsidian/Wiki_tools (3개)
 - [MarkTL Obsidian HTML Blog](YouTube_Analysis_MarkTL_Obsidian_HTML_Blog.md)
 - [MarkTL Obsidian HTML Blog Forward](YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md)
 - [Obsidian ClaudeCode RawWiki](YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md)
 
-## 🎯 실용 AI (1개)
+## 🎯 실용 AI (2개)
 - [ChatGPT 콜론(:) 시크릿 코드 15가지](YouTube_Analysis_GPT_Colon_Prompt_Secrets.md)
+- [스레드 완전 자동 프로그램 2026 — 코드를 무료로 드립니다](YouTube_Analysis_Thread_Automation_Program_2026.md)
 
 ## 🎥 Video/Automation (3개)
 - [VoiceBox HyperFrames AI Video](YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md)
@@ -72,13 +75,13 @@
 ## 💰 경제/재무 (1개)
 - [삼성전자 총파업 vs SK하이닉스 성과급 — 반도체 노동시장 양극화](YouTube_Analysis_Samsung_SK_Hynix_Labor_Strike.md)
 
-## 📈 금융/트렌드 (5개)
+## 📈 금/금융/트렌드 (5개)
 - [**신규** 2026년 주가 급상승 구간 정체 분석 (HTML)](YouTube_Analysis_Hangook_Financial_2026_Stock_Market_Analysis.html)
 
-## 🌐 Browser Agent (1개)
+## 🌐 BrowserAgent (1개)
 - [Google Gemini 4 브라우저 에이전트 - API 키 불필요 로컬 Chrome 자동화](YouTube_Analysis_Gemma_4_Browser_Agent_Local_No_API_Key.md)
 
-## 🛠️ Wiki/Tool Analysis (2개)
+## 🛠️ Wiki/Tool 분석 (2개)
 - [Wiki 정밀분석 20260516](Wiki_Analysis_Wiki_정밀분석_20260516.md)
 - [Hermes Kanban AI SEO 무료 업데이트](20260519_hermes-kanban-ai-seo-update.md)
 

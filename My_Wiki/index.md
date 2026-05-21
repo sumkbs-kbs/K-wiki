@@ -47,7 +47,8 @@
 | YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md | 손자병법 풀스토리 — 수면용 세계사 | history,philosophy,sleep | 잠결에듣는세계사 | [[99_Youtube_Analysis_MOC]] |
 | YouTube_Analysis_Samsung_SK_Hynix_Labor_Strike.md | 삼성전자 총파업 vs SK하이닉스 성과급 | economics,strike,semiconductor | 경제사냥꾼 | [[99_Youtube_Analysis_MOC]] |
 | YouTube_Analysis_3MajorReligions_History.md | 3대종교의 역사 — 같은 신을 믿는 형제가 원수가 된 이유 | history,religion,Abrahamic | 이슈임당 | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_GPT_Colon_Prompt_Secrets.md | ChatGPT 콜론(:) 시크릿 코드 15가지 | prompt,AI,productivity | AI Stack Engineer | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_GPT_Colon_Prompt_Secrets.md| YouTube_Analysis_Thread_Automation_Program_2026.md | 스레드 완전 자동 프로그램 2026 — 코드를 무료로 드립니다 | automation,open-source,profit-pipeline | 투다j클래스 | [[99_Youtube_Analysis_MOC]] |
+ | ChatGPT 콜론(:) 시크릿 코드 15가지 | prompt,AI,productivity | AI Stack Engineer | [[99_Youtube_Analysis_MOC]] |
 | | Lat 지식 그래프 | knowledge-graph,lat | lat | |
 || Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
 
