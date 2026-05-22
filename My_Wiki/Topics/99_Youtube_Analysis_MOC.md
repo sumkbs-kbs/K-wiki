@@ -4,8 +4,8 @@
 
 ## 요약
 |- 분석된 채널/소스: 29개
-|- 분석된 총 영상/article: 43건
-|- 최신 분석: 2026-05-22 (Google AI Studio 무서운 새로움 / Qwen 3.7 Max+Plus Dual Workflows / Qwen Frontier / Karpathy-Anthropic)
+|- 분석된 총 영상/article: 49건
+|- 최신 분석: 2026-05-22 (Google AI Studio 무서운 새로움 / Qwen 3.7 Max+Plus Dual Workflows / Ring-2.6 / EBS 우주가 / 소도역사 / Karpathy-Anthropic)
 
 ## 🤖 모델/기술 (5개)
 - [**신규** Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지](YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html)
@@ -13,6 +13,7 @@
 - [**신규** 5 Free Upgrades로 Hermes Agent 10배 더 좋게](YouTube_Analysis_5_Free_Upgrades_Hermes_Agent_10X.html)
 - [**신규** 카파시 Anthropic 합류 — 엔터프라이즈 3가지 신호](YouTube_Analysis_Karpathy_Anthropic_3_Signals.html)
 ## 💻 Autocoding AI (4개)
+- [**신규** Build Anything with Ring-2.6-1T! (Julian Goldie SEO)](YouTube_Analysis_Ring_2.6_Build_Anything-JulianGoldieSEO.md)
 - [**신규** Google AI Studio 무서운 새로움: 대화로 앱 빌드 → 배포](YouTube_Analysis_Google_AI_Studio_New_App_Building_Features.md)
 - [GStack+GSD+Superpowers 조합 자율주행 AI 코딩](YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md)
 - [OpenClaw 5Agents CodingFree](YouTube_Analysis_OpenClaw_5Agents_CodingFree.md)
@@ -66,7 +67,12 @@
 - [AI Times: GitHub 코딩 위기 2026](Web_Analysis_AI_Times_GitHub_Coding_Crisis_20260521.md)
 - [최신 AI/LLM/Agent 뉴스 종합](Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md)
 
-## 📚 철학/역사 (2개)
+## 📚 철학/역사 (9개)
+- [[YouTube_Analysis_EBS_Sleep_DocCosmosGalaxy.md]] ✨수면 다큐 - 우주의 탄생을 galaxies의 원리까지 (EBS다큐)
+- [[YouTube_Analysis_Sodo_History_Drama_ShinSamrang.md]] 1시간에 끝내는 소도의 역사 (신사임당)
+- [**신규** 우리가 알던 역사는 조작됐다...? 충격 음모론 100분 몰아보기](YouTube_Analysis_Histories_Conspiracy_100Min.md)
+- [**신규** 성우 이성선 낭독 — 사람이 풀지 못한 5대 수수께끼](YouTube_Analysis_LeeSungSun_Narration_5GreatRiddles.md)
+- [**신규** 잠이 안 올 때 듣는 물리학 (1시간)](YouTube_Analysis_Physics_For_Sleep_1Hour.md)
 - [손자병법 풀스토리 — 수면용 세계사](YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md)
 - [3대종교의 역사 — 같은 신을 믿는 형제가 원수가 된 이유](YouTube_Analysis_3MajorReligions_History.md)
 
