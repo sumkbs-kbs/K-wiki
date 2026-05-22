@@ -10,7 +10,7 @@
 
 ## 📚 문서 매핑 테이블 (모든 DOCS 파일의 상세 위치)
 
-### 📡 YouTube 분석 문서 (32개)
+### 📡 YouTube 분석 문서 (33개)
 
 || 파일명 | 주제 | Tags | Source | Related |
 |---|------|-----|--------|---------|
@@ -38,7 +38,8 @@
 | YouTube_Analysis_Solar_Evaporation_Desalination.md | 태양광 증발식 담수화 | solar,evaporation,desalination | | [[조선_설계_자동화_원가절감_전략_회의록]] |
 || YouTube_Analysis_Threads_Automation_Open_Source_Code.md | Threads 자동화/소스코드 | threads,automation,oss | | |
 || YouTube_Analysis_Hangook_Financial_2026_Stock_Market_Analysis.html | 2026년 주가 급상승 구간 정체 분석(HTML) | finance,stock-market,2026,market-analysis | 경제사냥꾼 | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html | Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지 | qwen,dual-model,workflow | Julian Goldie | [[99_Youtube_Analysis_MOC]] |
+|| YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html | Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지 | qwen,dual-model,workflow | Julian Goldie | [[99_Youtube_Analysis_MOC]] |
+|| **신규** YouTube_Analysis_Google_AI_Studio_New_App_Building_Features.md | Google AI Studio 무서운 새로움: 대화로 앱 빌드 → 배포 | google-ai-studio,vibe-coding,no-code,cloud-run | Julian Goldie | [[99_Youtube_Analysis_MOC]] |
 | YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md | VoiceBox HyperFrames AI Video | voicebox,video,ai | | |
 | YouTube_Analysis_VoiceBox_HyperFrames_VideoAutomation.md
 | YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md | 손자병법 풀스토리 — 수면용 세계사 | history,philosophy,sleep | 잠결에듣는세계사 | [[99_Youtube_Analysis_MOC]] |
