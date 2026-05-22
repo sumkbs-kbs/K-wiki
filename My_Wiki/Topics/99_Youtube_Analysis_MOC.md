@@ -3,11 +3,13 @@
 > YouTube/AI 산업 분석 37건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
 
 ## 요약
-|- 분석된 채널/소스: 28개
-|- 분석된 총 영상/article: 41건
-|- 최신 분석: 2026-05-22 (Qwen 3.4-Max / Karpathy+Anthropic 3가지 신호 / 5 Free Upgrades)
+|- 분석된 채널/소스: 29개
+|- 분석된 채널/소스: 30개
+|- 분석된 총 영상/article: 43건
+|- 최신 분석: 2026-05-22 (Qwen 3.7 Max+Plus Dual Workflows / Qwen Frontier / Karpathy-Anthropic)
 
-## 🤖 모델/기술 (4개)
+## 🤖 모델/기술 (5개)
+- [**신규** Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지](YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html)
 - [**신규** 알리바바 Qwen 3.7-Max: 중국산 Frontier 에이전트 모델](YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier.html)
 - [**신규** 5 Free Upgrades로 Hermes Agent 10배 더 좋게](YouTube_Analysis_5_Free_Upgrades_Hermes_Agent_10X.html)
 - [**신규** 카파시 Anthropic 합류 — 엔터프라이즈 3가지 신호](YouTube_Analysis_Karpathy_Anthropic_3_Signals.html)
