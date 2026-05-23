@@ -177,7 +177,14 @@
 | **LLM-Wiki** | ~40개 | 도메인별 지식 (GithubRepos, 선급, 전기, etc.) |
 | **RAW** | 2개 폴더 | 원본 captured (captures, videos) |
 
-**총 파일 수: ~100개 (DOCS) + ~0개 (RAW) = 100개**
+### 💰 금융/투자 분석 문서 (신규 추가)
+
+|| 파일명 | 주제 | Tags | Source | Related |
+|--|--|-----|--------|-----|--|
+| **신규** | [[20260523_portfolio_analysis_report]] | 6개 계좌 주식 포트폴리오 분석 (11종목) | portfolio,stock-analysis,etf,aI-semiconductor | |
+| **신규** | [[20260523_portfolio_html_report]] | 포트폴리오 분석 HTML 리포트 (다크 테마) | portfolio,html-report,stock-analysis | [[20260523_portfolio_analysis_report]] |
+
+**총 파일 수: ~104개 (DOCS) + ~0개 (RAW) = 104개**
 
 ---
 
