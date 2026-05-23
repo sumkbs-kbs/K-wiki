@@ -177,14 +177,20 @@
 | **LLM-Wiki** | ~40개 | 도메인별 지식 (GithubRepos, 선급, 전기, etc.) |
 | **RAW** | 2개 폴더 | 원본 captured (captures, videos) |
 
-### 💰 금융/투자 분석 문서 (신규 추가)
+### 💰 금융/투자 분석 문서
 
-|| 파일명 | 주제 | Tags | Source | Related |
+||| 파일명 | 주제 | Tags | Source | Related |
 |--|--|-----|--------|-----|--|
 | **신규** | [[20260523_portfolio_analysis_report]] | 6개 계좌 주식 포트폴리오 분석 (11종목) | portfolio,stock-analysis,etf,aI-semiconductor | |
 | **신규** | [[20260523_portfolio_html_report]] | 포트폴리오 분석 HTML 리포트 (다크 테마) | portfolio,html-report,stock-analysis | [[20260523_portfolio_analysis_report]] |
 
-**총 파일 수: ~104개 (DOCS) + ~0개 (RAW) = 104개**
+### 📺 YouTube 분석 문서
+
+||| 파일명 | 주제 | Tags | Source | Related |
+|--|--|-----|--------|-----|--|
+| **신규** | [[20260523_youtube_analysis_hermes_claude_code_mcp]] | Hermes Agent + Claude Code MCP Full Setup | hermes,claude-code,mcp,agent | YouTube | [[AI 코드 에이전트 시대_27706]], [[AI 시대 학교 교육_24609]], [[AI 교육 플랫폼_14965]] |
+
+**총 파일 수: ~107개 (DOCS) + ~0개 (RAW) = 107개**
 
 ---
 

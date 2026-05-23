@@ -172,7 +172,8 @@
 - [AI Engineering 5분 학습 로드맵](My_Wiki/Topics/YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md) — AI 엔지니어링 학습 레이어 (Python→ML→DL→LLM→MLOps), 사전 지식 없는 접근법 (CodeHead, 2026-05-16)
 - [오픈클로이 3.5 업그레이드 및 에러 해결법](/My_Wiki/Topics/YouTube_Analysis_OpenClow_35_Upgrade_20260516.md) — 오픈클로이 주요 버전업, 업그레이드 리스크, 에러 대응 프로세스 (코앤삼 conanssam, 2026-05-16)
 - [하네스 세팅 | 빈 프로젝트부터 직접 만들기](/My_Wiki/Topics/YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md) — Meta 시니어 엔지니어가 직접 설명하는 Claude Code 하네스 세팅 (실밸개발자, 41분, 2.8만회)
-- [Hermes를 실무 에이전트로 바꾸는 명령어들](pages/youtube-Hermes-실무-에이전트-명령어들.md) — `/status`, `/branch`, `/debug`, `/update` 등 핵심 슬래시 커맨드 + LLM Wiki, Obsidian, 리서치 자동화, 세션 resume/rollback (일하는 ai, 19분, 2.1k회)
+- [**신규** 프레임프트말고 하네스 — Karpathy 코딩 워크플로우 6원칙](My_Wiki/Topics/20260523_youtube_harness-vs-prompt-codex-cards.md) — 바비랩스. 카파시의 6원칙을 코덱스에 적용 — 프롬프트 설계 vs 하네스 설계 (6분, 2026-05-23)
++- [Hermes를 실무 에이전트로 바꾸는 명령어들](pages/youtube-Hermes-실무-에이전트-명령어들.md) — `/status`, `/branch`, `/debug`, `/update` 등 핵심 슬래시 커맨드 + LLM Wiki, Obsidian, 리서치 자동화, 세션 resume/rollback (일하는 ai, 19분, 2.1k회)
 - [AI회사 교육총괄이 말한 AI 활용법](pages/AI회사-교육총괄-AI활용법-UjwaAF9X0qg.md) — 2022년형 '비서' 방식의 한계, 맥락(Context) 공유, AI 에이전트 활용 전략, 앤트로픽 교육 총괄 드류 벤트의 통찰 (돈되는 AI+SNS, 이든, 8분, 7.4k회)
 
 ### 5.4 Website Analysis
