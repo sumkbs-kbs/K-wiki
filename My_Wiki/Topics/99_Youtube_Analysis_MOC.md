@@ -1,12 +1,12 @@
-# YouTube & AI Analysis MOC (2026-05-22)
+# YouTube & AI Analysis MOC (2026-05-23)
 
 > YouTube/AI 산업 분석 37건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
 
 ## 요약
-|- 분석된 채널/소스: 29개
-| - 분석된 총 영상/article: 49건
-| - **최신 분석**: 2026-05-23 (프롬프트말고 하네스 / Karpathy 코드워즈워크 6원칙 / Qwen 3.7 Max+Plus / Karpathy-Anthropic)
 
+- 분석된 채널/소스: 30개
+- 분석된 총 영상/article: 51건
+- 최신 분석: 2026-05-23 (평면도 3D 변환 앱 파이프라인 / Karpathy 하네스 설계 / Qwen 3.7 / Karpathy-Anthropic)
 ## 🤖 모델/기술 (5개)
 - [**신규** Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지](YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html)
 - [**신규** 알리바바 Qwen 3.7-Max: 중국산 Frontier 에이전트 모델](YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier.html)
@@ -19,6 +19,7 @@
 - [GStack+GSD+Superpowers 조합 자율주행 AI 코딩](YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md)
 - [OpenClaw 5Agents CodingFree](YouTube_Analysis_OpenClaw_5Agents_CodingFree.md)
 - [OpenClaw v2026.5.7 Release](YouTube_Analysis_OpenClaw_v2026.5.7_Release.md)
+- [**실습** 평면도 2D→3D 변환 앱 풀스택 파이프라인 (OpenDesign → Codex → HyperFrames)](20260523_youtube_opendesign-codex-floorplan-3d.md) — 오픈디자인 디자인 핸드오프 → Codex CLI 백엔드/2D분석/3D뷰어 → HyperFrames MP4 (659세그먼트, 25분, 2026-05-23)
 
 ## 🤖 Hermes/Agent 관련 (10개)
 - [**신규** Claude + Hermes Agent: NEW Agent OS — Goldy Mission Stack 4계층 아키텍처](YouTube_Analysis_Hermes_Claude_Agent_OS_Mission_Stack.html)
