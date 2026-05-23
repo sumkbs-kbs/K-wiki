@@ -5,8 +5,9 @@
 
 ## 최근 변경 사항 (최신순)
 
-|| **2026-05-23** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,286+0.55%, S&P 500 7,446+0.17%, 나스닥 26,293+0.09%, 금 $4,523, WTI $96.60, 삼성전자 292,500, SK하이닉스 1,941,000, Samsung SDI 647,000+5.03%, 현대차 655,000)
-|| **2026-05-23** — Tools 섹션 신규 추가: SmallCode(소형LLM 코딩에이전트) + AgentMemory(영구메모리)
+| | **2026-05-23** — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro)
+| | **2026-05-23** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,286+0.55%, S&P 500 7,446+0.17%, 나스닥 26,293+0.09%, 금 $4,523, WTI $96.60, 삼성전자 292,500, SK하이닉스 1,941,000, Samsung SDI 647,000+5.03%, 현대차 655,000)
+| | **2026-05-23** — Tools 섹션 신규 추가: SmallCode(소형LLM 코딩에이전트) + AgentMemory(영구메모리)
 | **2026-05-22** — 금융시장 동향 추가 (KOSPI 7,815.59 사상 첫 7,800선 돌파 +8.42%, KOSDAQ +4.73%, 다우 50,286 +0.55%, S&P 500 7,446 +0.17%, 나스닥 26,293 +0.09%, 금 $4,544, WTI $97.64, 삼성 299,500 +8.51%, SK하이닉스 1,801,000 +11.23%)
 | **2026-05-20** — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic-Stainless.dev 인수, Musk-OpenAI 소송 패소, NVIDIA AI 칩 경쟁, Mind Robotics $400M, LetinAR AI 안경, Khosla Genesis AI풀스택 로보틱스)
 | **2026-05-19** — 금융시장 동향 통합 문서 추가 (KOSPI 7,516 반등, S&P 500 7,403 보합, 나스닥 이틀째 하락, 다우 49,686 상승, 유럽 강세, 아시아 약세)
@@ -156,6 +157,8 @@
 ---
 
 ### 5.2 AI/LLM/Physical AI 기술 대시보드 (신규)
+#### 📁 2026-05-23 최신 기술 동향
+- [AI/LLM/Physical AI 기술 대시보드(2026-05-23)](My_Wiki/Topics/AI_Technology_Dashboard_20260523.md) — Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro
 #### 📁 2026-05-16 최신 기술 동향
 - [AI/LLM/Physical AI 기술 대시보드(2026-05-16)](My_Wiki/Topics/AI_Technology_Dashboard_20260516.md) — HuggingFace Blog, HN, TechCrunch 기반. OpenAI 거버넌스 위기, MoE/EMO 연구, IBM Granite 4.1, vLLM, 휴머노이드 실증, BCI 센서 등
 
@@ -202,9 +205,9 @@
 ## 볼트 통계
 
 | **총 마크다운 파일**: 717건
-| **My_Wiki 지식 체계**: 299건 (Topics 57 / Projects 16 / Decisions 4 / Skills 2 + My_Wiki 루트 9)
+|| **My_Wiki 지식 체계**: 300건 (Topics 58 / Projects 16 / Decisions 4 / Skills 2 + My_Wiki 루트 9)
 | **조선해운 관련 지식**: 9건 (IEC 60092 6개 + 조선설계자동화 + 조선해운Cable전장 + GTT)
 | **GitHub 레포 분석**: 15개 프로젝트 인덱스 + 11개 lock 파일 (정리 필요)
 | **프로젝트 분석**: 2건 (Antigravity-K 정밀적 2건, YouTube Hermes 명령어 가이드 1건)
 | **000-Inbox**: 0건 (모든 파일 Topics/로 분류 완료, 2026-05-16)
-| **최종 업데이트**: 2026-05-23
+|| **최종 업데이트**: 2026-05-23 (AI/LLM/Physical AI 기술 대시보드)
