@@ -3,12 +3,18 @@
 > **새 AI 또는 새 세션이 오면 "무엇을 하려는데, 파일이 어디 있나?" → index.md 에 먼저 물어보세요.**
 > 이 파일은 모든 DOCS 문서의 위치·태그·관련성을 매핑하는 인포메이션 디스킹입니다.
 
-**Last Updated:** 2026-05-24
+**Last Updated:** 2026-05-25
 **Model Version:** 2.0 (Three-Space Architecture)
 
 ---
 
 ## 📚 문서 매핑 테이블 (모든 DOCS 파일의 상세 위치)
+
+### 📰 AI/IT 뉴스
+
+| 파일명 | 주제 | Tags | Source | Related |
+|---|---|---|---|---|
+| **신규** | [[20260525_news_ms_fara15_browser_agent]] | MS 파라 1.5 — 차세대 브라우저 에이전트 | MS (AI타임스 보도) | [[99_Youtube_Analysis_MOC]] |
 
 ### 📡 YouTube 분석 문서 (34개)
 
