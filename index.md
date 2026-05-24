@@ -5,7 +5,7 @@
 
 ## 최근 변경 사항 (최신순)
 
-| | **2026-05-24** — YouTube 분석 4건 추가: Claude AI SEO(Julian Goldie), IT뉴스 Google IO 총정리(조코딩), 코스피 1만시대 주도주 5개(경제사냥꾼), 에르메스 에이전트 무료(진바이브) | **2026-05-23** — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro)
+| | **2026-05-24** — YouTube 분석 7건 추가: Claude AI SEO, IT뉴스 Google IO, 코스피 1만시대, 에르메스 무료 + LLM Wiki(RAG차이), FreeBuff(무료코딩에이전트), Web App Google AI+Firebase | **2026-05-23 — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro)
 || | **2026-05-24** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, VIX 16.70, 금 $4,523, WTI $96.60, 비트코인 $76,766+1.49%, 삼성전자 292,500, SK하이닉스 1,941,000)
 | | **2026-05-23** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,286+0.55%, S&P 500 7,446+0.17%, 나스닥 26,293+0.09%, 금 $4,523, WTI $96.60, 삼성전자 292,500, SK하이닉스 1,941,000, Samsung SDI 647,000+5.03%, 현대차 655,000)
 | | **2026-05-23** — Tools 섹션 신규 추가: SmallCode(소형LLM 코딩에이전트) + AgentMemory(영구메모리)
@@ -46,7 +46,7 @@
 
 > `/Users/mr.k/wiki/My_Wiki/` 하위에 정리된 개인 지식베이스
 
-#### 📁 Topics (주제별 지식 — 36건)
+#### 📁 Topics (주제별 지식 — 39건)
 - **IEC 60092 선박 전기 표준**
   - [IEC 60092-101 General](My_Wiki/Topics/IEC_60092-101_General.md)
   - [IEC 60092-201 System Design](My_Wiki/Topics/IEC_60092-201_System_Design.md)
@@ -180,6 +180,9 @@
 - [IT뉴스: Google IO 총정리, Glasswing, OpenAI, Composer 2.5, Qwen3.7-Max (조코딩, 2h26m, 3.7k회)](My_Wiki/Topics/20260524_youtube_google_io_2026_news.md) — 라이브 스트리밍, Google IO/Project Glasswing/OpenAI 이산 기하학 반증/Composer 2.5/Qwen3.7-Max
 - [코스피 1만시대, 한국 주식 주도주 5개 분석 (경제사냥꾼, 13분, 1.7만회)](My_Wiki/Topics/20260524_youtube_kospi_10000_leading_stocks.md) — 반도체 리더 신호/트럼프 수혜/AI 수혜주
 - [에르메스 에이전트 무료로 쓰세요! (진바이브, Shorts, 288 likes)](My_Wiki/Topics/20260524_youtube_hermes_agent_free.md) — 바이브코딩 월 천만 원 수익 인증, Deepseek Nova Portal 접근
+- [LLM Wiki(RAG와의 차이): 매번 같은 설명 없이 AI 협업 (현업에이전트, 34분)](My_Wiki/Topics/20260524_youtube_llm_wiki_vs_rag.md) — Karpathy LLM Wiki 개념, RAG 대비 지속축적형 지식베이스
+- [FreeBuff: 100% 무료 코딩 에이전트, 9개 서브에이전트 (AI Stack Engineer, 9분, 2.6k회)](My_Wiki/Topics/20260524_youtube_freebuff_coding_agent.md) — npm 설치, 텍스트광고지원무료, DeepSeek/MiniMax지원
+- [Web App 구축 및 출시: Google AI + Firebase 완전 가이드 (Metics Media, 42분)](My_Wiki/Topics/20260524_youtube_web_app_google_ai_firebase.md) — 프롬프트4부공식, 백엔드4기둥, GitHub+Hostinger배포, 도메인연결
 - [AI회사 교육총괄이 말한 AI 활용법](pages/AI회사-교육총괄-AI활용법-UjwaAF9X0qg.md) — 2022년형 '비서' 방식의 한계, 맥락(Context) 공유, AI 에이전트 활용 전략, 앤트로픽 교육 총괄 드류 벤트의 통찰 (돈되는 AI+SNS, 이든, 8분, 7.4k회)
 
 ### 5.4 Website Analysis
