@@ -6,7 +6,7 @@
 
 - 분석된 채널/소스: 30개
 - 분석된 총 영상/article: 51건
-- 최신 분석: 2026-05-23 (평면도 3D 변환 앱 파이프라인 / Karpathy 하네스 설계 / Qwen 3.7 / Karpathy-Anthropic)
+- 최신 분석: 2026-05-23 (Hermes 0.14 역대급 업데이라 / 평면도 3D 변환 앱 / Karpathy 하네스 설계 / Qwen 3.7)
 ## 🤖 모델/기술 (5개)
 - [**신규** Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지](YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html)
 - [**신규** 알리바바 Qwen 3.7-Max: 중국산 Frontier 에이전트 모델](YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier.html)
@@ -21,7 +21,8 @@
 - [OpenClaw v2026.5.7 Release](YouTube_Analysis_OpenClaw_v2026.5.7_Release.md)
 - [**실습** 평면도 2D→3D 변환 앱 풀스택 파이프라인 (OpenDesign → Codex → HyperFrames)](20260523_youtube_opendesign-codex-floorplan-3d.md) — 오픈디자인 디자인 핸드오프 → Codex CLI 백엔드/2D분석/3D뷰어 → HyperFrames MP4 (659세그먼트, 25분, 2026-05-23)
 
-## 🤖 Hermes/Agent 관련 (10개)
+## 🤖 Hermes/Agent 관련 (11개)
+- [**신규** Hermes 0.14 역대급 업데이트 분석 (기억연장, 구글워크스페이스, 비디오제네레이터, PC원격제어, 코드워커)](20260523_hermes_014_update_analysis.md) — 영선AI 탐구, 19분, 532세그먼트
 - [**신규** Claude + Hermes Agent: NEW Agent OS — Goldy Mission Stack 4계층 아키텍처](YouTube_Analysis_Hermes_Claude_Agent_OS_Mission_Stack.html)
 - [**신규** Hermes Skill Bundles: 워크플로우 스킬 번들링 가이드](YouTube_Analysis_Hermes_Skill_Bundles_Setup_Guide.html)
 - [Hermes-Agent X Codex 설치 풀가이드](YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md)

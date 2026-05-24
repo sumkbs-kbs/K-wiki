@@ -3,14 +3,14 @@
 > **새 AI 또는 새 세션이 오면 "무엇을 하려는데, 파일이 어디 있나?" → index.md 에 먼저 물어보세요.**
 > 이 파일은 모든 DOCS 문서의 위치·태그·관련성을 매핑하는 인포메이션 디스킹입니다.
 
-**Last Updated:** 2026-05-21
+**Last Updated:** 2026-05-24
 **Model Version:** 2.0 (Three-Space Architecture)
 
 ---
 
 ## 📚 문서 매핑 테이블 (모든 DOCS 파일의 상세 위치)
 
-### 📡 YouTube 분석 문서 (33개)
+### 📡 YouTube 분석 문서 (34개)
 
 || 파일명 | 주제 | Tags | Source | Related |
 |---|------|-----|--------|---------|
@@ -53,6 +53,8 @@
  | ChatGPT 콜론(:) 시크릿 코드 15가지 | prompt,AI,productivity | AI Stack Engineer | [[99_Youtube_Analysis_MOC]] |
 | | Lat 지식 그래프 | knowledge-graph,lat | lat | |
 || Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
+
+| **신규** | [[20260524_youtube_hermes_computer_use_agents]] | Hermes Agent OS - 무료 컴퓨터 자동화 에이전트 구축 | hermes,agent,os,automation,computer-use | Julian Goldie SEO | [[99_Youtube_Analysis_MOC]] |
 
 | Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | [[Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514]] |
 | 20260519_hermes-kanban-ai-seo-update.md | Hermes Kanban AI SEO 무료 업데이트 | ai-seo,hermes,kanban | [[Julian Goldie SEO]] (youtube) | |
@@ -169,7 +171,7 @@
 
 | 항목 | 항목수 | 설명 |
 |---|---|---|
-| **Topics** | 65개 파일 | 주제별 지식 (YouTube 분석, 기술, 금융, 조선) |
+| **Topics** | 66개 파일 | 주제별 지식 (YouTube 분석, 기술, 금융, 조선) |
 | **Projects** | 16개 파일 | 프로젝트 문서 (Plantler, Ssak, Antigravity-K) |
 | **Decisions** | 4개 파일 | 의사결정 기록 |
 | **Skills** | 2개 파일 | 워크플로우 스킬 |

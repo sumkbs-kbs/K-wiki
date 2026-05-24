@@ -1,0 +1,27 @@
+# 📦 Github Repository: nanobanana-pro-obsidian
+
+URL: [https://github.com/reallygood83/nanobanana-pro-obsidian.git](https://github.com/reallygood83/nanobanana-pro-obsidian.git)
+
+- 📄 [[.gitignore.md|.gitignore]]
+- 📄 [[esbuild.config.mjs.md|esbuild.config.mjs]]
+- 📄 [[LICENSE.md|LICENSE]]
+- 📄 [[main.js.md|main.js]]
+- 📄 [[manifest.json.md|manifest.json]]
+- 📄 [[package-lock.json.md|package-lock.json]]
+- 📄 [[package.json.md|package.json]]
+- 📄 [[README.md.md|README.md]]
+- 📄 [[SPEC.md.md|SPEC.md]]
+- 📄 [[styles.css.md|styles.css]]
+- 📄 [[tsconfig.json.md|tsconfig.json]]
+- 📄 [[versions.json.md|versions.json]]
+- 📄 [[i18n.ts.md|src/i18n.ts]]
+- 📄 [[main.ts.md|src/main.ts]]
+- 📄 [[previewModal.ts.md|src/previewModal.ts]]
+- 📄 [[progressModal.ts.md|src/progressModal.ts]]
+- 📄 [[quickOptionsModal.ts.md|src/quickOptionsModal.ts]]
+- 📄 [[settings.ts.md|src/settings.ts]]
+- 📄 [[settingsData.ts.md|src/settingsData.ts]]
+- 📄 [[types.ts.md|src/types.ts]]
+- 📄 [[fileService.ts.md|src/services/fileService.ts]]
+- 📄 [[imageService.ts.md|src/services/imageService.ts]]
+- 📄 [[promptService.ts.md|src/services/promptService.ts]]

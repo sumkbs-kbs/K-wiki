@@ -1,0 +1,24 @@
+---
+type: github_repo
+repo: gbrain
+file: docker-compose.test.yml
+---
+
+# docker-compose.test.yml
+
+```yaml
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: gbrain_test
+    ports:
+      - "5434:5432"
+    healthcheck:
+      test: pg_isready -U postgres
+      interval: 5s
+      timeout: 3s
+      retries: 5
+```

@@ -1,0 +1,14 @@
+---
+type: github_repo
+repo: hermes-for-web
+file: requirements.txt
+---
+
+# requirements.txt
+
+```
+# Hermes Web UI -- minimal Python dependencies
+# The server uses only stdlib + pyyaml.
+# All heavy ML/agent deps live in the Hermes agent venv.
+pyyaml>=6.0
+```
