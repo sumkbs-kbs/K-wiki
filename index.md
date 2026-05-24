@@ -88,9 +88,10 @@
 - [Plantler v2.0 회고](My_Wiki/Decisions/Plantler 프로젝트 회고.md)
 - [Plantler 프로젝트 개요](My_Wiki/Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md)
 
-#### 📁 Skills (스킬 문서 — 8건)
+#### 📁 Skills (스킬 문서 — 9건)
 - [Python 디자인 패턴 가이드](My_Wiki/Skills/Python 디자인 패턴 가이드.md)
 - [나만의 생산성 워크플로우](My_Wiki/Skills/나만의 생산성 워크플로우.md)
+- [Zotero + MCP 서버 설치 가이드](My_Wiki/Skills/Zotero+MCP_설치가이드.md) — Zotero 데스크톱+AI 도구 연동 공식 가이드
 
 ---
 
