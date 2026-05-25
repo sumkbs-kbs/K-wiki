@@ -6,6 +6,7 @@
 ## 최근 변경 사항 (최신순)
 
 || | **2026-05-25** — YouTube 분석: AI 비서 세팅 완벽 가이드 2편 (오픈클로→헤르메스 부하 구조, mem0 메모리, paperclip 작업판, 보안 프롬프트) **벤치마킹 완료** — 현재 시스템과 1:1 비교 → 즉시작용: 보안프롬프트, paperclip / 비용 관련: mem0 무료 프로모션 활용 검토
+|| | **2026-05-25** — Paperclip 완전히 무료(MIT) 확인 → **설치 완료** (월 $0, https://localhost:3100 접속, 원클릭: npx paperclipai onboard --yes) → Wiki 문서화 (Topics/20260525_paperclip_install_guide.md)
 || | **2026-05-24** — YouTube 분석 7건 추가: Claude AI SEO, IT뉴스 Google IO, 코스피 1만시대, 에르메스 무료 + LLM Wiki(RAG차이), FreeBuff(무료코딩에이전트), Web App Google AI+Firebase | **2026-05-23 — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro)
 || | **2026-05-24** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, VIX 16.70, 금 $4,523, WTI $96.60, 비트코인 $76,766+1.49%, 삼성전자 292,500, SK하이닉스 1,941,000)
 | | **2026-05-23** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,286+0.55%, S&P 500 7,446+0.17%, 나스닥 26,293+0.09%, 금 $4,523, WTI $96.60, 삼성전자 292,500, SK하이닉스 1,941,000, Samsung SDI 647,000+5.03%, 현대차 655,000)
