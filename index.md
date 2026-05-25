@@ -5,7 +5,8 @@
 
 ## 최근 변경 사항 (최신순)
 
-|| | **2026-05-25** — YouTube 분석: AI 비서 세팅 완벽 가이드 2편 (오픈클로→헤르메스 부하 구조, mem0 메모리, paperclip 작업판, 보안 프롬프트) **벤치마킹 완료** — 현재 시스템과 1:1 비교 → 즉시작용: 보안프롬프트, paperclip / 비용 관련: mem0 무료 프로모션 활용 검토
+||| | **2026-05-25** — YouTube 분석: LM Studio MTP 설정으로 로컬 AI 속도 더블업 (품질 저하 무, 토큰/초 2x 향상, AsapGuide) — M5 맥스와 완벽한 매칭, Antigravity-K API 연동 가능
+||| | **2026-05-25** — YouTube 분석: AI 비서 세팅 완벽 가이드 2편 (오픈클로→헤르메스 부하 구조, mem0 메모리, paperclip 작업판, 보안 프롬프트) **벤치마킹 완료** — 현재 시스템과 1:1 비교 → 즉시작용: 보안프롬프트, paperclip / 비용 관련: mem0 무료 프로모션 활용 검토
 || | **2026-05-25** — Paperclip 완전히 무료(MIT) 확인 → **설치 완료** (월 $0, https://localhost:3100 접속, 원클릭: npx paperclipai onboard --yes) → Wiki 문서화 (Topics/20260525_paperclip_install_guide.md)
 || | **2026-05-24** — YouTube 분석 7건 추가: Claude AI SEO, IT뉴스 Google IO, 코스피 1만시대, 에르메스 무료 + LLM Wiki(RAG차이), FreeBuff(무료코딩에이전트), Web App Google AI+Firebase | **2026-05-23 — AI/LLM/Physical AI 기술 대시보드 추가 (Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro)
 || | **2026-05-24** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, VIX 16.70, 금 $4,523, WTI $96.60, 비트코인 $76,766+1.49%, 삼성전자 292,500, SK하이닉스 1,941,000)
@@ -178,15 +179,19 @@
 - [오픈클로이 3.5 업그레이드 및 에러 해결법](/My_Wiki/Topics/YouTube_Analysis_OpenClow_35_Upgrade_20260516.md) — 오픈클로이 주요 버전업, 업그레이드 리스크, 에러 대응 프로세스 (코앤삼 conanssam, 2026-05-16)
 - [하네스 세팅 | 빈 프로젝트부터 직접 만들기](/My_Wiki/Topics/YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md) — Meta 시니어 엔지니어가 직접 설명하는 Claude Code 하네스 세팅 (실밸개발자, 41분, 2.8만회)
 - [**신규** 프레임프트말고 하네스 — Karpathy 코딩 워크플로우 6원칙](My_Wiki/Topics/20260523_youtube_harness-vs-prompt-codex-cards.md) — 바비랩스. 카파시의 6원칙을 코덱스에 적용 — 프롬프트 설계 vs 하네스 설계 (6분, 2026-05-23)
-+- [Hermes를 실무 에이전트로 바꾸는 명령어들](pages/youtube-Hermes-실무-에이전트-명령어들.md) — `/status`, `/branch`, `/debug`, `/update` 등 핵심 슬래시 커맨드 + LLM Wiki, Obsidian, 리서치 자동화, 세션 resume/rollback (일하는 ai, 19분, 2.1k회)
-- - [Claude AI SEO: 4시간 만에 무료로 구글 1위 (Julian Goldie SEO, 36초, 81회)](My_Wiki/Topics/20260524_youtube_claude_ai_seo_4hours.md) — Claude AI SEO, 에이전트 OS 마스터클래스, Skool 커밋티
-- [IT뉴스: Google IO 총정리, Glasswing, OpenAI, Composer 2.5, Qwen3.7-Max (조코딩, 2h26m, 3.7k회)](My_Wiki/Topics/20260524_youtube_google_io_2026_news.md) — 라이브 스트리밍, Google IO/Project Glasswing/OpenAI 이산 기하학 반증/Composer 2.5/Qwen3.7-Max
-- [코스피 1만시대, 한국 주식 주도주 5개 분석 (경제사냥꾼, 13분, 1.7만회)](My_Wiki/Topics/20260524_youtube_kospi_10000_leading_stocks.md) — 반도체 리더 신호/트럼프 수혜/AI 수혜주
-- [에르메스 에이전트 무료로 쓰세요! (진바이브, Shorts, 288 likes)](My_Wiki/Topics/20260524_youtube_hermes_agent_free.md) — 바이브코딩 월 천만 원 수익 인증, Deepseek Nova Portal 접근
-- [LLM Wiki(RAG와의 차이): 매번 같은 설명 없이 AI 협업 (현업에이전트, 34분)](My_Wiki/Topics/20260524_youtube_llm_wiki_vs_rag.md) — Karpathy LLM Wiki 개념, RAG 대비 지속축적형 지식베이스
-- [FreeBuff: 100% 무료 코딩 에이전트, 9개 서브에이전트 (AI Stack Engineer, 9분, 2.6k회)](My_Wiki/Topics/20260524_youtube_freebuff_coding_agent.md) — npm 설치, 텍스트광고지원무료, DeepSeek/MiniMax지원
-- [Web App 구축 및 출시: Google AI + Firebase 완전 가이드 (Metics Media, 42분)](My_Wiki/Topics/20260524_youtube_web_app_google_ai_firebase.md) — 프롬프트4부공식, 백엔드4기둥, GitHub+Hostinger배포, 도메인연결
-- [AI회사 교육총괄이 말한 AI 활용법](pages/AI회사-교육총괄-AI활용법-UjwaAF9X0qg.md) — 2022년형 '비서' 방식의 한계, 맥락(Context) 공유, AI 에이전트 활용 전략, 앤트로픽 교육 총괄 드류 벤트의 통찰 (돈되는 AI+SNS, 이든, 8분, 7.4k회)
+|+- [Hermes를 실무 에이전트로 바꾸는 명령어들](pages/youtube-Hermes-실무-에이전트-명령어들.md) — `/status`, `/branch`, `/debug`, `/update` 등 핵심 슬래시 커맨드 + LLM Wiki, Obsidian, 리서치 자동화, 세션 resume/rollback (일하는 ai, 19분, 2.1k회)
+|- [**신규** LM Studio MTP: 로컬 AI 속도 더블업 — 품질 저하 없이 토큰/초 2x (AsapGuide, 18분)](My_Wiki/Topics/20260525_youtube_lmstudio_mtp_local_speed.md) — Multi-Token Prediction 설정, Apple Silicon 최적화, Antigravity-K 연동 방안
+|- [**신규** Claude AI vs 안티그래비티: 강점 조합 전략 — 기획/디자인은 안티그래비티, 구현/검증은 Claude Code (2026-05-25)](My_Wiki/Topics/20260525_youtube_claude_antigravity_combo.md) — 클로드 코드 1주일 무료 프로모션, 반올림 전략
+|- [**신규** M5 맥스 로컬 Wiki 구축 + Antigravity CLI×Obsidian 자동화 (2026-05-25)](My_Wiki/Topics/20260525_youtube_m5_local_wiki_obsidian_antigravity.md) — OpsiGravity 플러그인, Grok X-search 연동, BRAT 설치
+|- [**신규** AI 비서 세팅 완벽 가이드 2편: 오픈클로→헤르메스 부하 구조 + 메모리+작업판+보안 (2026-05-25)](My_Wiki/Topics/20260525_youtube_hermes_openclaw_mem0_paperclip.md) — 벤치마킹 완료, 보안프롬프트/Paperclip 즉시작용
+- [**2026-05-25**: Claude AI SEO: 4시간 만에 무료로 구글 1위](My_Wiki/Topics/20260524_youtube_claude_ai_seo_4hours.md) — Claude AI SEO, 에이전트 OS 마스터클래스, Skool 커밋티
+- [**2026-05-25**: IT뉴스: Google IO 총정리, Glasswing, OpenAI, Composer 2.5, Qwen3.7-Max](My_Wiki/Topics/20260524_youtube_google_io_2026_news.md) — 라이브 스트리밍, Google IO/Project Glasswing/OpenAI 이산 기하학 반증/Composer 2.5/Qwen3.7-Max
+- [**2026-05-25**: 코스피 1만시대, 한국 주식 주도주 5개 분석](My_Wiki/Topics/20260524_youtube_kospi_10000_leading_stocks.md) — 반도체 리더 신호/트럼프 수혜/AI 수혜주
+- [**2026-05-25**: 에르메스 에이전트 무료로 쓰세요!](My_Wiki/Topics/20260524_youtube_hermes_agent_free.md) — 바이브코딩 월 천만 원 수익 인증, Deepseek Nova Portal 접근
+- [**2026-05-25**: LLM Wiki(RAG와의 차이): 매번 같은 설명 없이 AI 협업](My_Wiki/Topics/20260524_youtube_llm_wiki_vs_rag.md) — Karpathy LLM Wiki 개념, RAG 대비 지속축적형 지식베이스
+- [**2026-05-25**: FreeBuff: 100% 무료 코딩 에이전트, 9개 서브에이전트](My_Wiki/Topics/20260524_youtube_freebuff_coding_agent.md) — npm 설치, 텍스트광고 지원무료, DeepSeek/MiniMax지원
+- [**2026-05-25**: Web App 구축 및 출시: Google AI + Firebase 완전 가이드](My_Wiki/Topics/20260524_youtube_web_app_google_ai_firebase.md) — 프롬프트4부공식, 백엔드4기둥, GitHub+Hostinger배포, 도메인연결
+- [**2026-05-25**: AI회사 교육총괄이 말한 AI 활용법](pages/AI회사-교육총괄-AI활용법-UjwaAF9X0qg.md) — 2022년형 '비서' 방식의 한계, 맥락(Context) 공유, AI 에이전트 활용 전략, 앤트로픽 교육 총괄 드류 벤트의 통찰 (돈되는 AI+SNS, 이든, 8분, 7.4k회)
 
 ### 5.4 Website Analysis
 #### 📁 분석 문서
@@ -223,4 +228,4 @@
 | **GitHub 레포 분석**: 15개 프로젝트 인덱스 + 11개 lock 파일 (정리 필요)
 | **프로젝트 분석**: 2건 (Antigravity-K 정밀적 2건, YouTube Hermes 명령어 가이드 1건)
 | **000-Inbox**: 0건 (모든 파일 Topics/로 분류 완료, 2026-05-16)
-|| **최종 업데이트**: 2026-05-24 (금융시장 동향)
+|| **최종 업데이트**: 2026-05-25 (YouTube MTP 분석 + index.md 구조화)
