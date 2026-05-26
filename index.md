@@ -5,7 +5,8 @@
 
 ## 최근 변경 사항 (최신순)
 
-|\* **2026-05-26** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, 금 $4,569+1.16%, WTI $91.06/배럴, 은 $78.03/oz, USD/KRW 1,516.84) — Memorial Day 휴장 주
+||| | **2026-05-26** — AI/LLM/Physical AI 기술 대시보드 추가 (Gemini 3.5 Flash, GPT-5.5, Grok 4.3 모델 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정/호르무즈해협, 교황 AI 백서 "Magnifica Humanitas", Config 로봇데이터 TSMC, DeepSeek 저가 파괴, 한국 CAIO 체계, SNU+Google DeepMind LiteFrame)
+|| | **2026-05-26** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, 금 $4,569+1.16%, WTI $91.06/배럴, 은 $78.03/oz, USD/KRW 1,516.84) — Memorial Day 휴장 주
 ||| | **2026-05-25** — YouTube 분석: LM Studio MTP 설정으로 로컬 AI 속도 더블업 (품질 저하 무, 토큰/초 2x 향상, AsapGuide) — M5 맥스와 완벽한 매칭, Antigravity-K API 연동 가능
 ||| | **2026-05-25** — YouTube 분석: AI 비서 세팅 완벽 가이드 2편 (오픈클로→헤르메스 부하 구조, mem0 메모리, paperclip 작업판, 보안 프롬프트) **벤치마킹 완료** — 현재 시스템과 1:1 비교 → 즉시작용: 보안프롬프트, paperclip / 비용 관련: mem0 무료 프로모션 활용 검토
 || | **2026-05-25** — Paperclip 완전히 무료(MIT) 확인 → **설치 완료** (월 $0, https://localhost:3100 접속, 원클릭: npx paperclipai onboard --yes) → Wiki 문서화 (Topics/20260525_paperclip_install_guide.md)
@@ -165,6 +166,8 @@
 ---
 
 ### 5.2 AI/LLM/Physical AI 기술 대시보드 (신규)
+#### 📁 2026-05-26 최신 기술 동향
+- [AI/LLM/Physical AI 기술 대시보드(2026-05-26)](My_Wiki/Topics/AI_Technology_Dashboard_20260526.md) — Gemini 3.5 Flash/GPT-5.5/Grok 4.3 모델 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정/호르무즈해협, 교황 AI 백서, Config 로봇데이터 TSMC, DeepSeek 저가 파괴
 #### 📁 2026-05-23 최신 기술 동향
 - [AI/LLM/Physical AI 기술 대시보드(2026-05-23)](My_Wiki/Topics/AI_Technology_Dashboard_20260523.md) — Anthropic Glasswing, Meta ARI humanoid 인수, Korea AI humanoid $33.5M, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하, Claude Opus 4.7, Gemini 3.1 Pro
 #### 📁 2026-05-16 최신 기술 동향
@@ -224,10 +227,10 @@
 
 ## 볼트 통계
 
-| **총 마크다운 파일**: 717건
-|| **My_Wiki 지식 체계**: 301건 (Topics 59 / Projects 16 / Decisions 4 / Skills 2 + My_Wiki 루트 9)
+| **총 마크다운 파일**: 718건
+||| **My_Wiki 지식 체계**: 302건 (Topics 60 / Projects 16 / Decisions 4 / Skills 2 + My_Wiki 루트 9)
 | **조선해운 관련 지식**: 9건 (IEC 60092 6개 + 조선설계자동화 + 조선해운Cable전장 + GTT)
 | **GitHub 레포 분석**: 15개 프로젝트 인덱스 + 11개 lock 파일 (정리 필요)
 | **프로젝트 분석**: 2건 (Antigravity-K 정밀적 2건, YouTube Hermes 명령어 가이드 1건)
 | **000-Inbox**: 0건 (모든 파일 Topics/로 분류 완료, 2026-05-16)
-|| **최종 업데이트**: 2026-05-25 (YouTube MTP 분석 + index.md 구조화)
+| | **최종 업데이트**: 2026-05-26 (AI/LLM/Physical AI 기술 대시보드 추가 + 금융시장 동향 + index.md 구조화)
