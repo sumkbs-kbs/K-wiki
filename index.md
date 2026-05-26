@@ -5,7 +5,8 @@
 
 ## 최근 변경 사항 (최신순)
 
-||| | **2026-05-26** — AI/LLM/Physical AI 기술 대시보드 추가 (Gemini 3.5 Flash, GPT-5.5, Grok 4.3 모델 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정/호르무즈해협, 교황 AI 백서 "Magnifica Humanitas", Config 로봇데이터 TSMC, DeepSeek 저가 파괴, 한국 CAIO 체계, SNU+Google DeepMind LiteFrame)
+| | **2026-05-26** — Website Analysis: Hada.geekNews #29682 "LLM의 지난 6개월을 5분 만에 보기" (Simon Willison PyCon US 2026) — 코딩 에이전트 실용화 임계점, RLVR, 펠리컨 테스트, 로컬 모델 비약 (20GB급 노트북 구동)
+|||| | **2026-05-26** — AI/LLM/Physical AI 기술 대시보드 추가 (Gemini 3.5 Flash, GPT-5.5, Grok 4.3 모델 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정/호르무즈해협, 교황 AI 백서 "Magnifica Humanitas", Config 로봇데이터 TSMC, DeepSeek 저가 파괴, 한국 CAIO 체계, SNU+Google DeepMind LiteFrame)
 || | **2026-05-26** — 금융시장 동향 추가 (KOSPI 7,848+0.41%, KOSDAQ 1,161+4.99%, 다우 50,580+0.58%, S&P 500 7,473+0.37%, 나스닥 26,344+0.19%, 금 $4,569+1.16%, WTI $91.06/배럴, 은 $78.03/oz, USD/KRW 1,516.84) — Memorial Day 휴장 주
 ||| | **2026-05-25** — YouTube 분석: LM Studio MTP 설정으로 로컬 AI 속도 더블업 (품질 저하 무, 토큰/초 2x 향상, AsapGuide) — M5 맥스와 완벽한 매칭, Antigravity-K API 연동 가능
 ||| | **2026-05-25** — YouTube 분석: AI 비서 세팅 완벽 가이드 2편 (오픈클로→헤르메스 부하 구조, mem0 메모리, paperclip 작업판, 보안 프롬프트) **벤치마킹 완료** — 현재 시스템과 1:1 비교 → 즉시작용: 보안프롬프트, paperclip / 비용 관련: mem0 무료 프로모션 활용 검토
