@@ -36,6 +36,7 @@
 
 ## 🔧 AI Engineering (3개)
 - [Threads Automation Open Source](YouTube_Analysis_Threads_Automation_Open_Source_Code.md)
+- [**2026-05-28** CodeGraph: Claude Code에 뇌를 부여 — 30k Stars GitHub]
 - [Meta Harness Setting](YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md)
 - [CodeHead AI Engineering 5Min](YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md)
 
@@ -53,6 +54,7 @@
 
 ## 🎯 실용 AI (5개)
 - [**2026-05-27** OpenAI ChatGPT Personal Finance: 은행 연동 + AI 인사이트 (CosmoX)](20260527_youtube_cosmo_x_chatgpt_personal_finance.md) — Plaid API 연동, AI 재무 분석, 구독/포트폴리오 관리
+- [**2026-05-28** GPT 5.5 vs Claude 4.7 — 일givning의 실제 comparison (한국어 리뷰)](20260528_youtube_gpt55_vs_claude47.md)
 - [**2026-05-27** Agent OS 7-Layer Architecture (Julian Goldie)](20260527_youtube_agentos_7layer_stack.md) — Foundation→Memory→Brain→Agents→Command Center→Production→Feedback Loop
 - [**2026-05-27** Hermes AI SEO Super Agent: Goal Mode + Kanban + Studio (Julian Goldie)](20260527_youtube_hermes_seo_super_agent.md) — 6개 구성요소 통합, 48시간 내 #1 랭킹 사례
 - [**2026-05-27** Hermes Video Agent: Vision Forge System (Julian Goldie)](20260527_youtube_hermes_video_agent.md) — Grok 연동 영상 생성, X 실시간 검색, TTS 통합
