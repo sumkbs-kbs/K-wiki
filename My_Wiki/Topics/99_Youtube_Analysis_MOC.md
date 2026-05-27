@@ -1,12 +1,12 @@
 # YouTube & AI Analysis MOC (2026-05-23)
 
-> YouTube/AI 산업 분석 37건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
+> YouTube/AI 산업 분석 42건 → 주제별 분류된 인덱스. 개별 분석은 링크 참조.
 
 ## 요약
 
-- 분석된 채널/소스: 30개
-- 분석된 총 영상/article: 51건
-- 최신 분석: 2026-05-23 (Hermes 0.14 역대급 업데이라 / 평면도 3D 변환 앱 / Karpathy 하네스 설계 / Qwen 3.7)
+- 분석된 채널/소스: 31개 (Hoju, CosmoX, Julian Goldie 추가)
+- 분석된 총 영상/article: 56건 (+5건: 2026-05-27)
+- 최신 분석: 2026-05-27 (Agent OS 7-Layer / Personal Finance / Goal Backtest 등 5건) (Hermes 0.14 역대급 업데이라 / 평면도 3D 변환 앱 / Karpathy 하네스 설계 / Qwen 3.7)
 ## 🤖 모델/기술 (5개)
 - [**신규** Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지](YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html)
 - [**신규** 알리바바 Qwen 3.7-Max: 중국산 Frontier 에이전트 모델](YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier.html)
@@ -51,7 +51,12 @@
 - [MarkTL Obsidian HTML Blog Forward](YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md)
 - [Obsidian ClaudeCode RawWiki](YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md)
 
-## 🎯 실용 AI (2개)
+## 🎯 실용 AI (5개)
+- [**2026-05-27** OpenAI ChatGPT Personal Finance: 은행 연동 + AI 인사이트 (CosmoX)](20260527_youtube_cosmo_x_chatgpt_personal_finance.md) — Plaid API 연동, AI 재무 분석, 구독/포트폴리오 관리
+- [**2026-05-27** Agent OS 7-Layer Architecture (Julian Goldie)](20260527_youtube_agentos_7layer_stack.md) — Foundation→Memory→Brain→Agents→Command Center→Production→Feedback Loop
+- [**2026-05-27** Hermes AI SEO Super Agent: Goal Mode + Kanban + Studio (Julian Goldie)](20260527_youtube_hermes_seo_super_agent.md) — 6개 구성요소 통합, 48시간 내 #1 랭킹 사례
+- [**2026-05-27** Hermes Video Agent: Vision Forge System (Julian Goldie)](20260527_youtube_hermes_video_agent.md) — Grok 연동 영상 생성, X 실시간 검색, TTS 통합
+- [**2026-05-27** Claude Goal Mode로 트레이딩 전략 자율 백테스트 (호두의 AI 분석실)](20260527_youtube_hodu_trading_goal_backtest.md) — 단발 명령 vs 장기 자율 실행, 백테스트 파이프라인
 - [ChatGPT 콜론(:) 시크릿 코드 15가지](YouTube_Analysis_GPT_Colon_Prompt_Secrets.md)
 - [스레드 완전 자동 프로그램 2026 — 코드를 무료로 드립니다](YouTube_Analysis_Thread_Automation_Program_2026.md)
 
