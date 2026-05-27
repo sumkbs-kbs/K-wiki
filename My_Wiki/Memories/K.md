@@ -87,10 +87,11 @@
 ## 📅 Cronjob 현황 (2026-05-27 기준)
 
 | Job | Schedule | Next Run |
-|-----|----------|----------|
+|-----|------|-----|-|
 | 금융시장 매일 동향 | 07:00 매일 | 2026-05-28 07:00 |
 | AI/LLM/Physical AI 주간 업데이트 | 09:00 화,목 | 2026-05-30 09:00 |
 | ai-tech-briefing (주4/목) | 09:00 목 | 2026-05-28 09:00 |
+| Memory 정리 (NEW) | 매 6시간 | 2026-05-27 17:43 |
 
 ---
 
@@ -106,17 +107,33 @@
 ### 2026-05-26: 메모리 용량 초과 문제
 - **문제:** MEMORY 97%, USER 98% → 새 정보 추가 시 가장 오래된 항목 삭제
 - **해결:** 메모리 항목 정리 + Wiki 외부 저장소 활용
-- **방안:** 10,000자 이상 확장 권장
+- **방안:** 10,000자 이상 확장 권장 → **2026-05-27 완료: config.yaml memory_char_limit 10000, user_char_limit 5000**
+
+### 2026-05-27: Wiki 메모리 구조화 (7개 항목 완료)
+- 1. Wiki/Memories/K.md 프로필 생성
+- 2. Wiki/Memories/lessons/ 폴더 생성
+- 3. Wiki/Memories/projects/ 폴더 생성
+- 4. .hermes/memories/ 빈 디렉토리 + K.md 심플 버전
+- 5. Memory 정리 cronjob (매 6시간)
+- 6. Wiki/index.md 업데이트 + Git commit+push (31db075)
+- 7. config.yaml memory_char_limit 확대 (10000/5000)
 
 ---
 
 ## 🎯 다음 작업 우선순위
 
-1. [ ] Wiki/Memories/ 폴더 구조화
-2. [ ] Cronjob에 "기억 정리" 추가 (매일 07:00)
-3. [ ] config.yaml memory provider 설정 검토
-4. [ ] sessions/ 폴더 구조화 (세션별 핵심 기록)
-5. [ ] Decisions/ 폴더 구조화 (의사결정 이력)
+1. [✅] Wiki/Memories/ 폴더 구조화
+2. [✅] Cronjob에 "기억 정리" 추가 (매 6시간)
+3. [✅] config.yaml memory_char_limit → 10000, user_char_limit → 5000
+4. [✅] sessions/ 폴더 구조화 (세션별 핵심 기록)
+5. [✅] Decisions/ 폴더 구조화 (의사결정 이력)
+6. [ ] OpenClaw gateway 환경설정 (메모리 참조)
+
+## 🧭 Memory Provider 전략
+
+- **내장 메모리 built-in):** MEMORY.md(2200자) + USER.md(1375자) → 2026-05-27에 10000/5000로 확대
+- **외부 참조:** Wiki/Memories/K.md (3,700자) — cronjob sync
+- **external provider:** 설치 안함 (built-in으로 충분, 필요시 mem0/honcho 검토)
 
 ---
 
