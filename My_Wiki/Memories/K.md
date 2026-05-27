@@ -84,14 +84,14 @@
 
 ---
 
-## 📅 Cronjob 현황 (2026-05-27 기준)
+## 📅 Cronjob 현황 (2026-05-27 17:56 기준)
 
 | Job | Schedule | Next Run |
-|-----|------|-----|-|
+|-----|------|-----|
 | 금융시장 매일 동향 | 07:00 매일 | 2026-05-28 07:00 |
 | AI/LLM/Physical AI 주간 업데이트 | 09:00 화,목 | 2026-05-30 09:00 |
 | ai-tech-briefing (주4/목) | 09:00 목 | 2026-05-28 09:00 |
-| Memory 정리 (NEW) | 매 6시간 | 2026-05-27 17:43 |
+| Memory 정리 | 매 6시간 | 2026-05-28 00:00 |
 
 ---
 
@@ -119,6 +119,39 @@
 - 7. config.yaml memory_char_limit 확대 (10000/5000)
 
 ---
+
+### 2026-05-27: swarm mode → OpenRouter 무료 모델 연결
+- **문제:** Antigravity-K swarm mode가 로컬 모델만 사용하면 응답속도 매우 느림
+- **해결:** llm_client.py 작성 — local(Ollama) → OpenRouter free(종료전) → 재시도 패턴 구현
+- **결과:** `swarm_mode/config.json`에 or_api_key 설정 완료
+- **교훈:** 로컬 모델 기반이 느릴 때 OpenRouter 무료 모델으로 우회 가능
+
+### 2026-05-27: Telegram gateway SIGTERM 복구
+- **문제:** 약 1시간 동안 텔레그램 연결 끊김 (gateway 프로세스 종료, pid 48230 재시작)
+- **원인:** gateway 프로세스 SIGTERM 종료
+- **해결:** gateway 재기동 → polling mode 재연결 성공
+- **경고:** `No user allowlists configured` — allowlist 미설정 시 미인증 사용자 차단 가능
+
+### 2026-05-27: config.yaml MCP npm 패키지명 동기화
+- **문제:** config.yaml의 MCP 서버 설정과 npm install한 패키지명 불일치
+- **해결:** mcp-server-docker, @notionhq/notion-mcp-server, @henkey/postgres-mcp-server, linear-mcp, @brave/brave-search-mcp-server 등으로 통일
+- **결과:** 중복 설정 제거, npm 패키지명 기준 단일화
+
+---
+
+
+### 2026-05-27: Swarm mode → three-tier LLM 전략 완료
+- **내용:** 로컬(Tier1: qwen3.6) → 무료(Tier2: free models) → 유료(Tier3: sk-or-v1-*) 자동 라우팅 구현
+- **파일:** `swarm_mode/llm_client.py`, `swarm_mode/config.json` → 세 가지 tier 정의
+- **라우팅 규칙:** `paid=True` or `complex=True`는 무조건 Tier3. otherwise three_tier.enabled → Tier2. 기본 Tier1
+- **비용 관리:** `$10` 한도, `$8` 경고 임계값 설정
+- **Git LFS 완료:** `.gitattributes`에 `*.exe`, `*.bin`, `*.dll` 추가, `.agent/skills/gstack/bin/gstack-global-discover.exe`(115MB) 제거 push 완료
+- **결과:** swarm_mode 세 가지 tier 라우팅 로직 + 비용 관리 + GitHub 100MB 제한 우회 완료
+
+### 2026-05-27: Git LFS 대형 파일 제거 완료
+- **문제:** `gstack-global-discover`(58MB) 110MB exe 파일이 GitHub 100MB 제한 초과
+- **해결:** `git filter-repo`로 history에서 완전히 제거, `.gitattributes`에 LFS 패턴 추가, push 완료  
+- **이후:** `.gitignore`에 `.exe`, `.bin` 패턴 추가하여 자동 방지
 
 ## 🎯 다음 작업 우선순위
 
