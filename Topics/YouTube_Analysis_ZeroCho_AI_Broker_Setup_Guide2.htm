@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 비서(hermes, openclaw) 세팅 완벽 가이드 2편 - 분석 문서</title>
+</head>
+<body style="margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Noto Sans KR,sans-serif;background-color:#f5f5f5;color:#333;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f5f5f5;">
+    <tr>
+      <td align="center" style="padding:20px 10px;">
+        <table width="720" cellpadding="0" cellspacing="0" style="background-color:#ffffff;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+          
+          <!-- 헤더 -->
+          <tr>
+            <td style="background:linear-gradient(135deg,#1a237e 0%,#283593 50%,#3949ab 100%);padding:40px 36px;text-align:center;">
+              <table width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td style="text-align:center;">
+                    <p style="color:#b3e5fc;font-size:13px;letter-spacing:3px;margin:0 0 12px 0;font-weight:500;">YOUTUBE ANALYSIS REPORT</p>
+                    <h1 style="color:#ffffff;font-size:24px;margin:0 0 8px 0;font-weight:700;line-height:1.4;">AI 비서(hermes, openclaw) 세팅 완벽 가이드 2편</h1>
+                    <p style="color:#e8eaf6;font-size:15px;margin:0 0 16px 0;font-weight:400;line-height:1.5;">오픈클로를 헤르메스 부하로 &amp; mem0 메모리 &amp; paperclip 작업판</p>
+                    <table cellpadding="0" cellspacing="0" style="margin:0 auto;">
+                      <tr>
+                        <td style="background-color:rgba(255,255,255,0.15);border-radius:20px;padding:6px 16px;margin:0 4px;">
+                          <span style="color:#ffffff;font-size:12px;font-weight:500;">📺 ZeroCho TV</span>
+                        </td>
+                        <td style="background-color:rgba(255,255,255,0.15);border-radius:20px;padding:6px 16px;margin:0 4px;">
+                          <span style="color:#ffffff;font-size:12px;font-weight:500;">▶ 56.9K 구독자</span>
+                        </td>
+                        <td style="background-color:rgba(255,255,255,0.15);border-radius:20px;padding:6px 16px;margin:0 4px;">
+                          <span style="color:#ffffff;font-size:12px;font-weight:500;">⏱ 20분 33초</span>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- 요약 섹션 -->
+          <tr>
+            <td style="padding:36px 36px 0 36px;">
+              <table width="100%" cellpadding="0" cellspacing="0" style="background:linear-gradient(135deg,#e8eaf6 0%,#f3e5f5 100%);border-radius:10px;border-left:4px solid #3f51b5;">
+                <tr>
+                  <td style="padding:24px;">
+                    <h2 style="color:#1a237e;font-size:18px;margin:0 0 12px 0;font-weight:700;">📋 영상 개요</h2>
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tr><td width="120" style="padding:6px 0;color:#5c6bc0;font-size:14px;font-weight:600;">발행일</td><td style="padding:6px 0;color:#333;font-size:14px;">2026년 5월 23일</td></tr>
+                      <tr><td style="padding:6px 0;color:#5c6bc0;font-size:14px;font-weight:600;">조회수</td><td style="padding:6px 0;color:#333;font-size:14px;">669회</td></tr>
+                      <tr><td style="padding:6px 0;color:#5c6bc0;font-size:14px;font-weight:600;">좋아요</td><td style="padding:6px 0;color:#333;font-size:14px;">14개</td></tr>
+                      <tr><td style="padding:6px 0;color:#5c6bc0;font-size:14px;font-weight:600;">주제</td><td style="padding:6px 0;color:#333;font-size:14px;">AI 에이전트 세팅 (Hermes, OpenClaw, mem0, Paperclip)</td></tr>
+                      <tr><td style="padding:6px 0;color:#5c6bc0;font-size:14px;font-weight:600;">태그</td><td style="padding:6px 0;color:#333;font-size:14px;">#ai #llm #agent</td></tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- 핵심 내용 -->
+          <tr>
+            <td style="padding:28px 36px 0 36px;">
+              <h2 style="color:#1a237e;font-size:20px;margin:0 0 16px 0;font-weight:700;border-bottom:2px solid #e8eaf6;padding-bottom:10px;">🎯 핵심 내용 요약</h2>
+              
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
+                <tr>
+                  <td style="padding:16px;background-color:#fafafa;border-radius:8px;border:1px solid #e8eaf6;">
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tr><td colspan="2" style="padding-bottom:8px;"><strong style="color:#283593;font-size:15px;">🎯 영상 목적</strong></td></tr>
+                      <tr><td colspan="2" style="color:#555;font-size:13px;line-height:1.6;">호스팅어 VPS에서 <strong>ZeroCho의 AI 비서 세팅</strong>을 그대로 따라할 수 있도록 가이드하는 영상입니다. <strong>Hermes를 상사(관리자), OpenClaw를 부하(작업자)</strong>로 구성하는 하이브리드 에이전트 구조를 소개하며, <strong>mem0 메모리 시스템</strong>으로 AI의 기억력을 확장하고, <strong>Paperclip 작업판</strong>으로 복잡한 작업을 처리하는 방법을 다룹니다.</td></tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- 타임라인 -->
+              <h3 style="color:#283593;font-size:16px;margin:0 0 12px 0;font-weight:600;">📺 타임라인별 구성</h3>
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:24px;border-radius:8px;overflow:hidden;border:1px solid #e8eaf6;">
+                <tr style="background-color:#ede7f6;">
+                  <td style="padding:8px 16px;font-weight:700;color:#311b92;font-size:13px;width:90px;">05:08</td>
+                  <td style="padding:8px 16px;color:#333;font-size:13px;"><strong>메모리 시스템 소개</strong> — AI 에이전트의 장기 기억, 단기 기억, 작업 기억 구조</td>
+                </tr>
+                <tr style="background-color:#e8f5e9;">
+                  <td style="padding:8px 16px;font-weight:700;color:#2e7d32;font-size:13px;">07:01</td>
+                  <td style="padding:8px 16px;color:#333;font-size:13px;"><strong>Hostinger 광고</strong> — VPS 호스팅 서비스 소개</td>
+                </tr>
+                <tr style="background-color:#fff3e0;">
+                  <td style="padding:8px 16px;font-weight:700;color:#e65100;font-size:13px;">08:11</td>
+                  <td style="padding:8px 16px;color:#333;font-size:13px;"><strong>mem0 설치 &amp; 설정</strong> — 3개월 Pro 무료 체험 (쿠폰코드: 6GOCWLZT)</td>
+                </tr>
+                <tr style="background-color:#e3f2fd;">
+                  <td style="padding:8px 16px;font-weight:700;color:#1565c0;font-size:13px;">14:24</td>
+                  <td style="padding:8px 16px;color:#333;font-size:13px;"><strong>Paperclip 작업 설정</strong> — 복잡한 작업용 작업판 구성</td>
+                </tr>
+                <tr style="background-color:#fce4ec;">
+                  <td style="padding:8px 16px;font-weight:700;color:#c62828;font-size:13px;">18:52</td>
+                  <td style="padding:8px 16px;color:#333;font-size:13px;"><strong>보안 프롬프트</strong> — 에이전트 보안 설정 관련 가이드</td>
+                </tr>
+              </table>
+
+              <!-- 주요 기술 -->
+              <h3 style="color:#283593;font-size:16px;margin:0 0 12px 0;font-weight:600;">⚙️ 주요 기술 스택</h3>
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:24px;border:1px solid #e8eaf6;border-radius:8px;overflow:hidden;">
+                <tr style="background-color:#ede7f6;">
+                  <td style="padding:10px 16px;font-weight:600;color:#311b92;font-size:14px;width:160px;">🤖 Hermes</td>
+                  <td style="padding:10px 16px;color:#333;font-size:13px;line-height:1.5;">상사 역할 — 작업 조율, 메모리 관리, 에이전트 오케스트레이션</td>
+                </tr>
+                <tr style="background-color:#e8f5e9;">
+                  <td style="padding:10px 16px;font-weight:600;color:#2e7d32;font-size:14px;">🐾 OpenClaw</td>
+                  <td style="padding:10px 16px;color:#333;font-size:13px;line-height:1.5;">부하 역할 — 실제 작업 수행, 파일 처리, 코드 작성 등 실행부</td>
+                </tr>
+                <tr style="background-color:#fff3e0;">
+                  <td style="padding:10px 16px;font-weight:600;color:#e65100;font-size:14px;">🧠 mem0</td>
+                  <td style="padding:10px 16px;color:#333;font-size:13px;line-height:1.5;">메모리 확장 시스템 — 장기 기억 관리 (3개월 Pro 무료 체험 가능)</td>
+                </tr>
+                <tr style="background-color:#e3f2fd;">
+                  <td style="padding:10px 16px;font-weight:600;color:#1565c0;font-size:14px;">📎 Paperclip</td>
+                  <td style="padding:10px 16px;color:#333;font-size:13px;line-height:1.5;">복잡한 작업 처리용 작업판 — multi-step 작업 자동화</td>
+                </tr>
+                <tr style="background-color:#fce4ec;">
+                  <td style="padding:10px 16px;font-weight:600;color:#c62828;font-size:14px;">🖥️ Hostinger VPS</td>
+                  <td style="padding:10px 16px;color:#333;font-size:13px;line-height:1.5;">호스팅 인프라 — 원클릭 설치로 빠르게 AI 비서 세팅</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- 관련 링크 -->
+          <tr>
+            <td style="padding:0 36px 28px 36px;">
+              <h2 style="color:#1a237e;font-size:20px;margin:0 0 16px 0;font-weight:700;border-bottom:2px solid #e8eaf6;padding-bottom:10px;">🔗 관련 링크 &amp; 리소스</h2>
+              
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:16px;">
+                <tr>
+                  <td style="padding:8px 0;width:40px;font-size:18px;">🧠</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">mem0 3개월 Pro 무료 체험: <a href="https://mem0.ai/?via=hyunyoung" style="color:#1a73e8;text-decoration:none;"><u>https://mem0.ai/?via=hyunyoung</u></a></td>
+                </tr>
+                <tr>
+                  <td style="color:#2e7d32;font-size:18px;">🖥️</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">호스팅어 VPS 링크: <a href="https://www.hostinger.com/zerochovps" style="color:#1a73e8;text-decoration:none;"><u>https://www.hostinger.com/zerochovps</u></a></td>
+                </tr>
+                <tr style="background-color:#f5f5f5;">
+                  <td colspan="2" style="padding:0 56px 8px 0;color:#555;font-size:12px;">🎟️ 호스팅어 10% 할인 쿠폰 코드: <strong style="color:#c62828;">ZEROCHO</strong></td>
+                </tr>
+                <tr>
+                  <td style="color:#311b92;font-size:18px;">🐾</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">오픈클로 원클릭 설치: <a href="https://www.hostinger.com/zerochooc" style="color:#1a73e8;text-decoration:none;"><u>https://www.hostinger.com/zerochooc</u></a></td>
+                </tr>
+                <tr>
+                  <td style="color:#e65100;font-size:18px;">🤖</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">헤르메스 원클릭 설치: <a href="https://www.hostinger.com/zerochohermes" style="color:#1a73e8;text-decoration:none;"><u>https://www.hostinger.com/zerochohermes</u></a></td>
+                </tr>
+                <tr>
+                  <td style="color:#1565c0;font-size:18px;">📚</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">제로초 강좌/로드맵 통합: <a href="https://www.zerocho.com/lecture" style="color:#1a73e8;text-decoration:none;"><u>https://www.zerocho.com/lecture</u></a></td>
+                </tr>
+                <tr>
+                  <td style="color:#c62828;font-size:18px;">💻</td>
+                  <td style="padding:8px 12px 8px 0;color:#1a73e8;font-size:14px;">GitHub: <a href="https://github.com/zerocho" style="color:#1a73e8;text-decoration:none;"><u>https://github.com/zerocho</u></a></td>
+                </tr>
+                <tr>
+                  <td style="color:#6a1b9a;font-size:18px;">👨‍💻</td>
+                  <td style="padding:8px 12px 8px 0;color:#333;font-size:13px;">제로초: Node.js 교과서 저자, 전)카카오모빌리티 파트장, 스모어톡/오늘의픽업/MYFIT CTO</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- 분석 섹션 -->
+          <tr>
+            <td style="padding:0 36px 28px 36px;">
+              <h2 style="color:#1a237e;font-size:20px;margin:0 0 16px 0;font-weight:700;border-bottom:2px solid #e8eaf6;padding-bottom:10px;">💡 분석 및 시사점</h2>
+              
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
+                <tr>
+                  <td style="padding:16px;background-color:#e8f5e9;border-radius:8px;border-left:4px solid #4caf50;">
+                    <strong style="color:#2e7d32;font-size:14px;">🔑 핵심 시사점</strong>
+                    <p style="color:#333;font-size:13px;line-height:1.6;margin:8px 0 0 0;">이 영상은 <strong>Hermes와 OpenClaw의 하이브리드 구조</strong>를 소개하며, 에이전트 다중화를 통해 각 도구의 강점을 최대화하는 접근법을 제시합니다. mem0를 통한 메모리 확장은 AI 비서의 장기 기억 능력을 획기적으로 향상시킵니다.</p>
+                  </td>
+                </tr>
+              </table>
+
+              <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
+                <tr>
+                  <td style="padding:16px;background-color:#e3f2fd;border-radius:8px;border-left:4px solid #2196f3;">
+                    <strong style="color:#1565c0;font-size:14px;">📊 구조적 특징</strong>
+                    <p style="color:#333;font-size:13px;line-height:1.6;margin:8px 0 0 0;">
+                      • <strong>상사-부하 구조:</strong> Hermes(관리자) → OpenClaw(작업자)의 명령-실행 계층<br>
+                      • <strong>메모리 3단계:</strong> 장기(memo)-단기(context)-작업(paperclip) 기억 분리<br>
+                      • <strong>원클릭 설치:</strong> Hostinger VPS를 통해 복잡한 세팅 단순화
+                    </p>
+                  </td>
+                </tr>
+              </table>
+
+              <table width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td style="padding:16px;background-color:#ede7f6;border-radius:8px;border-left:4px solid #7c4dff;">
+                    <strong style="color:#6a1b9a;font-size:14px;">🎯 적용 영역</strong>
+                    <p style="color:#333;font-size:13px;line-height:1.6;margin:8px 0 0 0;">
+                      • 개인 개발자: AI 기반 개발 도우미 세팅<br>
+                      • 팀 협업: AI 비서를 통한 업무 자동화<br>
+                      • 연구 개발: multi-agent 시스템 구성<br>
+                      • 교육: AI 에이전트 학습 및 실습
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- 푸터 -->
+          <tr>
+            <td style="background-color:#f5f5f5;border-top:1px solid #e8eaf6;padding:24px 36px;text-align:center;">
+              <p style="color:#78909c;font-size:12px;margin:0 0 8px 0;">이 문서는 YouTube 영상 분석을 위해 자동 생성되었습니다.</p>
+              <p style="color:#90a4ae;font-size:11px;margin:0;">
+                <a href="https://youtu.be/oLqzGi1ODGI" style="color:#5c6bc0;text-decoration:none;font-weight:500;">▶ 원본 영상 보기</a>
+                &nbsp;·&nbsp;
+                <a href="https://www.youtube.com/@zerochotv" style="color:#5c6bc0;text-decoration:none;font-weight:500;">📺 ZeroCho TV 채널</a>
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
