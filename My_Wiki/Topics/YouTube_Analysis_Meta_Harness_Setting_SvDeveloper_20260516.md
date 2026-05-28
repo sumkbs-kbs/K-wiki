@@ -11,7 +11,7 @@ duration: "41분 38초"
 views: "2.8만회"
 uploaded: "1개월 전"
 tags: [youtube, 하네스, 하네스엔지니어링, Claude-Code, 실무설정, 빈프로젝트, 실습편, Meta-엔지니어]
-related: [[Claude_Code_Max]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[AI_Technology_Dashboard_20260516]], [[YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516]]
+related: [[Website_Analysis_EZER_AI_Agent_University.md]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[AI_Technology_Dashboard_20260516]], [[YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516]]
 ---
 
 # YouTube 분석: 메타 시니어 엔지니어가 알려주는 하네스 세팅 (실밸개발자)
@@ -65,14 +65,14 @@ related: [[Claude_Code_Max]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_A
 ## 4. 관련 Wiki 문서
 
 ### 직접 연결
-- [[Claude_Code_Max]] — Claude Code 활용 가이드
+- [[Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
 - [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]] — Superpowers 스펙 기반 AI 코딩 워크플로우
 - [[YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516]] — AI Engineering 학습 로드맵
 - [[AI_Technology_Dashboard_20260516]] — AI/LLM 기술 동향 대시보드
 - [[M5Max_Local_LLM_Strategy_and_Wiki]] — M5 Max 전략적 활용
 
 ### 관련 개념
-- [[GStack_GSD_Superpowers_Workflow]] — 컨텍스트 오염 대비 워크플로우
+- [[GStack_GSD_Superpowers_Workflow.md]] — 컨텍스트 오염 대비 워크플로우
 - [[WikiTree_Architecture]] — 지식 관리 아키텍처
 
 ---

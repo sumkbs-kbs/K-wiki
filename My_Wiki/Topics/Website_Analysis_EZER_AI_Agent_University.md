@@ -105,9 +105,9 @@ CONNECT AI Lab이 운영하는 'AI 1인 기업을 위한 세계 최초 AI 에이
 ## 연결된 개념
 - [[Wiki_Tree_Architecture]]
 - [[AntiGraffiti-K]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[FineTuning_Datasets]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [](https://www.ezerai.xyz/knowledge/mrbeast-hooking)
 - [](https://www.ezerai.xyz/knowledge/algo-hacking-2026)
 - [](https://www.ezerai.xyz/skill/youtube-hook-analyzer)

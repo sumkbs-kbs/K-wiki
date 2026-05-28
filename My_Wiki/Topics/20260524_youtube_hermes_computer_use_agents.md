@@ -4,7 +4,7 @@ type: youtube
 tags: [hermes, agent, os, automation, computer-use, julian-goldie, ai-profit]
 date: 2026-05-24
 source: "https://www.youtube.com/watch?v=WMTq1xVFkXw"
-related: [[Julian Goldie SEO 채널]], [[Hermes Agent OS 구축 가이드]], [[AI Profit Boardroom]]
+related: [[https://www.youtube.com/@JulianGoldieSEO]], [[Hermes Agent OS 구축 가이드]], [[AI Profit Boardroom]]
 summary: "Julian Goldie SEO의 Hermes Agent OS 강좌 — 무료 에이전트로 컴퓨터를 자동화하고 수익을 내는 방법"
 ---
 

@@ -15,8 +15,8 @@
 | 파일명 | 주제 | Tags | Source | Related |
 |---|---|---|---|---|
 | **신규** | [[20260525_news_ms_fara15_browser_agent]] | MS 파라 1.5 — 차세대 브라우저 에이전트 | MS (AI타임스 보도) | [[99_Youtube_Analysis_MOC]] |
-| **신규** | [[20260524_news_ai_language_skills_talent]] | AI 잘 쓰려면 언어부터 배워라 — 기업들 인재상 뒤집혔다 | 중앙일보 | [[Anthropic 엔지니어의 AI 일하는 5 원칙]] |
-| **신규** | [[20260524_news_anthropic_5_principles_working_with_ai]] | Anthropic 엔지니어가 정리한 AI와 일하는 5가지 원칙 | 요즘IT (Eugene Yan) | [[AI 컴퓨팅 에이전트 시대]] |
+| **신규** | [[20260524_news_ai_language_skills_talent]] | AI 잘 쓰려면 언어부터 배워라 — 기업들 인재상 뒤집혔다 | 중앙일보 | [[20260524_news_anthropic_5_principles_working_with_ai.md]] |
+| **신규** | [[20260524_news_anthropic_5_principles_working_with_ai]] | Anthropic 엔지니어가 정리한 AI와 일하는 5가지 원칙 | 요즘IT (Eugene Yan) | [[20260524_news_ai_language_skills_talent.md]] |
 | **신규** | [[20260524_news_open_source_strategic_playbook]] | 오픈소스 소프트웨어에서 오픈소스 전략으로 | P3 인스티튜트 (hada.io 공유) | [[MS 파라 1.5 브라우저 에이전트]] |
 
 ### 📡 YouTube 분석 문서 (34개)

@@ -10,7 +10,7 @@
 - **url**: https://youtu.be/RGjuL9oxF_s
 - **date**: 2026-05-25
 - **summary**: Hermes + Grok(OS)로 자율 영상 스텝 구축 — X 실시간 검색, 이미지/영상 생성, TTS 통합 — Agent OS "Studio" 대시보드
-- **related**: [[Antigravity-K]], [[YouTube_Analysis_MOC]]
+- **related**: [[Antigravity-K-정밀분석-현재상태-20260511.md]], [[00_Wiki_중앙색인_MOC.md]]
 
 ---
 

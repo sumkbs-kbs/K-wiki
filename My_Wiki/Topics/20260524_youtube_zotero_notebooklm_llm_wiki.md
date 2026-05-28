@@ -5,7 +5,7 @@ tags: [llm-wiki, zotero, notebooklm, obsidian, claude-code, pk-workflow, externa
 date: 2026-05-24
 source: "https://www.youtube.com/watch?v=ulhEyDIxj6Q"
 channel: "Brian's Brain Trinity (구독자 15,300명)"
-related: [[Karpathy LLM Wiki]], [[My_Wiki]], [[Zotero MCP]], [[notebooklm-py]]
+related: [[Karpathy LLM Wiki]], [[My_Wiki]], [[Zotero MCP]], [[https://www.notion.so/notebooklm-py]]
 summary: "Zotero+NotebookLM을 LLM Wiki 외부 지식 레이어로 연결하는 AI 지식관리 워크플로우 — 원본 소스 수집 → LLM Wiki 컴파일 → NotebookLM 산출 생성 → Obsidian 저장"
 ---
 

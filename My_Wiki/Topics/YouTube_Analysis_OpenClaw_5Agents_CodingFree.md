@@ -46,9 +46,9 @@ tags: [youtube, openclaw, agent_dashboard, vibecoding, coding_free, ai_agent, fa
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
 - [[AntiGraffiti-K]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[FineTuning_Datasets]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[YouTube_Analysis_Woorkpay0_AI_Company]]
 - [[Website_Analysis_EZER_AI_Agent_University]]
 

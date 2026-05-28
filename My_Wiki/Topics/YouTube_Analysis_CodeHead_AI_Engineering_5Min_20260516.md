@@ -9,7 +9,7 @@ channel_url: https://www.youtube.com/@codehead01
 date: 2026-05-16
 status: Refined
 tags: [youtube, AI공학, 학습전략, 커리어, 프론트엔드백엔드, 딥러닝, AI에이전트]
-related: [[AI_Technology_Dashboard_20260516]], [[Claude_Code_Max]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[GitHub_Repos_Superpowers_Analysis]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[YouTube_Analysis_ClownAI_3.5_Upgrade_ErrorHandling_20260516]]
+related: [[AI_Technology_Dashboard_20260516]], [[Website_Analysis_EZER_AI_Agent_University.md]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[GitHub_Repos_Superpowers_Analysis]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[YouTube_Analysis_ClownAI_3.5_Upgrade_ErrorHandling_20260516]]
 summary: "AI 엔지니어링을 5분 만에 배울 수 있는 학습 로드맵을 제시. 사전 지식 없이도 접근 가능하도록 설계된 AI 공학 학습 전략."
 ---
 
@@ -62,7 +62,7 @@ AI 엔지니어링을 처음 접하는 사람을 위한 **5분 내 학습 로드
 ## 4. 관련 Wiki 문서
 
 - [[AI_Technology_Dashboard_20260516]] — AI/LLM 기술 동향 대시보드
-- [[Claude_Code_Max]] — Claude Code 활용 가이드
+- [[Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
 - [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]] — Superpowers 사용기
 - [[M5Max_Local_LLM_Strategy_and_Wiki]] — M5 Max 전략적 활용
 - [[GitHub_Repos_Superpowers_Analysis]] — Superpowers GitHub 레포 분석

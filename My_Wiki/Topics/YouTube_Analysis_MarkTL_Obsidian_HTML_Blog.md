@@ -72,8 +72,8 @@ tags: [youtube, obsidian, marktl, karpathy_html_era, codex_cli, claude_cli, gith
 
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
-- [[Karpathy_LLM_OS]]
-- [[Claude_Code_Max]]
+- [[https://github.com/karpathy/llm-wiki]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[M5Max_Local_LLM_Strategy_and_Wiki]]
 - [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
 - [[YouTube_Analysis_Graphify_Token_Reduction]]

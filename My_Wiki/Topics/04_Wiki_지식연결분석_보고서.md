@@ -38,7 +38,7 @@
   - [[config.json]]
   - [[config.js]]
 
-## 📄 [[Ssak Reader 오프라인 모델 배포 전략_1]]
+## 📄 [[Ssak_Reader_오프라인_모델_배포_전략.md]]
 - **경로**: Projects\Ssak Reader 오프라인 모델 배포 전략_1.md
 - **추가할 링크 추천 (내용엔 있지만 링크가 빠진 단어들)**:
   - [[config.json]]

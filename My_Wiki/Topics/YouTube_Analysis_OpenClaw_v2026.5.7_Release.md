@@ -70,7 +70,7 @@ WhatsApp / Telegram / OpenAI / Codex / Tavily / cron / gateway 전반에 걸친 
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
 - [[AntiGraffiti-K]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[M5Max_Local_LLM_Strategy_and_Wiki]]
 - [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
 - [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]

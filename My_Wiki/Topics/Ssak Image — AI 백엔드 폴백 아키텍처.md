@@ -34,5 +34,5 @@ github_commit: "pending"
 
 ## 🔗 지식 연결 (Graph)
 - **Parent:** [[Topics]]
-- **Related:** [[Ssak Image — AI 중복 이미지 탐지 프로그램]], [[Ssak Reader AI 의미론적 검색 아키텍처_1]], [[Ssak Reader 오프라인 모델 배포 전략_1]]
+- **Related:** [[Ssak Image — AI 중복 이미지 탐지 프로그램]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]], [[Ssak_Reader_오프라인_모델_배포_전략.md]]
 - **Raw Source:** [[00_Raw/19_SsakImage_AI_백엔드_아키텍처.md]]

@@ -4,7 +4,7 @@ type: youtube
 tags: [claude, seo, julian-goldie, ai-seo, ai-profit-lab, free-lecture]
 date: 2026-05-24
 source: "https://www.youtube.com/watch?v=8qVBNJxXmZ8"
-related: [[Julian Goldie SEO 채널]], [[Hermes Agent OS 구축 가이드]]
+related: [[https://www.youtube.com/@JulianGoldieSEO]], [[Hermes Agent OS 구축 가이드]]
 summary: "Julian Goldie SEO의 Claude AI SEO 강좌 — Claude로 구글 1위 달성하는 방법 무료로 배포"
 ---
 

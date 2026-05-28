@@ -12,7 +12,7 @@ like_count: 244
 duration: 49:55
 date: 2026-05-15
 tags: [youtube, hermes, codex, ai에이전트, AI자동화, 셀프호스팅, slack, 멀티에이전트, hostinger, vps]
-related: [[AI_LLM_Agent_News_Dashboard_20260514]], [[GitHub_Trending_AI_Agents_2026]], [[AntiGraffiti-K]], [[Karpathy_LLM_OS]], [[Claude_Code_Max]], [[M5Max_Local_LLM_Strategy_and_Wiki]]
+related: [[AI_LLM_Agent_News_Dashboard_20260514]], [[https://github.com/trending]], [[AntiGraffiti-K]], [[https://github.com/karpathy/llm-wiki]], [[Website_Analysis_EZER_AI_Agent_University.md]], [[M5Max_Local_LLM_Strategy_and_Wiki]]
 ---
 
 ## 핵심 요약

@@ -10,7 +10,7 @@
 - **url**: https://youtu.be/uT_3KSeEOGc
 - **date**: 2026-05-27
 - **summary**: Claude의 /GOAL 명령어로 트레이딩 전략을 자율 백테스트하는 방법 소개
-- **related**: [[Portfolio 분석 시스템]], [[금융시장_동향]], [[Antigravity-K]]
+- **related**: [[Portfolio 분석 시스템]], [[금융시장_동향]], [[Antigravity-K-정밀분석-현재상태-20260511.md]]
 
 ---
 
@@ -62,4 +62,4 @@
 |------|------|
 | [[Portfolio 분석 시스템]] | 금융분석 관련 |
 | [[금융시장_동향]] | Cron으로 매일 수집 |
-| [[Antigravity-K]] | 목표: 자율 백테스트 파이프라인 |
+| [[Antigravity-K-정밀분석-현재상태-20260511.md]] | 목표: 자율 백테스트 파이프라인 |

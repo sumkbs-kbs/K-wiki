@@ -12,7 +12,7 @@ published: "2026-05-23"
 views: 1320
 date: 2026-05-28
 summary: "Alibaba Qwen 3.7 Max의 첫 35시간 무간섭 에이전트 사례와 context window 100만 단어 의미"
-related: [[YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows]], [[YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier]], [[Antigravity-K]]
+related: [[YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows]], [[YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier]], [[Antigravity-K-정밀분석-현재상태-20260511.md]]
 ---
 
 # 🤖 Alibaba Qwen 3.7 Max: 첫 35시간 무간섭 자율 에이전트

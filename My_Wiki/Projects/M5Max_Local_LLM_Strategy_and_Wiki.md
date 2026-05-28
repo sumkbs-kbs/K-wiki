@@ -65,8 +65,8 @@ tags: [macOS, M5_Max, Local_LLM, DeepSeek_V4, vLLM, SGLang, Obsidian_RAG, Multim
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
 - [[AntiGraffiti-K]]
-- [[Karpathy_LLM_OS]]
-- [[Claude_Code_Max]]
+- [[https://github.com/karpathy/llm-wiki]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[Website_Analysis_EZER_AI_Agent_University]]
 - [[YouTube_Analysis_Woorkpay0_AI_Company]]
 - [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]

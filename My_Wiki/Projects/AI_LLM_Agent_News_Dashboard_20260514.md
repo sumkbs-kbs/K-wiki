@@ -199,8 +199,8 @@ WhatsApp / Telegram / OpenAI / Codex / Tavily / cron / gateway 전반적인 안�
 | [[WikiTree_Architecture]] | 지식 관리 아키텍처 - 핵심 |
 | [[AntiGraffiti-K]] | 로컬 AI 에이전트 프로젝트 |
 | [[M5Max_Local_LLM_Strategy_and_Wiki]] | 128GB 전략 - 핵심 |
-| [[Karpathy_LLM_OS]] | LLM OS 이론 |
-| [[Claude_Code_Max]] | 클로드 코드 활용 |
+| [[https://github.com/karpathy/llm-wiki]] | LLM OS 이론 |
+| [[Website_Analysis_EZER_AI_Agent_University.md]] | 클로드 코드 활용 |
 | [[YouTube_Analysis_OpenClaw_v2026.5.7_Release]] | OpenClaw 릴리스 분석 |
 | [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]] | OpenClaw 5명 활용 |
 | [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]] | Hermes+Obsidian+Omi |

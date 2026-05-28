@@ -36,5 +36,5 @@ github_commit: "pending"
 
 ## 🔗 지식 연결 (Graph)
 - **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak Reader AI 의미론적 검색 아키텍처_1]]
+- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]]
 - **Raw Source:** [[00_Raw/17_SsakFile_버전_진화.md]]

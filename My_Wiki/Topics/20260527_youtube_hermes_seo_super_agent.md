@@ -10,7 +10,7 @@
 - **url**: https://youtu.be/dDPk9RcmzwU
 - **date**: 2026-05-25
 - **summary**: Hermes로 6개의 요소를 단일 대시보드에 통합 — Goal Mode, Kanban, Studio, SEO 파이프라인, NotebookLM — 48시간 내 #1 랭킹 달성 사례
-- **related**: [[Hermes Agent OS]], [[Antigravity-K]]
+- **related**: [[Hermes Agent OS]], [[Antigravity-K-정밀분석-현재상태-20260511.md]]
 
 ---
 
@@ -70,5 +70,5 @@ Hermes를 "무료 AI SEO Super Agent"로 활용하는 방법. **Goal Mode(20턴 
 | 문서 | 관계 |
 |------|------|
 | [[Hermes Agent OS]] | 동일 주제 |
-| [[Antigravity-K]] | 에이전트 빌딩 대상 |
+| [[Antigravity-K-정밀분석-현재상태-20260511.md]] | 에이전트 빌딩 대상 |
 | [[portfolio 분석_report]] | Swarm으로 분석 확장 가능 |

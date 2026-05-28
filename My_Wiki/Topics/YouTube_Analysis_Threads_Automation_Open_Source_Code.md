@@ -12,7 +12,7 @@ like_count: 74
 duration: 18:56
 date: 2026-05-15
 tags: [youtube, threads, 자동화, AI자동화, 바이브코딩, 수익형코딩, SNS자동화, 노마드코알라, 투더제이, nodejs, cli]
-related: [[AI_LLM_Agent_News_Dashboard_20260514]], [[GitHub_Trending_AI_Agents_2026]], [[YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편]], [[YouTube_Analysis_MarkTL_Obsidian_HTML_Blog]]
+related: [[AI_LLM_Agent_News_Dashboard_20260514]], [[https://github.com/trending]], [[YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편]], [[YouTube_Analysis_MarkTL_Obsidian_HTML_Blog]]
 ---
 
 ## 핵심 요약

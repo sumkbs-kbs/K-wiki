@@ -7,7 +7,7 @@ status: Refined
 collector: Hermes Agent via RSS + Browser
 sources: HuggingFace Blog, Hacker News, TechCrunch AI/Robotics, Naver News
 tags: [AI, LLM, physical-ai, robotics, agentic, vllm, openai, multimodal, 2026-05-16]
-related: [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Claude_Code_Max]], [[WikiTree_Architecture]], [[AI_LLM_Agent_News_Dashboard_20260514]]
+related: [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_Analysis_EZER_AI_Agent_University.md]], [[WikiTree_Architecture]], [[AI_LLM_Agent_News_Dashboard_20260514]]
 ---
 
 # AI/LLM/Physical AI 최신 기술정보 대시보드 (2026-05-16)

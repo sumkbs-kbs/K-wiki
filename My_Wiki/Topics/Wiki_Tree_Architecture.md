@@ -49,6 +49,6 @@ status: To_be_Refined
 ## 관련 문서
 - [[FineTuning_Datasets]]
 - [[AntiGraffiti-K]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[Obsidian_Automation]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]

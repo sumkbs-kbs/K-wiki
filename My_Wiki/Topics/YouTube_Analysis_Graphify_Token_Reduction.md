@@ -59,13 +59,13 @@ tags: [youtube, graphify, karpathy_llm_wiki, deterministic_graph, RAG_alternativ
 
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[AntiGraffiti-K]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[M5Max_Local_LLM_Strategy_and_Wiki]]
 - [[Website_Analysis_EZER_AI_Agent_University]]
 - [[YouTube_Analysis_Woorkpay0_AI_Company]]
 - [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
 
 ## Karpathy LLM Wiki 연계성
-이 영상은 [[Karpathy_LLM_OS]]에서 논의된 LLM Wiki 개념을 Graphify라는 구체적 도구로 구현한 사례입니다. 벡터 임베딩 없이 코드 기반 그래프로 지식을 탐색하는 접근법은, [[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 RAG 기반 Wiki와 대비되는 아키텍처입니다. 특히 128GB 맥북에서는 Graphify의 결정론적 그래프 traversal + DeepSeek-V4-Flash의 추론을 결합하면 하이브리드 지식 엔진 구축이 가능합니다.
+이 영상은 [[https://github.com/karpathy/llm-wiki]]에서 논의된 LLM Wiki 개념을 Graphify라는 구체적 도구로 구현한 사례입니다. 벡터 임베딩 없이 코드 기반 그래프로 지식을 탐색하는 접근법은, [[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 RAG 기반 Wiki와 대비되는 아키텍처입니다. 특히 128GB 맥북에서는 Graphify의 결정론적 그래프 traversal + DeepSeek-V4-Flash의 추론을 결합하면 하이브리드 지식 엔진 구축이 가능합니다.

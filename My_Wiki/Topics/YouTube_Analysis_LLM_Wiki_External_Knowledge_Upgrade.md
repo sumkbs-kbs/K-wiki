@@ -9,7 +9,7 @@ related:
   - [[Zotero]]
   - [[NotebookLM]]
   - [[personal-wiki]]
-  - [[notebooklm-py]]
+  - [[https://www.notion.so/notebooklm-py]]
   - [[zotero-mcp]]
 ---
 

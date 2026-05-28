@@ -88,9 +88,9 @@ tags: [youtube, latmd, knowledge_graph, agents_md, wiki_links, bidirectional_ref
 
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[AntiGraffiti-K]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[M5Max_Local_LLM_Strategy_and_Wiki]]
 - [[YouTube_Analysis_Graphify_Token_Reduction]]
 - [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]

@@ -78,9 +78,9 @@ tags: [youtube, obsidian_claude_code, karpathy_llm_wiki, raw_wiki_prompt, slash_
 
 ## 관련 문서
 - [[Wiki_Tree_Architecture]]
-- [[Karpathy_LLM_OS]]
+- [[https://github.com/karpathy/llm-wiki]]
 - [[AntiGraffiti-K]]
-- [[Claude_Code_Max]]
+- [[Website_Analysis_EZER_AI_Agent_University.md]]
 - [[M5Max_Local_LLM_Strategy_and_Wiki]]
 - [[YouTube_Analysis_Graphify_Token_Reduction]]
 - [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
@@ -99,4 +99,4 @@ tags: [youtube, obsidian_claude_code, karpathy_llm_wiki, raw_wiki_prompt, slash_
 | 코딩없이 OpenClaw 5명 활용 | 패스트캠퍼스 | 13,000 | 바이브코딩, 코드 없는 에이전트 |
 
 ## Obsidian + Claude Code + Karpathy LLM Wiki 연계성
-이 영상은 [[Karpathy_LLM_OS]]에서 논의된 LLM Wiki 개념을 Karpathy 본인의 Gist를 직접 활용하여 가장 명확하게 실무 적용한 사례입니다. Raw(유튜브/뉴스 등 외부 Raw) → Wiki(내 사업 결정용 정제 지식) 파이프라인과 슬래시 커맨드 `/ingest /query /lint`는 [[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 RAG 기반 Wiki와 상호보완적입니다. 특히 Claude Code를 사서 역할로 활용하는 접근은 로컬 DeepSeek-V4-Flash와 비교 시 클라우드의 추론 품질 이점이 있으나, 보안 문제에서는 [[M5Max_Local_LLM_Strategy_and_Wiki]]의 로컬 전략이 우월합니다.
+이 영상은 [[https://github.com/karpathy/llm-wiki]]에서 논의된 LLM Wiki 개념을 Karpathy 본인의 Gist를 직접 활용하여 가장 명확하게 실무 적용한 사례입니다. Raw(유튜브/뉴스 등 외부 Raw) → Wiki(내 사업 결정용 정제 지식) 파이프라인과 슬래시 커맨드 `/ingest /query /lint`는 [[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 RAG 기반 Wiki와 상호보완적입니다. 특히 Claude Code를 사서 역할로 활용하는 접근은 로컬 DeepSeek-V4-Flash와 비교 시 클라우드의 추론 품질 이점이 있으나, 보안 문제에서는 [[M5Max_Local_LLM_Strategy_and_Wiki]]의 로컬 전략이 우월합니다.
