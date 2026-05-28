@@ -84,7 +84,7 @@
 
 ---
 
-## 📅 Cronjob 현황 (2026-05-27 17:56 기준)
+## 📅 Cronjob 현황 (2026-05-28 01:05 기준)
 
 | Job | Schedule | Next Run |
 |-----|------|-----|
@@ -160,12 +160,12 @@
 3. [✅] config.yaml memory_char_limit → 10000, user_char_limit → 5000
 4. [✅] sessions/ 폴더 구조화 (세션별 핵심 기록)
 5. [✅] Decisions/ 폴더 구조화 (의사결정 이력)
-6. [ ] OpenClaw gateway 환경설정 (메모리 참조)
+6. [✅] OpenClaw gateway 환경설정 — gateway running (ws://127.0.0.1:18789), auth token 설정됨, mem0 plugin enabled, Channels 연동은 추후
 
 ## 🧭 Memory Provider 전략
 
-- **내장 메모리 built-in):** MEMORY.md(2200자) + USER.md(1375자) → 2026-05-27에 10000/5000로 확대
-- **외부 참조:** Wiki/Memories/K.md (3,700자) — cronjob sync
+- **내장 메모리 (built-in):** MEMORY.md(3,259자) + USER.md(1,169자) → 2026-05-27에 10000/5000로 확대
+- **외부 참조:** Wiki/Memories/K.md (4,992자) — cronjob sync
 - **external provider:** 설치 안함 (built-in으로 충분, 필요시 mem0/honcho 검토)
 
 ---
