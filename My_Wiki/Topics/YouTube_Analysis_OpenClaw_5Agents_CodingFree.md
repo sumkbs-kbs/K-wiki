@@ -44,13 +44,13 @@ tags: [youtube, openclaw, agent_dashboard, vibecoding, coding_free, ai_agent, fa
 - **ITSub 잇섭:** 24시간 무급으로 대신 일해주는 AI 비서 등장;; 오픈클로 (127만회, 2개월 전)
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 - [[https://github.com/karpathy/llm-wiki]]
 - [[FineTuning_Datasets]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## 비교: 동일 주제 YouTube 영상들
 

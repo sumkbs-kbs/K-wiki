@@ -120,4 +120,4 @@ Julian Goldie SEO가 직접 구축한 **Agent OS**(에이전트 운영체제)를
 ---
 
 *문서 생성일: 2026-05-22 | 원문 영상의 스크립트를 기반으로 재구성*
-*연관 분석: [[YouTube_Analysis_Hermes_Skill_Bundles_Setup_Guide]]*
+*연관 분석: YouTube_Analysis_Hermes_Skill_Bundles_Setup_Guide*

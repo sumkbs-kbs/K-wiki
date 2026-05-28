@@ -14,68 +14,68 @@
 
 | 파일명 | 주제 | Tags | Source | Related |
 |---|---|---|---|---|
-| **신규** | [[20260525_news_ms_fara15_browser_agent]] | MS 파라 1.5 — 차세대 브라우저 에이전트 | MS (AI타임스 보도) | [[99_Youtube_Analysis_MOC]] |
-| **신규** | [[20260524_news_ai_language_skills_talent]] | AI 잘 쓰려면 언어부터 배워라 — 기업들 인재상 뒤집혔다 | 중앙일보 | [[20260524_news_anthropic_5_principles_working_with_ai.md]] |
-| **신규** | [[20260524_news_anthropic_5_principles_working_with_ai]] | Anthropic 엔지니어가 정리한 AI와 일하는 5가지 원칙 | 요즘IT (Eugene Yan) | [[20260524_news_ai_language_skills_talent.md]] |
-| **신규** | [[20260524_news_open_source_strategic_playbook]] | 오픈소스 소프트웨어에서 오픈소스 전략으로 | P3 인스티튜트 (hada.io 공유) | [[MS 파라 1.5 브라우저 에이전트]] |
+| **신규** | 20260525_news_ms_fara15_browser_agent | MS 파라 1.5 — 차세대 브라우저 에이전트 | MS (AI타임스 보도) | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| **신규** | 20260524_news_ai_language_skills_talent | AI 잘 쓰려면 언어부터 배워라 — 기업들 인재상 뒤집혔다 | 중앙일보 | 20260524_news_anthropic_5_principles_working_with_ai |
+| **신규** | 20260524_news_anthropic_5_principles_working_with_ai | Anthropic 엔지니어가 정리한 AI와 일하는 5가지 원칙 | 요즘IT (Eugene Yan) | [[Topics/20260524_news_ai_language_skills_talent.md]] |
+| **신규** | 20260524_news_open_source_strategic_playbook | 오픈소스 소프트웨어에서 오픈소스 전략으로 | P3 인스티튜트 (hada.io 공유) | [[MS 파라 1.5 브라우저 에이전트]] |
 
 ### 📡 YouTube 분석 문서 (34개)
 
 | 파일명 | 주제 | Tags | Source | Related |
 |---|---|---|---|---|
-| YouTube_Analysis_Anthropic_Claude_HTML_Output_Framework.md | Claude HTML 출력 프레임워크 | claude,html,web | Anthropic | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
-| YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md | GStack GSD 슈퍼파워즈 | autcoding,gstack | Bappo | [[01_Antigravity_Skills_Universe_MOC]] |
+| YouTube_Analysis_Anthropic_Claude_HTML_Output_Framework.md | Claude HTML 출력 프레임워크 | claude,html,web | Anthropic | Wiki_Analysis_Wiki_정밀분석_20260516 |
+| YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding.md | GStack GSD 슈퍼파워즈 | autcoding,gstack | Bappo | 01_Antigravity_Skills_Universe_MOC |
 | YouTube_Analysis_CodeHead_AI_Engineering_5Min_20260516.md | CodeHead 5분 AI Engineering | coding,short-form | CodeHead | |
 | YouTube_Analysis_ClownAI_3.5_Upgrade_ErrorHandling_20260516.md | ClownAI 3.5 업그레이드/오류처리 | clownai,fix | ClownAI | |
 | YouTube_Analysis_Claude_Stock_Analysis.md | Claude 금융주 분석 | claude,stock,finance | | |
-| YouTube_Analysis_Gemma_4_Browser_Agent_Local_No_API_Key.md | Gemini 4 로컬 브라우저 에이전트 | browser-agent,gemma4,free | | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_Gemma_4_Browser_Agent_Local_No_API_Key.md | Gemini 4 로컬 브라우저 에이전트 | browser-agent,gemma4,free | | [[Topics/99_Youtube_Analysis_MOC.md]] |
 | YouTube_Analysis_Graphify_Token_Reduction.md | Graphify 토큰 축소 | graph,token | Graphify | |
 | YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md | Hermes Agent + Codex 설치 | hermes,codex,setup | Hermes | |
-| YouTube_Analysis_Hermes_Agent_HyperFrames_Free_AI_Video_Agent.md | Hermes + HyperFrames 비디오 에이전트 | hermes,video,hyperframes | | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md | Hermes-Obsidian-Omi 통합 | hermes,obsidian,mem | Hermes | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
-| YouTube_Analysis_Kimi_K2.6_300_Agents.md | Kimi K2.6 300 에이전트 | kimi,agent,swarm | Kimi | [[Kimi K2.6_300 에이전트_Agent_Swarm.md]] |
-| YouTube_Analysis_LLM_Wiki_External_Knowledge_Upgrade.md | LLM Wiki 외부지식 업그레이드 | llm,wiki,external | | [[Wiki_Analysis_Wiki_정밀분석_20260516]] |
-| YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md | MarkTL Obsidian → HTML Blog | obsidian,html,web | MarkTL | [[Website_Analysis_EZER_AI_Agent_University.md]] |
+| YouTube_Analysis_Hermes_Agent_HyperFrames_Free_AI_Video_Agent.md | Hermes + HyperFrames 비디오 에이전트 | hermes,video,hyperframes | | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md | Hermes-Obsidian-Omi 통합 | hermes,obsidian,mem | Hermes | Wiki_Analysis_Wiki_정밀분석_20260516 |
+| YouTube_Analysis_Kimi_K2.6_300_Agents.md | Kimi K2.6 300 에이전트 | kimi,agent,swarm | Kimi | Kimi K2.6_300 에이전트_Agent_Swarm |
+| YouTube_Analysis_LLM_Wiki_External_Knowledge_Upgrade.md | LLM Wiki 외부지식 업그레이드 | llm,wiki,external | | Wiki_Analysis_Wiki_정밀분석_20260516 |
+| YouTube_Analysis_MarkTL_Obsidian_HTML_Blog_Forward.md | MarkTL Obsidian → HTML Blog | obsidian,html,web | MarkTL | [[Topics/Website_Analysis_EZER_AI_Agent_University.md]] |
 | YouTube_Analysis_MarkTL_Obsidian_HTML_Blog.md | MarkTL Obsidian HTML (기본) | obsidian,html | MarkTL | |
 | YouTube_Analysis_Meta_Harness_Setting_SvDeveloper_20260516.md | Meta Harness 설정 (svDeveloper) | meta,harness | SvDeveloper | |
-| YouTube_Analysis_NotebookLM_Workflow_AI_Knowledge_Management.md | NotebookLM AI 지식 관리 | notebooklm,knowledge,workflow | | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_NotebookLM_Workflow_AI_Knowledge_Management.md | NotebookLM AI 지식 관리 | notebooklm,knowledge,workflow | | [[Topics/99_Youtube_Analysis_MOC.md]] |
 | YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md | Obsidian ClaudeCode RawWiki | obsidian,raw,claude-code | | |
 | YouTube_Analysis_OpenClaw_5Agents_CodingFree.md | OpenClaw 5에이전트 코드프리 | openclaw,agent,coding-free | | |
 | YouTube_Analysis_OpenClaw_v2026.5.7_Release.md | OpenClaw v2026.5.7 릴리즈 | openclaw,release | | |
-| YouTube_Analysis_OpenClow_35_Upgrade_20260516.md | OpenClow 3.5 업그레이드 | openclaw,upgrade | | [[01_Antigravity_Skills_Universe_MOC]] |
-| YouTube_Analysis_Python_Agent_From_Scratch_No_Framework.md | Python Agent 프레임워크 X | agent,python,no-framework | | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_Solar_Evaporation_Desalination.md | 태양광 증발식 담수화 | solar,evaporation,desalination | | [[조선_설계_자동화_원가절감_전략_회의록]] |
+| YouTube_Analysis_OpenClow_35_Upgrade_20260516.md | OpenClow 3.5 업그레이드 | openclaw,upgrade | | 01_Antigravity_Skills_Universe_MOC |
+| YouTube_Analysis_Python_Agent_From_Scratch_No_Framework.md | Python Agent 프레임워크 X | agent,python,no-framework | | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_Solar_Evaporation_Desalination.md | 태양광 증발식 담수화 | solar,evaporation,desalination | | 조선_설계_자동화_원가절감_전략_회의록 |
 | YouTube_Analysis_Threads_Automation_Open_Source_Code.md | Threads 자동화/소스코드 | threads,automation,oss | | |
-| YouTube_Analysis_Hangook_Financial_2026_Stock_Market_Analysis.html | 2026년 주가 급상승 구간 정체 분석(HTML) | finance,stock-market,2026,market-analysis | 경제사냥꾼 | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html | Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지 | qwen,dual-model,workflow | Julian Goldie | [[99_Youtube_Analysis_MOC]] |
-| **신규** YouTube_Analysis_Google_AI_Studio_New_App_Building_Features.md | Google AI Studio 무서운 새로움: 대화로 앱 빌드 → 배포 | google-ai-studio,vibe-coding,no-code,cloud-run | Julian Goldie | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_Hangook_Financial_2026_Stock_Market_Analysis.html | 2026년 주가 급상승 구간 정체 분석(HTML) | finance,stock-market,2026,market-analysis | 경제사냥꾼 | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_Qwen_3.7_Max_Plus_Dual_Workflows.html | Qwen 3.7 Max+Plus 듀얼 모델 워크플로우 5가지 | qwen,dual-model,workflow | Julian Goldie | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| **신규** YouTube_Analysis_Google_AI_Studio_New_App_Building_Features.md | Google AI Studio 무서운 새로움: 대화로 앱 빌드 → 배포 | google-ai-studio,vibe-coding,no-code,cloud-run | Julian Goldie | [[Topics/99_Youtube_Analysis_MOC.md]] |
 | YouTube_Analysis_VoiceBox_HyperFrames_AI_Video.md | VoiceBox HyperFrames AI Video | voicebox,video,ai | | |
 | YouTube_Analysis_VoiceBox_HyperFrames_VideoAutomation.md | VoiceBox HyperFrames 영상자동화 | voicebox,video,auto | | |
-| YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md | 손자병법 풀스토리 — 수면용 세계사 | history,philosophy,sleep | 잠결에듣는세계사 | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md | 손자병법 풀스토리 — 수면용 세계사 | history,philosophy,sleep | 잠결에듣는세계사 | [[Topics/99_Youtube_Analysis_MOC.md]] |
 | YouTube_Analysis_Woorkpay0_AI_Company.md | Woorkpay0 AI 회사 | AI,company | Woorkpay0 | |
 | YouTube_Analysis_lat.md_Knowledge_Graph.md | Lat 지식 그래프 | knowledge-graph,lat | lat | |
-| YouTube_Analysis_Samsung_SK_Hynix_Labor_Strike.md | 삼성전자 총파업 vs SK하이닉스 성과급 | economics,strike,semiconductor | 경제사냥꾼 | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_3MajorReligions_History.md | 3대종교의 역사 — 같은 신을 믿는 형제가 원수가 된 이유 | history,religion,Abrahamic | 이슈임당 | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_GPT_Colon_Prompt_Secrets.md | ChatGPT 콜론(:) 시크릿 코드 15가지 | prompt,AI,productivity | AI Stack Engineer | [[99_Youtube_Analysis_MOC]] |
-| YouTube_Analysis_Thread_Automation_Program_2026.md | 스레드 완전 자동 프로그램 2026 — 코드를 무료로 드립니다 | automation,open-source,profit-pipeline | 투다j클래스 | [[99_Youtube_Analysis_MOC]] |
-| **신규** | [[20260524_youtube_hermes_computer_use_agents]] | Hermes Agent OS - 무료 컴퓨터 자동화 에이전트 구축 | hermes,agent,os,automation,computer-use | Julian Goldie SEO | [[99_Youtube_Analysis_MOC]] |
+| YouTube_Analysis_Samsung_SK_Hynix_Labor_Strike.md | 삼성전자 총파업 vs SK하이닉스 성과급 | economics,strike,semiconductor | 경제사냥꾼 | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_3MajorReligions_History.md | 3대종교의 역사 — 같은 신을 믿는 형제가 원수가 된 이유 | history,religion,Abrahamic | 이슈임당 | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_GPT_Colon_Prompt_Secrets.md | ChatGPT 콜론(:) 시크릿 코드 15가지 | prompt,AI,productivity | AI Stack Engineer | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| YouTube_Analysis_Thread_Automation_Program_2026.md | 스레드 완전 자동 프로그램 2026 — 코드를 무료로 드립니다 | automation,open-source,profit-pipeline | 투다j클래스 | [[Topics/99_Youtube_Analysis_MOC.md]] |
+| **신규** | 20260524_youtube_hermes_computer_use_agents | Hermes Agent OS - 무료 컴퓨터 자동화 에이전트 구축 | hermes,agent,os,automation,computer-use | Julian Goldie SEO | [[Topics/99_Youtube_Analysis_MOC.md]] |
 
 | Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md | 최신 AI/LLM/Agent 뉴스 | ai,news,aggregation | | |
-| Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | [[Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514]] |
+| Wiki_Analysis_Wiki_정밀분석_20260516.md | Wiki 정밀분석 20260516 | wiki,analysis | | Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514 |
 | 20260519_hermes-kanban-ai-seo-update.md | Hermes Kanban AI SEO 무료 업데이트 | ai-seo,hermes,kanban | [[Julian Goldie SEO]] (youtube) | |
 
 ### 🏗️ Plantler/Ssaq 프로젝트 문서
 
 | 파일명 | 주제 | Type | Related |
 |---|---|---|---|
-| Plantler AI 식물 분석 시스템.md | Plantler AI 식물 분석 | Tech | [[Plantler 아키텍처 의사결정 기록]] |
+| Plantler AI 식물 분석 시스템.md | Plantler AI 식물 분석 | Tech | [[Decisions/Plantler 아키텍처 의사결정 기록.md]] |
 | Plantler UIUX 디자인 진화 기록.md | Plantler UIUX 진화 | Design | |
 | Plantler 백업복원 시스템 통합기.md | Plantler 백업복원 | Tech | |
 | Plantler_deploy_Workflow.md | Plantler 배포 — SCP 직접 전송 | Deploy | |
 | Plantler 인증 시스템 진화 기록.md | Plantler 인증 시스템 | Security | |
 | Plantler_development_실전교훈들.md | Plantler 개발 교훈 | Learn | |
 | Plantler 커뮤니티 기능 개발 여정.md | Plantler 커뮤니티 기능 | Feature | |
-| Plantler 아키텍처 의사결정 기록.md | Plantler 아키텍처 결정 | Decision | [[Plantler 게이미피케이션 시스템]] |
+| Plantler 아키텍처 의사결정 기록.md | Plantler 아키텍처 결정 | Decision | [[Decisions/Plantler 게이미피케이션 시스템.md]] |
 | Plantler 게이미피케이션 시스템.md | Plantler 게이미피케이션 | Decision | [[식물 관리 AI 앱 프로젝트]] |
 | Plantler v2.0 프로젝트 회고.md | Plantler v2.0 회고 | Review | |
 | Ssaq Image — AI 중복 이미지 탐지.md | Ssaq Image 중복 탐지 | Tech | |
@@ -107,7 +107,7 @@
 
 | 파일명 | 주제 | Tags | Related |
 |---|---|---|---|
-| 조선_설계_자동화_원가절감_전략_회의록.md | 조선 설계 자동화 전략 | shipbuilding,auto | [[YouTube_Analysis_Solar_Evaporation_Desalination.md]] |
+| 조선_설계_자동화_원가절감_전략_회의록.md | 조선 설계 자동화 전략 | shipbuilding,auto | YouTube_Analysis_Solar_Evaporation_Desalination |
 | 조선해운_Cable_전장_혁신_5%절감_전략.md | 조선 해운 Cable 혁신 | cable,shipbuilding | |
 | IEC_60092-101 General.md | IEC 60092-101 일반사항 | iec,marine | |
 | IEC_60092-201 System Design.md | IEC 60092-201 설계 | iec,design | |
@@ -142,14 +142,14 @@
 
 | 파일명 | 주제 | Tags | Source | Related |
 |---|---|---|---|---|
-| **신규** | [[20260523_portfolio_analysis_report]] | 6개 계좌 주식 포트폴리오 분석 (11종목) | portfolio,stock-analysis,etf,ai-semiconductor | |
-| **신규** | [[20260523_portfolio_html_report]] | 포트폴리오 분석 HTML 리포트 (다크 테마) | portfolio,html-report,stock-analysis | [[20260523_portfolio_analysis_report]] |
+| **신규** | 20260523_portfolio_analysis_report | 6개 계좌 주식 포트폴리오 분석 (11종목) | portfolio,stock-analysis,etf,ai-semiconductor | |
+| **신규** | [[20260523_portfolio_html_report]] | 포트폴리오 분석 HTML 리포트 (다크 테마) | portfolio,html-report,stock-analysis | 20260523_portfolio_analysis_report |
 
 ### 📺 YouTube 분석 문서 (추가 신규)
 
 | 파일명 | 주제 | Tags | Source | Related |
 |---|---|---|---|---|
-| **신규** | [[20260523_youtube_analysis_hermes_claude_code_mcp]] | Hermes Agent + Claude Code MCP Full Setup | hermes,claude-code,mcp,agent | YouTube | [[AI 코드 에이전트 시대_27706]], [[AI 시대 학교 교육_24609]], [[AI 교육 플랫폼_14965]] |
+| **신규** | 20260523_youtube_analysis_hermes_claude_code_mcp | Hermes Agent + Claude Code MCP Full Setup | hermes,claude-code,mcp,agent | YouTube | [[AI 코드 에이전트 시대_27706]], [[AI 시대 학교 교육_24609]], [[AI 교육 플랫폼_14965]] |
 
 **총 파일 수: ~107개 (DOCS) + ~0개 (RAW) = 107개**
 

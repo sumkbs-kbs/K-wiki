@@ -3,7 +3,7 @@
 > 오늘날 선박 운항의 핵심인 '스마트 선박' 및 '자동 제어' 시스템을 위한 특별 규정입니다.
 
 ## 핵심 요약 (Key Contents)
-- **상위 MOC**: [[IEC_60092_Marine_Electrical_MOC]]
+- **상위 MOC**: [[Topics/02_IEC_60092_Marine_Electrical_MOC.md]]
 
 ### 1. 신뢰성 및 이중화 (Redundancy & Reliability)
 - 운항에 치명적인 영향을 주는 시스템(예: 조타 장치, 메인 엔진 제어)은 한쪽 제어가 고장 나도 다른 백업 시스템이 즉각 개입할 수 있도록 시스템 구조적인 이중화(Redundancy)와 오류 안전(Fail-Safe) 설계를 규정합니다.

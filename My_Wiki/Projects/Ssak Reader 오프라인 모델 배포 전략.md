@@ -1,13 +1,13 @@
 ---
 id: dc7f725f
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.5
 tags: [projects, 배포, 오프라인, huggingface, 기업환경]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Reader 오프라인 모델 배포 전략]]
+# [[Projects/Ssak Reader 오프라인 모델 배포 전략.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 사내 네트워크에서 HuggingFace에 접속할 수 없다. SSL 인증서 검증 실패, 방화벽 차단 등으로 모델 다운로드가 불가능하다. 그런데 AI 검색 기능은 반드시 동작해야...
@@ -34,6 +34,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Plantler 배포 워크플로우 — SCP 직접 전송 방식_1]], [[Plantler 배포 워크플로우 — SCP 직접 전송 방식]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]], [[Plantler 배포 워크플로우 — SCP 직접 전송 방식_1]], [[Projects/Plantler 배포 워크플로우 — SCP 직접 전송 방식.md]]
 - **Raw Source:** [[00_Raw/13_SsakReader_오프라인_모델_배포.md]]

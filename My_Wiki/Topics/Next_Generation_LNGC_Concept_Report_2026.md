@@ -2,7 +2,7 @@
 
 > **분류:** 선박 컨셉/타사설계, 차세대 LNGC 핵심기술 트렌드
 > **작성일:** 2026-05-26
-> **연계 표준:** [[IEC_60092-201_System_Design]], [[IEC_60092-350_Cables]], [[선박_Bus_Duct_부스덕트_설계_적용]]
+> **연계 표준:** IEC_60092-201_System_Design, IEC_60092-350_Cables, 선박_Bus_Duct_부스덕트_설계_적용
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 4.3 LNGC 컨셉 설계 반영 포인트
 1. **전기추진 동력계통**: LNG BOG 발전기 → Motor Generator → Shaft Line (전동 추진)
-2. **Busduct(부스덕트) 설계**: 대용량 전력(50MW급) 전송 → [[선박_Bus_Duct_부스덕트_설계_적용]] 참조
+2. **Busduct(부스덕트) 설계**: 대용량 전력(50MW급) 전송 → 선박_Bus_Duct_부스덕트_설계_적용 참조
 3. **BESS 배치**: 비활성화 공간(Engine Room 상부)에 BESS 컨테이너 배치
 4. **충전 시스템**: Shore Power(육상전원) 연계 설계 (FuelEU Maritime 대응)
 5. **고전압 직류 계통**: MVDC(Medium Voltage DC) 계통 도입 (전력 손실 최소화)
@@ -163,13 +163,13 @@
 
 | 분야 | 반영 사항 | Wiki 연계 |
 |------|------|------|
-| **추진동력** | Hybrid Electric 또는 SMR 기반 전기추진 | [[선박_Bus_Duct_부스덕트_설계_적용]] |
+| **추진동력** | Hybrid Electric 또는 SMR 기반 전기추진 | 선박_Bus_Duct_부스덕트_설계_적용 |
 | **탄소포집** | OCCS 모듈 1set + 액상 CO₂ 저장탱크 | 본 문서 2장 |
 | **풍력보조** | Wind Challenger 4기 (Rotor Sail) | 본 문서 3장 |
 | **배터리** | Hybrid BESS (Peak shaving / DP 보조) | 본 문서 4장 |
 | **화물탱크** | GTT Mark III Flex (다연료 호환) | 본 문서 5장 |
 | **선체형상** | X-BOW + Air Lubrication + Mewis Duct | 본 문서 6장 |
-| **배전반** | Busduct 3상 5선 (대용량 전기추진 계통) | [[선박_Bus_Duct_부스덕트_설계_적용]] |
+| **배전반** | Busduct 3상 5선 (대용량 전기추진 계통) | 선박_Bus_Duct_부스덕트_설계_적용 |
 | **안전** | Methane Slip 감지 + CO₂ 누출 경보기 | 선급 ABS/DNV/KR 심사 |
 | **연료 저장** | Green Methanol / Green Ammonia 탱크 | 본 문서 5장 |
 | **선급** | DNV Nuclear Class (SMR 시), Ammonia/Methanol Ready Notation | 본 문서 1,5장 |
@@ -215,7 +215,7 @@
 3. **WAPS는 연료비 절감의 핵심**: 30%까지 연료 절감 가능. Rotor Sail 4기 설치를 컨셉에 포함.
 4. **전기추진은 Future-ready**: Hybrid Electric Propulsion 채택은 연료 전환(Fuel Cell, SMR)의 기초 인프라.
 5. **SMR은 장기 관전**: 2030년대 상용화 목표. 실험선(2027) 모니터링 필요.
-6. **Busduct(부스덕트) 필수 적용**: 대용량 전기추진 계통에 부스덕트 채택 → [[선박_Bus_Duct_부스덕트_설계_적용]] 참조.
+6. **Busduct(부스덕트) 필수 적용**: 대용량 전기추진 계통에 부스덕트 채택 → 선박_Bus_Duct_부스덕트_설계_적용 참조.
 
 ---
 

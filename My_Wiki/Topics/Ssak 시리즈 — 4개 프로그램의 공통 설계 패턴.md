@@ -1,13 +1,13 @@
 ---
 id: 92cdd437
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.5
 tags: [topics, 공통패턴, 시리즈, 아키텍처, 디자인패턴]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak 시리즈 — 4개 프로그램의 공통 설계 패턴]]
+# Ssak 시리즈 — 4개 프로그램의 공통 설계 패턴
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 1. **Ssak File** (ssakfile_pro) — AI 문서 검색/관리
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak File — 버전 진화 기록 (1.0 → 1.1)]], [[Ssak Image — 데스크탑 패키징과 Microsoft Store 배포]], [[Ssak Language — 프레임 Lazy Loading으로 앱 시작 최적화]]
-- **Raw Source:** [[00_Raw/26_Ssak_시리즈_공통_패턴.md]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak File — 버전 진화 기록 (1.0 → 1.1).md]], [[Projects/Ssak Image — 데스크탑 패키징과 Microsoft Store 배포.md]], Ssak Language — 프레임 Lazy Loading으로 앱 시작 최적화
+- **Raw Source:** Projects/Ssak Image — AI 중복 이미지 탐지 프로그램

@@ -6,7 +6,7 @@ type: topics
 source: YouTube - 브레인 트리니티 (32분 32초)
 related:
   - [[LLM_Wiki]]
-  - [[Zotero]]
+  - [[Skills/Zotero+MCP_설치가이드.md]]
   - [[NotebookLM]]
   - [[personal-wiki]]
   - [[https://www.notion.so/notebooklm-py]]

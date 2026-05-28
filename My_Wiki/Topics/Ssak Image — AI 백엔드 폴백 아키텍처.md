@@ -1,13 +1,13 @@
 ---
 id: 251c5206
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 1.0
 tags: [topics, ai백엔드, openvino, onnx, pytorch, 폴백시스템]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Image — AI 백엔드 폴백 아키텍처]]
+# Ssak Image — AI 백엔드 폴백 아키텍처
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - 어떤 PC에는 OpenVINO가 있고, 어떤 PC에는 ONNX Runtime만 있다
@@ -33,6 +33,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Image — AI 중복 이미지 탐지 프로그램]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]], [[Ssak_Reader_오프라인_모델_배포_전략.md]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak Image — AI 중복 이미지 탐지 프로그램.md]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]], [[Ssak_Reader_오프라인_모델_배포_전략.md]]
 - **Raw Source:** [[00_Raw/19_SsakImage_AI_백엔드_아키텍처.md]]

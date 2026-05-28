@@ -5,7 +5,7 @@ type: youtube_analysis
 source: YouTube (David Alex, 2026-05-13, 6,392 views, 13:35)
 date: 2026-05
 tags: [Kimi, Moonshot AI, K2.6, Agent Swarm, AI agent, 1조 파라미터, open source, vibe coding, agentic slides]
-related: [[YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md]], [[YouTube_Analysis_Threads_Automation_Open_Source_Code.md]]
+related: YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편, YouTube_Analysis_Threads_Automation_Open_Source_Code
 ---
 
 ## 📌 개요

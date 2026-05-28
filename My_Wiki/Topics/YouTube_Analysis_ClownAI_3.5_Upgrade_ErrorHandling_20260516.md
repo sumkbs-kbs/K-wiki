@@ -9,7 +9,7 @@ channel_url: https://www.youtube.com/@conanssam
 date: 2026-05-16
 status: Refined
 tags: [youtube, AI에이전트, 업그레이드, 에러해결, 클로이35, AI도구]
-related: [[Website_Analysis_EZER_AI_Agent_University.md]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[AI_Technology_Dashboard_20260516]], [[M5Max_Local_LLM_Strategy_and_Wiki]]
+related: [[Topics/Website_Analysis_EZER_AI_Agent_University.md]], [[Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md]], [[Topics/AI_Technology_Dashboard_20260516.md]], [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 summary: "클로이(Cloi) 3.5 버전 업그레이드 과정과 이후 발생하는 에러 해결 방법을 다룬 실전 팁 영상"
 ---
 
@@ -51,10 +51,10 @@ AI 에이전트 도구 클로이 3.5 버전 업그레이드와 관련된 업데�
 
 ## 4. 관련 Wiki 문서
 
-- [[Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
-- [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]] — Superpowers 사용기 분석
-- [[AI_Technology_Dashboard_20260516]] — AI/LLM 기술 동향 대시보드
-- [[M5Max_Local_LLM_Strategy_and_Wiki]] — M5 Max 전략적 활용
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
+- [[Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md]] — Superpowers 사용기 분석
+- [[Topics/AI_Technology_Dashboard_20260516.md]] — AI/LLM 기술 동향 대시보드
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]] — M5 Max 전략적 활용
 
 ---
 

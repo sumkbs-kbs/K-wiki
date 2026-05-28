@@ -10,7 +10,7 @@ author: 코앤삼 conanssam
 channel: 코앤삼 conanssam
 channel_url: https://www.youtube.com/@conanssam
 tags: [youtube, AI도구, 업그레이드, 에러해결법, AI에이전트, 클로이]
-related: [[Website_Analysis_EZER_AI_Agent_University.md]], [[AI_Technology_Dashboard_20260516]], [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]], [[M5Max_Local_LLM_Strategy_and_Wiki]]
+related: [[Topics/Website_Analysis_EZER_AI_Agent_University.md]], [[Topics/AI_Technology_Dashboard_20260516.md]], [[Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md]], [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 ---
 
 # YouTube 분석: 오픈클로이 3.5배 깔랐습니다 (코앤삼 conanssam)
@@ -49,10 +49,10 @@ related: [[Website_Analysis_EZER_AI_Agent_University.md]], [[AI_Technology_Dashb
 ---
 
 ## 4. 관련 문서
-- [[Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
-- [[AI_Technology_Dashboard_20260516]] — AI/LLM 기술 동향 대시보드
-- [[Website_Analysis_Product_Makers_Note_Superpowers_20260516]] — Superpowers 사용기
-- [[M5Max_Local_LLM_Strategy_and_Wiki]] — M5 Max 전략적 활용
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
+- [[Topics/AI_Technology_Dashboard_20260516.md]] — AI/LLM 기술 동향 대시보드
+- [[Topics/Website_Analysis_Product_Makers_Note_Superpowers_20260516.md]] — Superpowers 사용기
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]] — M5 Max 전략적 활용
 
 ---
 

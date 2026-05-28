@@ -3,7 +3,7 @@
 > 배 안에 거미줄처럼 깔리는 '동력/제어/계장용 케이블'의 재질, 구조 및 성능 검증(테스트 방법)을 정의하는 매우 중요한 규정입니다.
 
 ## 핵심 요약 (Key Contents)
-- **상위 MOC**: [[IEC_60092_Marine_Electrical_MOC]]
+- **상위 MOC**: [[Topics/02_IEC_60092_Marine_Electrical_MOC.md]]
 
 ### 1. 난연성 (Flame Retardancy)
 - 최우선 사항으로, 화재 발생 시 불이 케이블을 타고 선내 전체로 번지는 현상을 방지해야 합니다. 케이블 외피는 자기 소화성(Self-extinguishing)을 지니도록 엄격한 화재 테스트 규격을 통과해야 합니다.

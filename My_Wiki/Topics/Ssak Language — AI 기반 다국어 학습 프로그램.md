@@ -1,13 +1,13 @@
 ---
 id: 8795e144
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.4
 tags: [topics, 프로젝트, ai학습, 다국어, 교육]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Language — AI 기반 다국어 학습 프로그램]]
+# [[Topics/Ssak Language — AI 기반 다국어 학습 프로그램.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Ssak Language는 AI가 개인 맞춤형 외국어 학습 콘텐츠를 생성해주는 데스크탑 학습 도구다.
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Image — 데스크탑 패키징과 Microsoft Store 배포]], [[Plantler 프로젝트 개요 — 식물 관리 AI 앱_1]], [[Plantler 프로젝트 개요 — 식물 관리 AI 앱_2]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak Image — 데스크탑 패키징과 Microsoft Store 배포.md]], [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]], [[Plantler 프로젝트 개요 — 식물 관리 AI 앱_2]]
 - **Raw Source:** [[00_Raw/22_SsakLanguage_프로젝트_개요.md]]

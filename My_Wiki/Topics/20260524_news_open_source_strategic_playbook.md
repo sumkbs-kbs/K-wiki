@@ -4,7 +4,7 @@ type: news
 tags: [open-source, strategy, p3-institute, substack, linux-foundation, ai-geopolitics, risc-v, android]
 date: 2026-05-24
 source: "https://p3institute.substack.com/p/from-open-source-software-to-open"
-related: [[MS 파라 1.5 브라우저 에이전트]], [[20260525_news_ms_fara15_browser_agent]]
+related: [[MS 파라 1.5 브라우저 에이전트]], 20260525_news_ms_fara15_browser_agent
 summary: "P3 인스티튜트의 오픈소스 전략 분석 — 6개 사례 (Android/OCP/K8s/LF Networking/RISC-V/Overture Maps) 통해 오픈소스가 단순 개발 방식을 넘어 기업·국가 전략 도구로 진화하는 과정"
 ---
 

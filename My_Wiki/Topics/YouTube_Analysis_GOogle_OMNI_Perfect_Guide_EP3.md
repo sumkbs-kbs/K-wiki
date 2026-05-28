@@ -13,7 +13,7 @@ likes: 170
 comments: 64
 verified: true
 subscribers: 11.4만명
-related: [[00_Wiki_중앙색인_MOC.md]], [[YouTube_Analysis_Google_IO_Antigravity_2.0_Gemini_3.5_Flash]], [[Antigravity-K-정밀분석-현재상태-20260511.md]], [[https://github.com/ssak-ai-lab]], [[https://developers.google.com/gemini/overview]]
+related: 00_Wiki_중앙색인_MOC, [[Topics/YouTube_Analysis_Google_IO_Antigravity_2.0_Gemini_3.5_Flash.md]], [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]], [[https://github.com/ssak-ai-lab]], [[https://developers.google.com/gemini/overview]]
 summary: "구글 I/O 2026에서 발표한 Gemini Omni의 멀티모달 AI 혁신을 CONNECT AI LAB이 실시간 라이브로 분석한 가이드 영상"
 ---
 

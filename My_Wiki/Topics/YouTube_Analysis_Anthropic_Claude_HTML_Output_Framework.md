@@ -158,12 +158,12 @@ Karpathy는 이 현상을 단순 트릭으로 보지 않고 **AI 출력의 진�
 ## 관련 문서
 
 - [[https://github.com/karpathy/llm-wiki]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[Wiki_Tree_Architecture]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 - [[https://github.com/trending]]
-- [[YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding]]
-- [[YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
+- YouTube_Analysis_Bappo_GStack_GSD_Superpowers_AutonomousCoding
+- YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]

@@ -87,17 +87,17 @@ tags: [youtube, latmd, knowledge_graph, agents_md, wiki_links, bidirectional_ref
 6. **Karpathy LLM Wiki의 구체적 구현:** "지식 그래프" 개념을 실제 CLI 도구로 구현한 실용적 사례
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
+- [[Topics/Wiki_Tree_Architecture.md]]
 - [[https://github.com/karpathy/llm-wiki]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## 비교: 지식 그래프/매니페스트 도구들
 
@@ -109,4 +109,4 @@ tags: [youtube, latmd, knowledge_graph, agents_md, wiki_links, bidirectional_ref
 | Karpathy LLM Wiki Gist | 지식 분류/갱신 철학 | 개념/이론 단계 |
 
 ## M5 Max 전략과의 연계
-[[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 내장 LLM Wiki 아키텍처의 실제 구현체 중 하나입니다. 특히 lat.md의 내장 시맨틱 검색(외부벡터DB 불필요 + libsql KNN)과 Obsidian/Claude Code/MCP 연동 구조는 M5 Max 128GB 환경에서 로컬 DeepSeek-V4-Flash와 조합할 때 가장 높은 가성비를 발휘할 수 있는 워크플로우입니다. AGENTS.md의 그래프 확장성 문제는 [[WikiTree_Architecture]]에서도 언급된 "단일 파일의 한계"와 직접적으로 연결됩니다.
+[[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]에서 제안한 내장 LLM Wiki 아키텍처의 실제 구현체 중 하나입니다. 특히 lat.md의 내장 시맨틱 검색(외부벡터DB 불필요 + libsql KNN)과 Obsidian/Claude Code/MCP 연동 구조는 M5 Max 128GB 환경에서 로컬 DeepSeek-V4-Flash와 조합할 때 가장 높은 가성비를 발휘할 수 있는 워크플로우입니다. AGENTS.md의 그래프 확장성 문제는 [[Topics/Wiki_Tree_Architecture.md]]에서도 언급된 "단일 파일의 한계"와 직접적으로 연결됩니다.

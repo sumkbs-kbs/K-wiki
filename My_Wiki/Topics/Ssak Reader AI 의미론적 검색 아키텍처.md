@@ -1,13 +1,13 @@
 ---
 id: 7fe08a6f
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.5
 tags: [topics, ai, 의미검색, sbert, 성능최적화]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Reader AI 의미론적 검색 아키텍처]]
+# Ssak Reader AI 의미론적 검색 아키텍처
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > KR-SBERT 모델은 로딩에 ~15-20초가 걸린다. 앱 시작마다 이 시간을 잡아먹으면 사용자가 떠난다.
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]]
 - **Raw Source:** [[00_Raw/12_SsakReader_AI_의미검색_아키텍처.md]]

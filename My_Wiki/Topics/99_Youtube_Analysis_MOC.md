@@ -78,8 +78,8 @@
 - [최신 AI/LLM/Agent 뉴스 종합](Wiki_Analysis_Latest_AI_LLM_Agent_News_20260514.md)
 
 ## 📚 철학/역사 (9개)
-- [[YouTube_Analysis_EBS_Sleep_DocCosmosGalaxy.md]] ✨수면 다큐 - 우주의 탄생을 galaxies의 원리까지 (EBS다큐)
-- [[YouTube_Analysis_Sodo_History_Drama_ShinSamrang.md]] 1시간에 끝내는 소도의 역사 (신사임당)
+- YouTube_Analysis_EBS_Sleep_DocCosmosGalaxy ✨수면 다큐 - 우주의 탄생을 galaxies의 원리까지 (EBS다큐)
+- YouTube_Analysis_Sodo_History_Drama_ShinSamrang 1시간에 끝내는 소도의 역사 (신사임당)
 - [**신규** 우리가 알던 역사는 조작됐다...? 충격 음모론 100분 몰아보기](YouTube_Analysis_Histories_Conspiracy_100Min.md)
 - [**신규** 성우 이성선 낭독 — 사람이 풀지 못한 5대 수수께끼](YouTube_Analysis_LeeSungSun_Narration_5GreatRiddles.md)
 - [**신규** 잠이 안 올 때 듣는 물리학 (1시간)](YouTube_Analysis_Physics_For_Sleep_1Hour.md)

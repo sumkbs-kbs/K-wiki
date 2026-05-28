@@ -46,17 +46,17 @@ tags: [youtube, claude_code, voicebox, hyperframes, ai_video_automation, voice_c
 | ElevenLabs (대안) | 음성합성 (유료) | 유료 | △ 클라우드 |
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[YouTube_Analysis_lat.md_Knowledge_Graph]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- YouTube_Analysis_lat.md_Knowledge_Graph
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## M5 Max 연계성
 VoiceBox 같은 로컬 음성처리 도구는 M5 Max M-series GPU에서 효율적으로 돌릴 수 있는 대표적인 예입니다. 128GB RAM은 동시에 VoiceBox(음성) + DeepSeek-V4(추론) + Obsidian(지식)을 모두 상주시켜 완전히 프라이빗한 AI 콘텐츠 제작 파이프라인을 구축할 수 있는 환경을 제공합니다.

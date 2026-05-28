@@ -103,11 +103,11 @@ CONNECT AI Lab이 운영하는 'AI 1인 기업을 위한 세계 최초 AI 에이
 6. **로컬 브리지** - 127.0.0.1:4825에서 로컬 서버 구동, MCP 프로토콜과 유사한 아키텍처
 
 ## 연결된 개념
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 - [[https://github.com/karpathy/llm-wiki]]
 - [[FineTuning_Datasets]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 - [](https://www.ezerai.xyz/knowledge/mrbeast-hooking)
 - [](https://www.ezerai.xyz/knowledge/algo-hacking-2026)
 - [](https://www.ezerai.xyz/skill/youtube-hook-analyzer)

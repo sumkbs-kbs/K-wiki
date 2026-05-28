@@ -12,7 +12,7 @@ published: "2026-05"
 views: N/A
 date: 2026-05-28
 summary: "CodeGraph — 코드베이스 지식그래프로 AI 에이전트 토큰 70% 절감"
-related: [[Antigravity-K-정밀분석-현재상태-20260511.md]], [[GitHub]], [[YouTube_Analysis_Graphify_Token_Reduction.md]]
+related: [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]], [[GitHub]], YouTube_Analysis_Graphify_Token_Reduction
 ---
 
 # 🧠 CodeGraph: Claude Code에 '뇌'를 부여 — 30k Stars
@@ -65,6 +65,6 @@ Claude Code, Cursor,_CODex 같은 AI 코딩 에이전트는 매 질문마다 레
 
 | 문서 | 요약 |
 |------|------|
-| [[YouTube_Analysis_Graphify_Token_Reduction.md]] | 그래프 기반 토큰 최적화 |
-| [[Antigravity-K-정밀분석-현재상태-20260511.md]] | 우리 시스템과 직접 연계 |
+| YouTube_Analysis_Graphify_Token_Reduction | 그래프 기반 토큰 최적화 |
+| [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]] | 우리 시스템과 직접 연계 |
 | [[GitHub]] | 30k Stars 프로젝트 |

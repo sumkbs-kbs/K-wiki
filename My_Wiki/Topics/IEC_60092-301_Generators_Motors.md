@@ -3,7 +3,7 @@
 > 배에서 전기를 만들어내는 발전기와, 그 전기를 이용해 펌프나 팬을 돌리는 전기 모터 장비들의 내구성 및 요구사항을 다루는 규정입니다.
 
 ## 핵심 요약 (Key Contents)
-- **상위 MOC**: [[IEC_60092_Marine_Electrical_MOC]]
+- **상위 MOC**: [[Topics/02_IEC_60092_Marine_Electrical_MOC.md]]
 
 ### 1. 지속적이고 흔들림 없는 성능 요구 (Performance Requirements)
 - 엔진이나 파도에 의한 극심한 진동 환경에서 코일과 축(Shaft), 베어링이 물리적 손상을 입지 않도록 하는 설계 가이드라인을 제시합니다.

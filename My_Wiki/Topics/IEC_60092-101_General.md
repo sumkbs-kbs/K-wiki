@@ -3,7 +3,7 @@
 > 선박 전기 설비의 기반이 되는 가장 기초적인 표준으로, 전체 시리즈에서 사용되는 용어의 정의와 공통적인 환경 및 설계 기준을 확립합니다.
 
 ## 핵심 요약 (Key Contents)
-- **상위 MOC**: [[IEC_60092_Marine_Electrical_MOC]]
+- **상위 MOC**: [[Topics/02_IEC_60092_Marine_Electrical_MOC.md]]
 
 ### 1. 주위 환경 조건 (Environmental Conditions)
 선박은 육상과 달리 진동, 염분, 고온, 높은 습도 등 극한의 환경에 노출되므로 이를 견딜 수 있도록 장비가 설계되어야 합니다.

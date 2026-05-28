@@ -8,7 +8,7 @@ status: Refined
 author: Product Makers Note
 channel_url: https://maily.so/makersnote
 tags: [superpowers, claude-code, AI코딩, 컨텍스트오염, AI에이전트, 워크플로우, 플러그인, 시각화]
-related: [[Website_Analysis_EZER_AI_Agent_University.md]], [[M5Max_Local_LLM_Strategy_and_Wiki]], [[AntiGraffiti-K]], [[AI_Technology_Dashboard_20260516]], [[GitHub_Repos_Superpowers_Analysis]]
+related: [[Topics/Website_Analysis_EZER_AI_Agent_University.md]], [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]], [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]], [[Topics/AI_Technology_Dashboard_20260516.md]], [[GitHub_Repos_Superpowers_Analysis]]
 ---
 
 # 웹사이트 분석: Product Makers Note - Superpowers 사용기
@@ -79,10 +79,10 @@ GitHub 19만 스타를 받은 Claude Code 플러그인 **Superpowers**의 실제
 
 ## 5. 관련 Wiki 문서
 
-- [[Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
-- [[M5Max_Local_LLM_Strategy_and_Wiki]] — M5 Max 전략적 활용
-- [[AntiGraffiti-K]] — 에이전트 시스템 분석
-- [[AI_Technology_Dashboard_20260516]] — AI/LLM 기술 동향 대시보드
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]] — Claude Code 활용 가이드
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]] — M5 Max 전략적 활용
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]] — 에이전트 시스템 분석
+- [[Topics/AI_Technology_Dashboard_20260516.md]] — AI/LLM 기술 동향 대시보드
 - [[GitHub_Repos_Superpowers_Analysis]] — Superpowers GitHub 레포 분석
 - [[GStack_GSD_Superpowers_Workflow.md]] — GStack+GSD+Superpowers 결합 워크플로우 (YouTube 분석)
 

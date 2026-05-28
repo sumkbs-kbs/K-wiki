@@ -1,13 +1,13 @@
 ---
 id: 704c4202
-category: "[[10_Wiki/Decisions]]"
+category: "[[Decisions/index]]"
 confidence_score: 0.5
 tags: [decisions]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler v2.0 프로젝트 회고]]
+# [[Decisions/Plantler v2.0 프로젝트 회고.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Flutter + FastAPI 조합을 선택한 이유:
@@ -28,6 +28,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Decisions]]
-- **Related:** [[나만의 생산성 워크플로우]]
+- **Parent:** [[Decisions/index]]
+- **Related:** [[Skills/나만의 생산성 워크플로우.md]]
 - **Raw Source:** [[00_Raw/프로젝트_회고.md]]

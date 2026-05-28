@@ -52,8 +52,8 @@ date: 2026-05-22
 
 | 문서 | 설명 |
 |------|------|
-| [[YouTube_Analysis_Solar_Evaporation_Desalination.md]] | 태양광 담수화 (과학/기술) |
-| [[YouTube_Analysis_3MajorReligions_History.md]] | 3대종교의 역사 (역사) |
-| [[YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History.md]] | 손자병법 풀스토리 (철학/역사) |
-| [[YouTube_Analysis_LeeSungSun_Narration_5GreatRiddles.md]] | 성우 이성선 5대 미스터리 낭독 |
-| [[YouTube_Analysis_Histories_Conspiracy_100Min.md]] | 역사 조작론 100분 분석 |
+| YouTube_Analysis_Solar_Evaporation_Desalination | 태양광 담수화 (과학/기술) |
+| YouTube_Analysis_3MajorReligions_History | 3대종교의 역사 (역사) |
+| YouTube_Analysis_Ssuk_Jangbing_Beop_Sleeping_History | 손자병법 풀스토리 (철학/역사) |
+| YouTube_Analysis_LeeSungSun_Narration_5GreatRiddles | 성우 이성선 5대 미스터리 낭독 |
+| YouTube_Analysis_Histories_Conspiracy_100Min | 역사 조작론 100분 분석 |

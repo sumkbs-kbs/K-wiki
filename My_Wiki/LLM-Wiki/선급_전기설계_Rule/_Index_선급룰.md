@@ -7,11 +7,11 @@
 
 ## 🗂️ 선급 규정 목차
 
-- 🇺🇸 [[01_ABS_미국선급]] : ABS Marine Vessel Rules - `Part 4, Chapter 8`
-- 🇬🇧 [[02_LR_영국선급]] : LR Rules and Regulations - `Part 6, Chapter 2`
-- 🇰🇷 [[03_KR_한국선급]] : KR 강선규칙 - `Part 6`
-- 🇳🇴 [[04_DNV_노르웨이선급]] : DNV-RU-SHIP - `Part 4, Chapter 8`
-- 🇫🇷 [[05_BV_프랑스선급]] : BV NR467 Rules - `Part C`
+- 🇺🇸 01_ABS_미국선급 : ABS Marine Vessel Rules - `Part 4, Chapter 8`
+- 🇬🇧 02_LR_영국선급 : LR Rules and Regulations - `Part 6, Chapter 2`
+- 🇰🇷 03_KR_한국선급 : KR 강선규칙 - `Part 6`
+- 🇳🇴 04_DNV_노르웨이선급 : DNV-RU-SHIP - `Part 4, Chapter 8`
+- 🇫🇷 05_BV_프랑스선급 : BV NR467 Rules - `Part C`
 
 ---
 *데이터 출처: 각 선급 공식 룰 온라인 탐색기 (Rules Explorer) 및 공식 포털 웹 검색 내역 반영 체계화.*

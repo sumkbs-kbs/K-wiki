@@ -5,7 +5,7 @@ type: projects
 source: 조선사 현장 발표 자료 (강병석 라인장) + Parabok 선도선 인도 일정
 date: 2026-05
 tags: [조선소, 전장설계, 케이블, 자동화, 원가절감, LNG선, Parabok, 인도일정, 작업배치]
-related: [[조선_설계_자동화_원가절감_전략_회의록.md]], [[GTT_LNG_Inventory_Technology.md]], [[조선업계_트렌드/01_2025_2026_조선업_최신동향.md]]
+related: 조선_설계_자동화_원가절감_전략_회의록, GTT_LNG_Inventory_Technology, [[조선업계_트렌드/01_2025_2026_조선업_최신동향.md]]
 ---
 
 ## 핵심 요약

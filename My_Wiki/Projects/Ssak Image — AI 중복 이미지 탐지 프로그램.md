@@ -1,13 +1,13 @@
 ---
 id: f5e8cd3f
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.5
 tags: [projects, 프로젝트, 이미지처리, 중복탐지, ai]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Image — AI 중복 이미지 탐지 프로그램]]
+# [[Projects/Ssak Image — AI 중복 이미지 탐지 프로그램.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Ssak Image는 대량의 이미지 폴더에서 **중복/유사 이미지**를 AI로 찾아주는 데스크탑 프로그램이다.
@@ -29,6 +29,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak File — 버전 진화 기록 (1.0 → 1.1)]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]], [[Projects/Ssak File — 버전 진화 기록 (1.0 → 1.1).md]]
 - **Raw Source:** [[00_Raw/18_SsakImage_프로젝트_개요.md]]

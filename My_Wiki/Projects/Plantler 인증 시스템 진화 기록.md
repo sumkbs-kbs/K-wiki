@@ -1,13 +1,13 @@
 ---
 id: 84743221
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.5
 tags: [projects, 인증, 보안, 토큰, 자동로그인]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 인증 시스템 진화 기록]]
+# [[Projects/Plantler 인증 시스템 진화 기록.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 초기 버전에서는 `SharedPreferences`에 `login_auto_login` 플래그만 저장하고, 앱 시작 시 실제로 체크하지 않았다. 결과적으로:
@@ -32,6 +32,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Plantler 프로젝트 개요 — 식물 관리 AI 앱]], [[Python 디자인 패턴 가이드]], [[Plantler 아키텍처 의사결정 기록]]
-- **Raw Source:** [[00_Raw/03_인증_시스템_진화.md]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]], [[Skills/Python 디자인 패턴 가이드.md]], [[Decisions/Plantler 아키텍처 의사결정 기록.md]]
+- **Raw Source:** Projects/Plantler 인증 시스템 진화 기록

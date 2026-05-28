@@ -1,6 +1,6 @@
 ---
 id: 49a290a7
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.667
 tags: [topics, 백업, 복원, 클라우드, 데이터관리]
 last_reinforced: 2026-04-15
@@ -32,6 +32,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Plantler AI 식물 분석 시스템]], [[Plantler 인증 시스템 진화 기록]], [[Plantler 프로젝트 개요 — 식물 관리 AI 앱]]
-- **Raw Source:** [[00_Raw/08_백업복원_통합기.md]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Topics/Plantler AI 식물 분석 시스템.md]], [[Projects/Plantler 인증 시스템 진화 기록.md]], [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]]
+- **Raw Source:** Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램

@@ -3,7 +3,7 @@ id: YT20260521-004
 title: Hermes + Antigravity 2.0 분석
 tags: [hermes,antigravity2,integration,agentic,build]
 date: 2026-05-21
-related: [[99_Youtube_Analysis_MOC]]
+related: [[Topics/99_Youtube_Analysis_MOC.md]]
 source: Julian Goldie SEO
 duration: 14분
 summary: "Hermes Agent와 Antigravity 2.0의 통합을 통해 무엇이든 만들 수 있는 방법 분석"

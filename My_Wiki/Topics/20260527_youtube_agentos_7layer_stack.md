@@ -10,7 +10,7 @@
 - **url**: https://youtu.be/uUPPwL-9ssE
 - **date**: 2026-05-26
 - **summary**: AI 에이전트를 하나의 OS처럼 만드는 7-Layer Architecture — foundation → memory → brain → agents → command center → production → feedback loop
-- **related**: [[Antigravity-K-정밀분석-현재상태-20260511.md]], [[Wiki/Memories/K.md]], [[Hermes Agent OS]]
+- **related**: [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]], [[Wiki/Memories/K.md]], [[Hermes Agent OS]]
 
 ---
 
@@ -81,6 +81,6 @@ Julian Goldie가 100+ 시간과 9번의 실패 끝에 정리한 **AI Agent OS 7-
 
 | 문서 | 관계 |
 |------|------|
-| [[Antigravity-K-정밀분석-현재상태-20260511.md]] | 에이전트 레이어 |
+| [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]] | 에이전트 레이어 |
 | [[Wiki/Memories/K.md]] | 메모리 레이어 |
 | [[Hermes Agent OS]] | 동일 주제 |

@@ -4,7 +4,7 @@ type: topic
 tags: [AI, LLM, Physical AI, Robotics, AI Governance, Model Release, 한국AI, Geopolitics]
 date: 2026-05-26
 source: "https://huggingface.co/blog, https://news.ycombinator.com, https://www.techcrunch.com, https://news.google.com, https://llm-stats.com, https://blog.mean.ceo"
-related: [[AI/LLM/Physical AI 기술 대시보드(2026-05-23)]], [[AI/LLM/Physical AI 기술 대시보드(2026-05-20)]], [[AI/LLM/Physical AI 기술 대시보드(2026-05-16)]], [[금융시장_동향_2026-05-26]], [[호르무즈해협_지정학적_리스크와_투자]]
+related: [[AI/LLM/Physical AI 기술 대시보드(2026-05-23)]], [[AI/LLM/Physical AI 기술 대시보드(2026-05-20)]], [[AI/LLM/Physical AI 기술 대시보드(2026-05-16)]], 금융시장_동향_2026-05-26, [[호르무즈해협_지정학적_리스크와_투자]]
 summary: "Gemini 3.5 Flash/GPT-5.5/Grok 4.3 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정, AI 거버넌스 교황백서"
 ---
 

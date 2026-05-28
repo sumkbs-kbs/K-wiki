@@ -1,13 +1,13 @@
 ---
 id: d3a596f8
-category: "[[10_Wiki/Decisions]]"
+category: "[[Decisions/index]]"
 confidence_score: 0.5
 tags: [decisions, 프로젝트, 아키텍처, 기술스택]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 프로젝트 개요 — 식물 관리 AI 앱]]
+# [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Plantler는 AI 기반 식물 관리 앱이다. 사용자가 식물 사진을 찍으면 AI가 건강 상태를 분석하고, 날씨 기반 관리 조언을 제공하며, 커뮤니티에서 다른 식물 집사들과 ...
@@ -29,6 +29,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Decisions]]
-- **Related:** [[Plantler v2.0 프로젝트 회고]], [[나만의 생산성 워크플로우]]
-- **Raw Source:** [[00_Raw/01_Plantler_프로젝트_개요.md]]
+- **Parent:** [[Decisions/index]]
+- **Related:** [[Decisions/Plantler v2.0 프로젝트 회고.md]], [[Skills/나만의 생산성 워크플로우.md]]
+- **Raw Source:** Projects/Plantler 프로젝트 개요 — 식물 관리 AI 앱

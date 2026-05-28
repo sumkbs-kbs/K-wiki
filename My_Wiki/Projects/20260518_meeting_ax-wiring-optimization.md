@@ -4,7 +4,7 @@ type: project
 tags: [ax, wiring, automation, cost-optimization, simulation, poc]
 date: 2026-05-18
 source: "[사내 회의: 배선 자동화 AX]"
-related: ["[[IEC 60092-350_Cables.md]]", "[[조선_설계_자동화_원가절감_전략_회의록.md]]", "[[Antigravity-K-정밀분석-현재상태-20260511.md]]"]
+related: ["[[IEC 60092-350_Cables.md]]", "조선_설계_자동화_원가절감_전략_회의록", "[[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]]"]
 summary: "배선 자동화(AX) 시스템의 원가 최적화 시뮬레이션 및 POC 계획 논의"
 ---
 

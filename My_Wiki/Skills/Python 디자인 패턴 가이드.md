@@ -1,13 +1,13 @@
 ---
 id: 850a6f43
-category: "[[10_Wiki/Skills]]"
+category: "[[Skills/index]]"
 confidence_score: 0.667
 tags: [skills]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Python 디자인 패턴 가이드]]
+# [[Skills/Python 디자인 패턴 가이드.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 데코레이터 패턴과 팩토리 패턴은 Python에서 가장 자주 사용되는 디자인 패턴이다.
@@ -28,6 +28,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Skills]]
+- **Parent:** [[Skills/index]]
 - **Related:** *(관련 문서가 아직 없습니다)*
-- **Raw Source:** [[00_Raw/python_패턴_가이드.md]]
+- **Raw Source:** Skills/Python 디자인 패턴 가이드

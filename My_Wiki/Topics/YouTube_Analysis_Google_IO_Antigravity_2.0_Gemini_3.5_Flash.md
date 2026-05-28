@@ -11,7 +11,7 @@ date: 2026-05-20
 views: 1975
 likes: 62
 comments: 18
-related: [[00_Wiki_중앙색인_MOC.md]], [[YouTube_Analysis_Hermes_Foundation_Release_Native_Windows_180x_Faster_Browser]], [[Antigravity-K-정밀분석-현재상태-20260511.md]], [[https://github.com/ssak-ai-lab]], [[https://developers.google.com/gemini/overview]]
+related: 00_Wiki_중앙색인_MOC, YouTube_Analysis_Hermes_Foundation_Release_Native_Windows_180x_Faster_Browser, [[Projects/Antigravity-K-정밀분석-현재상태-20260511.md]], [[https://github.com/ssak-ai-lab]], [[https://developers.google.com/gemini/overview]]
 summary: "코드팩토리가 Google I/O 2026에서 발표한 Antigravity 2.0과 Gemini 3.5 Flash를 7분 내에 요약한 기술 분석 영상"
 ---
 

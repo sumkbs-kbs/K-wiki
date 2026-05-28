@@ -50,16 +50,16 @@ tags: [youtube, voiceclone, claude_code, voicebox, hyperframes, ai_video_automat
 - 11Labs: 유료 대안
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_lat.md_Knowledge_Graph]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- YouTube_Analysis_lat.md_Knowledge_Graph
 
 ## 비교: AI 생성 도구들
 

@@ -3,7 +3,7 @@
 > 완성된 제품이나 케이블을 배 안에 어떻게 올바르게 깔고 고정하는지에 대한 실제 현장(조선소) 시공 규칙과 최종 테스트 규정입니다.
 
 ## 핵심 요약 (Key Contents)
-- **상위 MOC**: [[IEC_60092_Marine_Electrical_MOC]]
+- **상위 MOC**: [[Topics/02_IEC_60092_Marine_Electrical_MOC.md]]
 
 ### 1. 배선 시공 및 고정 (Cable Routing & Fastening)
 - 케이블 밴드로 고정하는 간격, 벽(Bulkhead) 또는 갑판(Deck)을 관통할 때 화재나 물이 넘어오지 않도록 마감하는 그랜드(Gland) 방식 및 전선관 시공법을 다룹니다.

@@ -1,13 +1,13 @@
 ---
 id: f9a3ef22
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.3
 tags: [topics, 데이터베이스, sqlite, 동시성, 멀티프로세스]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Reader 데이터베이스 동시성 문제와 해결]]
+# Ssak Reader 데이터베이스 동시성 문제와 해결
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 백그라운드 인덱서가 멀티프로세스로 파일을 처리하면서, 여러 워커가 동시에 SQLite에 쓰기를 시도했다.
@@ -33,6 +33,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak Reader AI 의미론적 검색 아키텍처]], [[Ssak Reader 경고 억제 시스템 — 깨끗한 터미널의 기술]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]], Ssak Reader AI 의미론적 검색 아키텍처, Ssak Reader 경고 억제 시스템 — 깨끗한 터미널의 기술
 - **Raw Source:** [[00_Raw/15_SsakReader_데이터베이스_동시성.md]]

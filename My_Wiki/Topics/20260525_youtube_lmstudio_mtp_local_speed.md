@@ -4,7 +4,7 @@ type: topic
 tags: [lm-studio, mtp, multi-token-prediction, local-ai, performance, speed]
 date: 2026-05-25
 source: "https://www.youtube.com/watch?v=t04vS6Lpqww"
-related: [[20260525_youtube_m5_local_wiki_obsidian_antigravity]], [[20260525_youtube_hermes_openclaw_mem0_paperclip]]
+related: 20260525_youtube_m5_local_wiki_obsidian_antigravity, 20260525_youtube_hermes_openclaw_mem0_paperclip
 summary: "LM Studio MTP 설정으로 로컬 LLM 토큰 생성 속도 품질 저하 없이 더블업"
 ---
 
@@ -71,9 +71,9 @@ summary: "LM Studio MTP 설정으로 로컬 LLM 토큰 생성 속도 품질 저�
 
 | 문서 | 내용 |
 |------|------|
-| [[20260525_youtube_m5_local_wiki_obsidian_antigravity]] | M5 로컬 Wiki 구축 및 OpsiGravity/Antigravity CLI 연동 |
-| [[20260525_youtube_claude_antigravity_combo]] | Claude Code vs 안티그래비티 강점 비교 |
-| [[20260525_youtube_hermes_openclaw_mem0_paperclip]] | AI 비서 세팅 가이드 및 Paperclip 연동 |
+| 20260525_youtube_m5_local_wiki_obsidian_antigravity | M5 로컬 Wiki 구축 및 OpsiGravity/Antigravity CLI 연동 |
+| 20260525_youtube_claude_antigravity_combo | Claude Code vs 안티그래비티 강점 비교 |
+| 20260525_youtube_hermes_openclaw_mem0_paperclip | AI 비서 세팅 가이드 및 Paperclip 연동 |
 | [[Wiki_Analysis_Obsidian_ClaudeCode_RawWiki]] | Obsidian+ClaudeCode 연동 아키텍처 |
 
 ---

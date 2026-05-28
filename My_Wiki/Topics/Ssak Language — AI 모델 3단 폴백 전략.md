@@ -1,13 +1,13 @@
 ---
 id: b177ce86
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.6
 tags: [topics, ai모델, gemini, openai, ollama, 폴백시스템]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Language — AI 모델 3단 폴백 전략]]
+# [[Topics/Ssak Language — AI 모델 3단 폴백 전략.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - Gemini API 키가 없을 수 있다
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Language — AI 기반 다국어 학습 프로그램]], [[Plantler AI 식물 분석 시스템]], [[Plantler AI 식물 분석 시스템_1]]
-- **Raw Source:** [[00_Raw/23_SsakLanguage_AI_모델_폴백.md]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Topics/Ssak Language — AI 기반 다국어 학습 프로그램.md]], [[Topics/Plantler AI 식물 분석 시스템.md]], [[Plantler AI 식물 분석 시스템_1]]
+- **Raw Source:** Topics/Ssak Language — AI 모델 3단 폴백 전략

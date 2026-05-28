@@ -5,7 +5,7 @@ type: projects
 source: Wikipedia, GTT 공식 사이트, 조선업계 정보
 date: 2026-05-15
 tags: [GTT, LNG, 인벤토리, 막탱크, NO96, MARK-III-Flex, 조선소, 라이선스, 특허]
-related: [[ 조선업계_트렌드/01_2025_2026_조선업_최신동향.md]], [[IEC_60092-504_Automation_Control.md]]
+related: [[ 조선업계_트렌드/01_2025_2026_조선업_최신동향.md]], [[Topics/IEC_60092-504_Automation_Control.md]]
 ---
 
 ## 핵심 요약

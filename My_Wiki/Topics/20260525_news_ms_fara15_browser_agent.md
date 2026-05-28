@@ -4,7 +4,7 @@ type: news
 tags: [ms-fara15, browser-agent, ai-times, open-source, computer-use, sota]
 date: 2026-05-24
 source: "https://www.aitimes.com/news/articleView.html?idxno=210879"
-related: [[Hermes Agent OS 구축 가이드]], [[99_Youtube_Analysis_MOC]], [[Julian Goldie SEO]]
+related: [[Hermes Agent OS 구축 가이드]], [[Topics/99_Youtube_Analysis_MOC.md]], [[Julian Goldie SEO]]
 summary: "MS의 차세대 브라우저 AI 에이전트 '파라 1.5'(9B/27B) 공개 — 온라인-마인드2웹 72%로 OpenAI Operator·Gemini 2.5 Computer Use 추월"
 ---
 

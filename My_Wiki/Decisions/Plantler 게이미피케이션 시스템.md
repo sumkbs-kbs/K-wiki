@@ -1,13 +1,13 @@
 ---
 id: aaedaac6
-category: "[[10_Wiki/Decisions]]"
+category: "[[Decisions/index]]"
 confidence_score: 1.0
 tags: [decisions, 게이미피케이션, 챌린지, 뱃지, 레벨]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 게이미피케이션 시스템]]
+# [[Decisions/Plantler 게이미피케이션 시스템.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - 초기에는 "일일 챌린지"로 설계했으나 **인지 부하**가 너무 높았음
@@ -29,6 +29,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Decisions]]
-- **Related:** [[Plantler 커뮤니티 기능 개발 여정]], [[나만의 생산성 워크플로우]], [[Plantler 인증 시스템 진화 기록]]
-- **Raw Source:** [[00_Raw/07_게이미피케이션_시스템.md]]
+- **Parent:** [[Decisions/index]]
+- **Related:** [[Projects/Plantler 커뮤니티 기능 개발 여정.md]], [[Skills/나만의 생산성 워크플로우.md]], [[Projects/Plantler 인증 시스템 진화 기록.md]]
+- **Raw Source:** Decisions/Plantler 게이미피케이션 시스템

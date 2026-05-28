@@ -52,5 +52,5 @@ date: 2026-05-22
 | 문서 | 설명 |
 |------|------|
 | [[YouTube_Analysis_Hermes_Agentic_OS_Mission_Stack.md]] | Hermes + Claude Agent |
-| [[YouTube_Analysis_Google_IO_Antigravity_2.0_Gemini_3.5_Flash.md]] | Google IO Antigravity 2.0 |
-| [[YouTube_Analysis_Google_AI_Studio_New_App_Building_Features.md]] | Google AI Studio 무서운 새로움 |
+| YouTube_Analysis_Google_IO_Antigravity_2.0_Gemini_3.5_Flash | Google IO Antigravity 2.0 |
+| YouTube_Analysis_Google_AI_Studio_New_App_Building_Features | Google AI Studio 무서운 새로움 |

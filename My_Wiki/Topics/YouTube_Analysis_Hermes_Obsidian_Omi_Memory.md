@@ -53,15 +53,15 @@ Julian Goldie SEO 채널에서 공개한 영상. 세 가지 무료 도구(Hermes
 5. **로컬 프라이버시:** 모든 데이터가 로컬 Vault에 저장, 외부 전송 없음
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
+- [[Topics/Wiki_Tree_Architecture.md]]
 - [[https://github.com/karpathy/llm-wiki]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## 비교: Obsidian + AI 메모리 영상들
 

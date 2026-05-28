@@ -1,13 +1,13 @@
 ---
 id: 03410078
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.667
 tags: [projects, 패키징, pyinstaller, msix, microsoftstore, 배포]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Image — 데스크탑 패키징과 Microsoft Store 배포]]
+# [[Projects/Ssak Image — 데스크탑 패키징과 Microsoft Store 배포.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > ```bash
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader Windows 호환성 이슈 모음]], [[Ssak Reader Windows 호환성 이슈 모음_1]], [[Ssak Reader 오프라인 모델 배포 전략]]
+- **Parent:** [[Projects/index]]
+- **Related:** Ssak Reader Windows 호환성 이슈 모음, [[Ssak Reader Windows 호환성 이슈 모음_1]], [[Projects/Ssak Reader 오프라인 모델 배포 전략.md]]
 - **Raw Source:** [[00_Raw/21_SsakImage_패키징_배포.md]]

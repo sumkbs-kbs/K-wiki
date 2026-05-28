@@ -1,13 +1,13 @@
 ---
 id: 72b93320
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.5
 tags: [topics, 이미지처리, 해싱, cnn, hnsw, 알고리즘]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Image — 이미지 중복 탐지 알고리즘 설계]]
+# Ssak Image — 이미지 중복 탐지 알고리즘 설계
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - aHash(Average Hash): 이미지를 8x8로 축소 → 평균 밝기 기준으로 64비트 해시 생성
@@ -28,13 +28,13 @@ github_commit: "pending"
   - 모든 이미지 쌍을 직접 비교. O(n²)이지만 2000장까지는 충분히 빠르다.
   - ```python
   - import hnswlib
-  - [[index]] = hnswlib.Index(space='l2', dim=64)
+  - index = hnswlib.Index(space='l2', dim=64)
 
 ## ⚠️ 모순 및 업데이트 (Contradictions & RL Update)
 - **과거 데이터와의 충돌:** 현재까지 발견된 모순 없음.
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Image — AI 중복 이미지 탐지 프로그램]], [[Plantler UIUX 디자인 진화 기록]], [[Ssak Image — AI 백엔드 폴백 아키텍처]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Ssak Image — AI 중복 이미지 탐지 프로그램.md]], Plantler UIUX 디자인 진화 기록, Ssak Image — AI 백엔드 폴백 아키텍처
 - **Raw Source:** [[00_Raw/20_SsakImage_중복탐지_알고리즘.md]]

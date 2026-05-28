@@ -48,15 +48,15 @@ tags: [youtube, voice_clone, hyperframes, claude_code, ai_video_automation, loca
 - **에이아이 영상자동화의 미래:** 한 마디도 녹음안 하고 영상 제작이 가능한 시점 도달
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## M5 Max 연계성
 이 영상에서 소개된 VoiceBox 같은 로컬 음성복제 도구는 M5 Max M-series GPU에서 효율적으로 구동 가능. 128GB RAM 환경에서 VoiceBox(로컬 음성복제) + DeepSeek-V4(로컬 에이아이 추론) + Obsidian(지식백과)를 동시에 상주시켜 프라이버시 완전보장 AI 콘텐츠 제작 파이프라인 구축 가능.

@@ -63,10 +63,10 @@ tags: [macOS, M5_Max, Local_LLM, DeepSeek_V4, vLLM, SGLang, Obsidian_RAG, Multim
 128GB RAM의 힘으로 단순한 노트 앱(Obsidian)을 '살아있는 개인 지식 엔진'으로 격상. M5 Max는 단순 랩탑이 아닌 '개인용 초저비용 AI 데이터센터'입니다. 현타는 하드웨어가 아닌 '도구와 생태계의 부족'에서 왔음을 인지하고 DeepSeek-V4와 Obsidian/RAG를 연계하여 사적 지식망(L2 Brain) 구축에 집중.
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 - [[https://github.com/karpathy/llm-wiki]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]

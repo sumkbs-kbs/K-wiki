@@ -1,13 +1,13 @@
 ---
 id: be46dc1a
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.5
 tags: [projects, 배포, 운영, devops, scp]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 배포 워크플로우 — SCP 직접 전송 방식]]
+# [[Projects/Plantler 배포 워크플로우 — SCP 직접 전송 방식.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 리포지토리 크기가 **24GB 이상** (`.venv`, 로컬 캐시, AI 모델 포함). Git push로는 사실상 배포 불가능.
@@ -33,6 +33,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Plantler v2.0 프로젝트 회고]], [[Plantler 아키텍처 의사결정 기록]], [[Plantler 프로젝트 개요 — 식물 관리 AI 앱]]
-- **Raw Source:** [[00_Raw/04_배포_워크플로우.md]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Decisions/Plantler v2.0 프로젝트 회고.md]], [[Decisions/Plantler 아키텍처 의사결정 기록.md]], [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]]
+- **Raw Source:** Projects/Plantler 배포 워크플로우 — SCP 직접 전송 방식

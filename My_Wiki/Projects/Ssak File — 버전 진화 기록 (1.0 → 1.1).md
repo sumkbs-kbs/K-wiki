@@ -1,13 +1,13 @@
 ---
 id: d1f5f02b
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.5
 tags: [projects, 프로젝트, 버전관리, 진화]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak File — 버전 진화 기록 (1.0 → 1.1)]]
+# [[Projects/Ssak File — 버전 진화 기록 (1.0 → 1.1).md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Ssak File(ssakfile_pro)은 기업 환경에서 문서를 AI로 검색·관리하는 데스크탑 프로그램이다.
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램_1]], [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]], [[Ssak_Reader_AI_의미론적_검색_아키텍처.md]]
 - **Raw Source:** [[00_Raw/17_SsakFile_버전_진화.md]]

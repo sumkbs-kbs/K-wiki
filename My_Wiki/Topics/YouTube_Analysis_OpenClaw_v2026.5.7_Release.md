@@ -68,17 +68,17 @@ WhatsApp / Telegram / OpenAI / Codex / Tavily / cron / gateway 전반에 걸친 
 5. **오픈소스 기여 활발:** 22명 기여자 → 커뮤니티 성장을 통한 품질 향상
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
-- [[AntiGraffiti-K]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_OpenClaw_5Agents_CodingFree]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_lat.md_Knowledge_Graph]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Wiki_Tree_Architecture.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_OpenClaw_5Agents_CodingFree.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- YouTube_Analysis_lat.md_Knowledge_Graph
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## 비교: OpenClaw 관련 영상들
 
@@ -90,4 +90,4 @@ WhatsApp / Telegram / OpenAI / Codex / Tavily / cron / gateway 전반에 걸친 
 | HyperFrames 음성/영상 자동화 | 에딕초이 | VoiceBox + HyperFrames |
 
 ## M5 Max/OpenClaw 연계성
-[[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 로컬 M5 Max 128GB 환경에서 OpenClaw를 self-hosted ai agent platform으로 운영할 경우, v2026.5.7의 보안 강화(_owner enforcement, admin scope)는 다중 에이전트 운영 시 필수적인 권한 관리 기능입니다. 특히 ClawHub 생태계에서 플러그인을 다운로드/활용하면 [[WikiTree_Architecture]]의 지식 그래프 구조와 시너지를 낼 수 있습니다.
+[[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]에서 제안한 로컬 M5 Max 128GB 환경에서 OpenClaw를 self-hosted ai agent platform으로 운영할 경우, v2026.5.7의 보안 강화(_owner enforcement, admin scope)는 다중 에이전트 운영 시 필수적인 권한 관리 기능입니다. 특히 ClawHub 생태계에서 플러그인을 다운로드/활용하면 [[Topics/Wiki_Tree_Architecture.md]]의 지식 그래프 구조와 시너지를 낼 수 있습니다.

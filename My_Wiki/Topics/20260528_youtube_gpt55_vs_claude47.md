@@ -51,5 +51,5 @@ related: [[YouTube_Analysis_GPT_5.5_vs_Claude_4.7_Verdict.html]], [[My_Wiki/Memo
 
 | 문서 | 요약 |
 |------|------|
-| [[YouTube_Analysis_Graphify_Token_Reduction.md]] | AI 코딩 비용 절감을 위한 토큰 최적화 |
+| YouTube_Analysis_Graphify_Token_Reduction | AI 코딩 비용 절감을 위한 토큰 최적화 |
 | [[YouTube_Analysis_Qwen_3.7_Max_Chinese_AI_Frontier.html]] | 중국산 Frontier 모델 동향 |

@@ -1,13 +1,13 @@
 ---
 id: f389419a
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.667
 tags: [projects, 교훈, 실전, 개발철학, 품질관리]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 개발 과정에서 배운 실전 교훈들]]
+# Plantler 개발 과정에서 배운 실전 교훈들
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - `flutter analyze`로 **제로 에러 상태**를 목표로 유지
@@ -30,6 +30,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Plantler 배포 워크플로우 — SCP 직접 전송 방식]], [[Plantler 백업복원 시스템 통합기]], [[Plantler AI 식물 분석 시스템]]
-- **Raw Source:** [[00_Raw/10_개발_교훈_모음.md]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Projects/Plantler 배포 워크플로우 — SCP 직접 전송 방식.md]], Plantler 백업복원 시스템 통합기, [[Topics/Plantler AI 식물 분석 시스템.md]]
+- **Raw Source:** Projects/Plantler 개발 과정에서 배운 실전 교훈들

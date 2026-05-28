@@ -11,7 +11,7 @@ source:
   - https://www.morganstanley.com/insights/articles/ai-market-trends-institute-2026
   - https://llm-stats.com/ai-news
 related:
-  - [[AI_Technology_Dashboard_20260520]], [[AI_Technology_Dashboard_20260516]]
+  - AI_Technology_Dashboard_20260520, [[Topics/AI_Technology_Dashboard_20260516.md]]
 summary: "Anthropic Glasswing/Opus 4.7, Meta ARI 인수, Korea AI humanoid 3350만불, Config 로봇데이터 TSMC, DeepSeek V4 영구가격인하"
 ---
 

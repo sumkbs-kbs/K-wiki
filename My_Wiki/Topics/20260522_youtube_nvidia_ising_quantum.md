@@ -4,7 +4,7 @@ type: topic
 tags: [quantum, nvidia, ising, darpa, harq, 양자컴퓨팅]
 date: 2026-05-22
 source: https://www.youtube.com/watch?v=jA4TXT6EK8M
-related: [[AI_Technology_Dashboard_20260526.md]]
+related: AI_Technology_Dashboard_20260526
 summary: "NVIDIA Ising 모델군과 DARPA HARQ 프로그램 분석 — 양자 컴퓨팅의 하드웨어→레이어 전략 전환"
 ---
 

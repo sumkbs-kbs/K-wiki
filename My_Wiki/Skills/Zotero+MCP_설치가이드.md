@@ -4,7 +4,7 @@ type: skill
 tags: [zotero, zotero-mcp, mcp-server, 설치가이드, 연구자료관리, pk-workflow]
 date: 2026-05-25
 source: "https://github.com/54yyyu/zotero-mcp"
-related: [[Zotero]], [[LLM Wiki]], [[https://www.notion.so/notebooklm-py]]
+related: [[Skills/Zotero+MCP_설치가이드.md]], [[LLM Wiki]], [[https://www.notion.so/notebooklm-py]]
 summary: "Zotero 데스크톱 + Zotero MCP 서버 설치·설정 및 Hermes Agent 연동 가이드"
 ---
 

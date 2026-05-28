@@ -7,7 +7,7 @@ status: Refined
 collector: Hermes Agent via RSS + Browser
 sources: HuggingFace Blog, Hacker News, TechCrunch AI/Robotics, Naver News
 tags: [AI, LLM, physical-ai, robotics, agentic, vllm, openai, multimodal, 2026-05-16]
-related: [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_Analysis_EZER_AI_Agent_University.md]], [[WikiTree_Architecture]], [[AI_LLM_Agent_News_Dashboard_20260514]]
+related: [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]], [[Topics/Website_Analysis_EZER_AI_Agent_University.md]], [[Topics/Wiki_Tree_Architecture.md]], [[Projects/AI_LLM_Agent_News_Dashboard_20260514.md]]
 ---
 
 # AI/LLM/Physical AI 최신 기술정보 대시보드 (2026-05-16)
@@ -29,7 +29,7 @@ related: [[M5Max_Local_LLM_Strategy_and_Wiki]], [[Website_Analysis_EZER_AI_Agent
 - 이란-미군 갈등 격화, 인도 유조선 침몰, 중국 선박 30척 통과 허용.
 - **재태크 인사이트**: 유가 급등 → AI 데이터센터 에너지 비용 상승 리스크. 금리 불안 → AI 스타트업 자금조달 어려움. **금/에너지/방산 투자 연관성 높음.**
 
-**관련 Wiki**: [[M5Max_Local_LLM_Strategy_and_Wiki]], [[AntiGraffiti-K]]
+**관련 Wiki**: [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]], [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 
 ---
 

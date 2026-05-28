@@ -3,7 +3,7 @@ id: YT20260521-001
 title: Hermes 파운데이션 릴리스 분석
 tags: [hermes,nousresearch,agent,foundation,subscription,window,faster-browser]
 date: 2026-05-21
-related: [[99_Youtube_Analysis_MOC]]
+related: [[Topics/99_Youtube_Analysis_MOC.md]]
 source: AI Stack Engineer
 duration: 10분
 summary: Hermes 파운데이션 기반 릴리스와 단일 구독 모델, 네이티브 윈도우 지원, 180배 더 빠른 브라우저 기능에 대한 분석

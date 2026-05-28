@@ -1,13 +1,13 @@
 ---
 id: f79784f7
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 1.0
 tags: [topics, 경고억제, 터미널관리, c라이브러리, 클린코드]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Reader 경고 억제 시스템 — 깨끗한 터미널의 기술]]
+# Ssak Reader 경고 억제 시스템 — 깨끗한 터미널의 기술
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 프로그램을 실행하면 수십 줄의 경고 메시지가 터미널을 덮었다:
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Plantler 개발 과정에서 배운 실전 교훈들_1]], [[Plantler 개발 과정에서 배운 실전 교훈들]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Plantler 개발 과정에서 배운 실전 교훈들_1]], Plantler 개발 과정에서 배운 실전 교훈들, [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]]
 - **Raw Source:** [[00_Raw/14_SsakReader_경고억제_기술.md]]

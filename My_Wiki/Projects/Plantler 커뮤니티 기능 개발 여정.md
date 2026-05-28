@@ -1,13 +1,13 @@
 ---
 id: 313fed65
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 0.667
 tags: [projects, 커뮤니티, 소셜, 길드, 피드]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Plantler 커뮤니티 기능 개발 여정]]
+# [[Projects/Plantler 커뮤니티 기능 개발 여정.md]]
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > - 사용자가 식물 사진과 함께 글을 올릴 수 있는 SNS 피드 구현
@@ -28,6 +28,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Plantler 프로젝트 개요 — 식물 관리 AI 앱]], [[Plantler 인증 시스템 진화 기록]], [[Python 디자인 패턴 가이드]]
-- **Raw Source:** [[00_Raw/05_커뮤니티_기능_여정.md]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Decisions/Plantler 프로젝트 개요 — 식물 관리 AI 앱.md]], [[Projects/Plantler 인증 시스템 진화 기록.md]], [[Skills/Python 디자인 패턴 가이드.md]]
+- **Raw Source:** Projects/Plantler 커뮤니티 기능 개발 여정

@@ -71,16 +71,16 @@ tags: [youtube, obsidian, marktl, karpathy_html_era, codex_cli, claude_cli, gith
 5. **CLI 자동화 연동**: Codex CLI / Claude CLI 연동으로 Obsidian → 블로그 자동화
 
 ## 관련 문서
-- [[Wiki_Tree_Architecture]]
+- [[Topics/Wiki_Tree_Architecture.md]]
 - [[https://github.com/karpathy/llm-wiki]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
-- [[M5Max_Local_LLM_Strategy_and_Wiki]]
-- [[YouTube_Analysis_Obsidian_ClaudeCode_RawWiki]]
-- [[YouTube_Analysis_Graphify_Token_Reduction]]
-- [[YouTube_Analysis_Hermes_Obsidian_Omi_Memory]]
-- [[YouTube_Analysis_Woorkpay0_AI_Company]]
-- [[YouTube_Analysis_lat.md_Knowledge_Graph]]
-- [[Website_Analysis_EZER_AI_Agent_University]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
+- [[Topics/YouTube_Analysis_Obsidian_ClaudeCode_RawWiki.md]]
+- [[Topics/YouTube_Analysis_Graphify_Token_Reduction.md]]
+- [[Topics/YouTube_Analysis_Hermes_Obsidian_Omi_Memory.md]]
+- [[Topics/YouTube_Analysis_Woorkpay0_AI_Company.md]]
+- YouTube_Analysis_lat.md_Knowledge_Graph
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]
 
 ## M5 Max 연계성: Obsidian + MarkTL + 로컬 LLM
-[[M5Max_Local_LLM_Strategy_and_Wiki]]에서 제안한 Obsidian + 로컬 LLM 아키텍처의 실제 구현 사례입니다. MarkTL 플러그인이 Obsidian(CLI) ↔ GitHub Pages 간 브릿지 역할을 하며, 로컬 DeepSeek-V4-Flash가 콘텐츠 생성/다듬기 작업을 맡으면 완전히 프라이빗한 자동 블로그 파이프라인이 완성됩니다. 특히 "One Source, Multi Use" 철학은 [[WikiTree_Architecture]]의 "증분 업데이트" 전략과도 완전히 일치합니다.
+[[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]에서 제안한 Obsidian + 로컬 LLM 아키텍처의 실제 구현 사례입니다. MarkTL 플러그인이 Obsidian(CLI) ↔ GitHub Pages 간 브릿지 역할을 하며, 로컬 DeepSeek-V4-Flash가 콘텐츠 생성/다듬기 작업을 맡으면 완전히 프라이빗한 자동 블로그 파이프라인이 완성됩니다. 특히 "One Source, Multi Use" 철학은 [[Topics/Wiki_Tree_Architecture.md]]의 "증분 업데이트" 전략과도 완전히 일치합니다.

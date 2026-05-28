@@ -1,13 +1,13 @@
 ---
 id: 96a35552
-category: "[[10_Wiki/Projects]]"
+category: "[[Projects/index]]"
 confidence_score: 1.0
 tags: [projects, windows, 호환성, 인코딩, pyinstaller]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Reader Windows 호환성 이슈 모음]]
+# Ssak Reader Windows 호환성 이슈 모음
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > 한국어 Windows는 기본적으로 **CP949** 인코딩을 사용한다.
@@ -32,6 +32,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Projects]]
-- **Related:** [[Ssak Reader 오프라인 모델 배포 전략]], [[Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램]], [[Ssak Reader 데이터베이스 동시성 문제와 해결]]
+- **Parent:** [[Projects/index]]
+- **Related:** [[Projects/Ssak Reader 오프라인 모델 배포 전략.md]], [[Projects/Ssak Reader (ssakfile_pro) — AI 기반 문서 관리 프로그램.md]], Ssak Reader 데이터베이스 동시성 문제와 해결
 - **Raw Source:** [[00_Raw/16_SsakReader_Windows_호환성.md]]

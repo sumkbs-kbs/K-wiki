@@ -48,7 +48,7 @@ status: To_be_Refined
 
 ## 관련 문서
 - [[FineTuning_Datasets]]
-- [[AntiGraffiti-K]]
+- [[Projects/M5Max_Local_LLM_Strategy_and_Wiki.md]]
 - [[https://github.com/karpathy/llm-wiki]]
 - [[Obsidian_Automation]]
-- [[Website_Analysis_EZER_AI_Agent_University.md]]
+- [[Topics/Website_Analysis_EZER_AI_Agent_University.md]]

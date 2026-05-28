@@ -4,7 +4,7 @@ type: news
 tags: [ai-literacy, prompting, language-skills, ai-training, joongang-ilbo, questioning]
 date: 2026-05-24
 source: "https://www.joongang.co.kr/article/25430744"
-related: [[20260524_news_anthropic_5_principles_working_with_ai.md]], [[20260524_news_ai_language_skills_talent.md]]
+related: 20260524_news_anthropic_5_principles_working_with_ai, [[Topics/20260524_news_ai_language_skills_talent.md]]
 summary: "기업들 AI 교육 초점이 프롬프트 엔지니어링 → 논리적 글쓰기·문해력으로 전환. '질문 능력'이 AI 사용 성패를 가르는 시대"
 ---
 
@@ -82,8 +82,8 @@ AI 활용이 일상화되면서 **결과물의 차이를 좌우하는 것은 이
 
 ## 🔗 연결 개념
 
-- [[20260524_news_anthropic_5_principles_working_with_ai.md]]: "맥락을 인프라처럼", "취향을 설정처럼" → 이 기사와 동일 방향
-- [[20260525_news_ms_fara15_browser_agent.md]]: 모델性能보다 **질문의 질**이 결과물을 결정 — 2개 기사가 교차印证
+- 20260524_news_anthropic_5_principles_working_with_ai: "맥락을 인프라처럼", "취향을 설정처럼" → 이 기사와 동일 방향
+- 20260525_news_ms_fara15_browser_agent: 모델性能보다 **질문의 질**이 결과물을 결정 — 2개 기사가 교차印证
 
 ---
 

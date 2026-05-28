@@ -1,13 +1,13 @@
 ---
 id: 5136cf2c
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 0.667
 tags: [topics, lazyloading, 최적화, customtkinter, 모듈화]
 last_reinforced: 2026-04-15
 github_commit: "pending"
 ---
 
-# [[Ssak Language — 프레임 Lazy Loading으로 앱 시작 최적화]]
+# Ssak Language — 프레임 Lazy Loading으로 앱 시작 최적화
 
 ## 📌 한 줄 통찰 (The Karpathy Summary)
 > Ssak Language는 11개의 학습 모듈(프레임)을 가지고 있다.
@@ -35,6 +35,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Ssak Language — AI 기반 다국어 학습 프로그램]], [[Ssak Language — AI 모델 3단 폴백 전략]], [[Ssak Language — 게이미피케이션과 프리미엄 수익 모델]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Topics/Ssak Language — AI 기반 다국어 학습 프로그램.md]], [[Topics/Ssak Language — AI 모델 3단 폴백 전략.md]], Ssak Language — 게이미피케이션과 프리미엄 수익 모델
 - **Raw Source:** [[00_Raw/25_SsakLanguage_Lazy_Loading_프레임.md]]

@@ -5,7 +5,7 @@ type: research
 source: YouTube (David Alex, 2026-05-13, 6,392 views)
 date: 2026-05
 tags: [Kimi, K2.6, Moonshot AI, Agent Swarm, 에이전트, 개방형 모델, 1조 파라미터, 프롬프트 기반]
-related: [[YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편.md]], [[YouTube_Analysis_Threads_Automation_Open_Source_Code.md]], [[M5Max_Local_LLM_전략.md]]
+related: YouTube_Analysis_Hermes_Agent_Codex_설치_풀가이드_1편, YouTube_Analysis_Threads_Automation_Open_Source_Code, [[M5Max_Local_LLM_전략.md]]
 ---
 
 ## 핵심 요약

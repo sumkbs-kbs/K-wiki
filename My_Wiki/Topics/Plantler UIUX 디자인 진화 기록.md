@@ -1,6 +1,6 @@
 ---
 id: 1e8e5885
-category: "[[10_Wiki/Topics]]"
+category: "[[Topics/index]]"
 confidence_score: 1.0
 tags: [topics, 디자인, ui, ux, 글래스모피즘]
 last_reinforced: 2026-04-15
@@ -30,6 +30,6 @@ github_commit: "pending"
 - **정책 변화:** 이 문서를 통해 분류 정책에 변화 없음.
 
 ## 🔗 지식 연결 (Graph)
-- **Parent:** [[Topics]]
-- **Related:** [[Plantler 커뮤니티 기능 개발 여정]], [[Plantler 게이미피케이션 시스템]], [[Python 디자인 패턴 가이드]]
-- **Raw Source:** [[00_Raw/09_UI_UX_디자인_진화.md]]
+- **Parent:** [[Topics/index]]
+- **Related:** [[Projects/Plantler 커뮤니티 기능 개발 여정.md]], [[Decisions/Plantler 게이미피케이션 시스템.md]], [[Skills/Python 디자인 패턴 가이드.md]]
+- **Raw Source:** Projects/Plantler UI 및 AI 고도화 작업 내역
