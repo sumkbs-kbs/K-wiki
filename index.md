@@ -5,6 +5,7 @@
 
 ## 최근 변경 사항 (최신순)
 
+|| **2026-05-30** — AI/LLM/Physical AI 기술 대시보드 추가 (Liquid AI LFM2.5-8B-A1B On-Device MoE, June 2026 AI Launch Wave: Claude Opus 4.8/Mythos 1/Gemini 3.5 Pro/GPT-5.6, Mistral AI Now Summit+Physics AI, SoftBank-ABB Robotics $5.4B, NVIDIA Cosmos 생태계, 한국 Physical AI Investment 집중, KOSPI 8,476신기록/SK하이닉스 $1T, Tiny-vLLM/C++ CUDA, Modular MAX, 한국robotics RFM 투자, 기후테크 $1조 전망)
 | | | **2026-05-26** — 선박 전기 설계 Wiki 추가: Busduct(부스덕트) — IEC 60092 연계, Cable 5% 절감 전략과 연계 |
 || **2026-05-26** — 신개념 LNGC 컨셉 보고서 추가 — SMR, OCCS, WAPS, Hybrid Electric, Multi-Fuel(GTT Mark III Flex), X-BOW/Air Lubrication, Busduct 연계, 경제성 분석, 2031 상용화 로드맵 |
 | | | **2026-05-26** — Website Analysis: Hada.geekNews #29682 "LLM의 지난 6개월을 5분 만에 보기" (Simon Willison PyCon US 2026) — 코딩 에이전트 실용화 임계점, RLVR, 펠리컨 테스트, 로컬 모델 비약 (20GB급 노트북 구동)
@@ -59,7 +60,7 @@
 
 > `/Users/mr.k/wiki/My_Wiki/` 하위에 정리된 개인 지식베이스
 
-#### 📁 Topics (주제별 지식 — 39건)
+#### 📁 Topics (주제별 지식 — 40건)
 - **IEC 60092 선박 전기 표준**
   - [IEC 60092-101 General](My_Wiki/Topics/IEC_60092-101_General.md)
   - [IEC 60092-201 System Design](My_Wiki/Topics/IEC_60092-201_System_Design.md)
@@ -178,6 +179,8 @@
 ---
 
 ### 5.2 AI/LLM/Physical AI 기술 대시보드 (신규)
+#### 📁 2026-05-30 최신 기술 동향
+- [AI/LLM/Physical AI 기술 대시보드(2026-05-30)](My_Wiki/Topics/AI_Technology_Dashboard_20260530.md) — Liquid AI LFM2.5-8B-A1B On-Device MoE, June 2026 AI Launch Wave, Mistral AI Now Summit+Physics AI, SoftBank-ABB Robotics, NVIDIA Cosmos 생태계, KOSPI 8,476/SK하이닉스 $1T
 #### 📁 2026-05-26 최신 기술 동향
 - [AI/LLM/Physical AI 기술 대시보드(2026-05-26)](My_Wiki/Topics/AI_Technology_Dashboard_20260526.md) — Gemini 3.5 Flash/GPT-5.5/Grok 4.3 모델 경쟁, Mind Robotics $1B, SoftBank OpenAI IPO 기대, US-Iran 평화협정/호르무즈해협, 교황 AI 백서, Config 로봇데이터 TSMC, DeepSeek 저가 파괴
 #### 📁 2026-05-23 최신 기술 동향
@@ -245,4 +248,4 @@
 | **GitHub 레포 분석**: 15개 프로젝트 인덱스 + 11개 lock 파일 (정리 필요)
 | **프로젝트 분석**: 2건 (Antigravity-K 정밀적 2건, YouTube Hermes 명령어 가이드 1건)
 | **000-Inbox**: 0건 (모든 파일 Topics/로 분류 완료, 2026-05-16)
-| | **최종 업데이트**: 2026-05-26 (AI/LLM/Physical AI 기술 대시보드 추가 + 금융시장 동향 + index.md 구조화)
+|| | **최종 업데이트**: 2026-05-30 (AI/LLM/Physical AI 기술 대시보드 추가 + index.md 업데이트)
